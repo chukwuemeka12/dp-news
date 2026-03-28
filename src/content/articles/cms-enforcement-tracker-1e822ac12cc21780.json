@@ -1,0 +1,23 @@
+{
+  "id": "cms-enforcement-tracker-1e822ac12cc21780",
+  "title": "FRANCE enforcement action against FREE MOBILE (27,000,000)",
+  "source": "CMS Enforcement Tracker",
+  "sourceId": "cms-enforcement-tracker",
+  "sourceUrl": "https://www.enforcementtracker.com/",
+  "publishedDate": "2026-01-08",
+  "decisionDate": "2026-01-08",
+  "authorityPublicationDate": null,
+  "platformPublicationDate": null,
+  "summary": "Insufficient technical and organisational measures to ensure information security The French DPA has imposed a fine of EUR 27,000,000 on FREE MOBILE. The controller suffered a data breach due to insufficient technical and organisational measures. This was caused by using an inadequate authentication procedure to connect to their VPN for r...",
+  "category": "decisions",
+  "dedupKey": "france enforcement action against free mobile 27 000 000|2026-01-08",
+  "tags": [
+    "enforcement",
+    "fines",
+    "france",
+    "media-telecoms-and-broadcasting",
+    "etid-2993"
+  ],
+  "originalLink": "https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000053352664",
+  "fetchedAt": "2026-03-28T17:30:01.319Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "cms-enforcement-tracker-eb78e06c35644737",
+  "title": "ROMANIA enforcement action against Alliance for the Union of Romanians (AUR) Party (1,000)",
+  "source": "CMS Enforcement Tracker",
+  "sourceId": "cms-enforcement-tracker",
+  "sourceUrl": "https://www.enforcementtracker.com/",
+  "publishedDate": "2026-02-03",
+  "decisionDate": "2026-02-03",
+  "authorityPublicationDate": null,
+  "platformPublicationDate": null,
+  "summary": "Insufficient fulfilment of data subjects rights The Romanian DPA has imposed a fine of EUR 1,000 on the Alliance for the Union of Romanians (AUR) Party. The controller failed to react adequately to a data subject's request to exercise their rights regarding a personal letter containing electoral information. Legal basis: Art. 12 (3), (4)...",
+  "category": "decisions",
+  "dedupKey": "romania enforcement action against alliance for the union of romanians aur party 1 000|2026-02-03",
+  "tags": [
+    "enforcement",
+    "fines",
+    "romania",
+    "individuals-and-private-associations",
+    "etid-3015"
+  ],
+  "originalLink": "https://www.dataprotection.ro/?page=Comunicat_Presa_03_02_2026",
+  "fetchedAt": "2026-03-28T17:30:01.319Z"
+}

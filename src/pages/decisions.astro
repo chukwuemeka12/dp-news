@@ -1,0 +1,52 @@
+---
+import ArticleCard from '../components/ArticleCard.astro';
+import Base from '../layouts/Base.astro';
+import { getArticlesByCategory, getStatusSnapshot } from '../lib/content';
+
+const decisions = await getArticlesByCategory('decisions');
+const status = await getStatusSnapshot();
+---
+
+<Base
+	title="DPA News | Decisions"
+	description="Recent enforcement actions, rulings, and case law tracked by DPA News."
+>
+	<section class="hero-card">
+		<div class="hero-copy">
+			<p class="eyebrow">Decisions</p>
+			<h2>Recent enforcement and case-law signals.</h2>
+			<p>
+				This view concentrates the current MVP’s decisions coverage, including regulator enforcement updates,
+				GDPRhub additions, and structured entries from the CMS Enforcement Tracker.
+			</p>
+		</div>
+
+		<div class="stats-grid">
+			<div class="stat-card">
+				<span class="stat-label">Decision items</span>
+				<span class="stat-value">{status?.totals.byCategory.decisions ?? 0}</span>
+			</div>
+		</div>
+	</section>
+
+	<section>
+		<div class="section-header">
+			<div>
+				<h2 class="section-title">Decision feed</h2>
+				<p class="section-subtitle">Ordered by publication date, newest first.</p>
+			</div>
+		</div>
+
+		{
+			decisions.length > 0 ? (
+				<div class="article-grid">
+					{decisions.map((article) => <ArticleCard article={article} />)}
+				</div>
+			) : (
+				<div class="empty-state">
+					<p>No decision items are available yet.</p>
+				</div>
+			)
+		}
+	</section>
+</Base>

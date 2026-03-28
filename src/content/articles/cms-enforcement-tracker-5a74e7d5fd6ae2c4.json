@@ -1,0 +1,23 @@
+{
+  "id": "cms-enforcement-tracker-5a74e7d5fd6ae2c4",
+  "title": "NORWAY enforcement action against Timegrip AS (21,650)",
+  "source": "CMS Enforcement Tracker",
+  "sourceId": "cms-enforcement-tracker",
+  "sourceUrl": "https://www.enforcementtracker.com/",
+  "publishedDate": "2026-01-16",
+  "decisionDate": "2026-01-16",
+  "authorityPublicationDate": null,
+  "platformPublicationDate": null,
+  "summary": "Insufficient fulfilment of data subjects rights The Norwegian DPA has imposed a fine of EUR 21,650 on Timegrip AS. The controller had been tracking the working hours of employees at a company that went bankrupt. A former employee requested that the controller send the working hours to the data subject so that they could claim their unpaid...",
+  "category": "decisions",
+  "dedupKey": "norway enforcement action against timegrip as 21 650|2026-01-16",
+  "tags": [
+    "enforcement",
+    "fines",
+    "norway",
+    "employment",
+    "etid-3000"
+  ],
+  "originalLink": "https://www.datatilsynet.no/contentassets/fd51778709a14285a13d4cca9fc481f6/20206-01-16-vedtak---timegrip-offentlig-versjon.pdf",
+  "fetchedAt": "2026-03-28T17:30:01.319Z"
+}

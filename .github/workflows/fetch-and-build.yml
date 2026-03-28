@@ -1,0 +1,54 @@
+name: Fetch and Build
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+concurrency:
+  group: dp-news-fetch-and-build
+  cancel-in-progress: false
+
+jobs:
+  fetch-build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Fetch RSS sources
+        run: npm run fetch:rss
+
+      - name: Fetch GDPRhub updates
+        run: npm run fetch:gdprhub
+
+      - name: Fetch enforcement tracker updates
+        run: npm run fetch:enforcement
+
+      - name: Build site
+        run: npm run build
+
+      - name: Commit content updates
+        run: |
+          if git diff --quiet; then
+            echo "No content changes to commit."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add src/content/articles src/content/system/status.json
+          git commit -m "chore: refresh aggregated content"
+          git push

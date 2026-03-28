@@ -1,0 +1,24 @@
+{
+  "id": "cms-enforcement-tracker-39a87e19254d77b1",
+  "title": "ROMANIA enforcement action against Money Seeds S.R.L. (2,000)",
+  "source": "CMS Enforcement Tracker",
+  "sourceId": "cms-enforcement-tracker",
+  "sourceUrl": "https://www.enforcementtracker.com/",
+  "publishedDate": "2026-01-08",
+  "decisionDate": "2026-01-08",
+  "authorityPublicationDate": null,
+  "platformPublicationDate": null,
+  "summary": "Insufficient fulfilment of data subjects rights The Romanian DPA has imposed a fine of EUR 2,000 on Money Seeds S.R.L. The controller failed to fulfil a data subject's request to exercise their rights. Legal basis: Art. 12 GDPR, Art. 13 GDPR, Art. 14 GDPR.",
+  "category": "decisions",
+  "dedupKey": "romania enforcement action against money seeds s r l 2 000|2026-01-08",
+  "tags": [
+    "enforcement",
+    "fines",
+    "romania",
+    "finance-insurance-and-consulting",
+    "etid-2985",
+    "gdpr"
+  ],
+  "originalLink": "https://www.dataprotection.ro/index.jsp?page=Comunicat_Presa_08_01_2026",
+  "fetchedAt": "2026-03-28T17:30:01.319Z"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "cms-enforcement-tracker-f00708908606bb94",
+  "title": "GREECE enforcement action against Headquarter of a Fire Brigade (10,000)",
+  "source": "CMS Enforcement Tracker",
+  "sourceId": "cms-enforcement-tracker",
+  "sourceUrl": "https://www.enforcementtracker.com/",
+  "publishedDate": "2026-01-08",
+  "decisionDate": "2026-01-08",
+  "authorityPublicationDate": null,
+  "platformPublicationDate": null,
+  "summary": "Insufficient legal basis for data processing The Greek DPA has imposed a fine of EUR 10,000 on a Fire Brigade Head Quarter. The controller had stored health data of an employee which had been in relation with her sick leave. The controller stored every detail of the medical condition, treatment and other related data. The ammount of data...",
+  "category": "decisions",
+  "dedupKey": "greece enforcement action against headquarter of a fire brigade 10 000|2026-01-08",
+  "tags": [
+    "enforcement",
+    "fines",
+    "greece",
+    "employment",
+    "etid-2999",
+    "health"
+  ],
+  "originalLink": "https://www.dpa.gr/sites/default/files/2026-01/1_2026%20anonym.pdf",
+  "fetchedAt": "2026-03-28T17:30:01.319Z"
+}

@@ -1,0 +1,51 @@
+---
+import type { ArticleEntry } from '../lib/content';
+import { formatDisplayDate, getArticleDateEntries, getPrimaryArticleDate, getPrimaryArticleDateLabel } from '../lib/content';
+import SourceBadge from './SourceBadge.astro';
+
+interface Props {
+	article: ArticleEntry;
+}
+
+const { article } = Astro.props;
+const { data } = article;
+const dateEntries = getArticleDateEntries(data);
+const primaryDate = getPrimaryArticleDate(data);
+const primaryDateLabel = getPrimaryArticleDateLabel(data);
+---
+
+<article class="article-card">
+	<div class="article-meta">
+		<SourceBadge source={data.source} />
+		<span>{primaryDateLabel}: {formatDisplayDate(primaryDate)}</span>
+		<span class="category-pill">{data.category}</span>
+	</div>
+
+	<h2>
+		<a href={data.originalLink} target="_blank" rel="noreferrer">
+			{data.title}
+		</a>
+	</h2>
+
+	<p>{data.summary}</p>
+
+	{
+		dateEntries.length > 1 && (
+			<div class="date-stack">
+				{dateEntries.map((entry) => (
+					<div class="date-row">
+						<span class="date-label">{entry.label}</span>
+						<span>{formatDisplayDate(entry.date)}</span>
+					</div>
+				))}
+			</div>
+		)
+	}
+
+	<div class="article-footer">
+		<div class="tag-row">
+			{data.tags.slice(0, 4).map((tag) => <span class="tag-chip">{tag}</span>)}
+		</div>
+		<a class="article-link" href={data.originalLink} target="_blank" rel="noreferrer">Read source</a>
+	</div>
+</article>

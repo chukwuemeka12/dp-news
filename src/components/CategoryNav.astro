@@ -1,0 +1,26 @@
+---
+import { PRIMARY_NAV } from '../data/source-config.js';
+
+interface Props {
+	currentPath: string;
+}
+
+const { currentPath } = Astro.props;
+---
+
+<nav class="category-nav" aria-label="Primary">
+	{
+		PRIMARY_NAV.map((item) => {
+			const isActive =
+				item.href === '/'
+					? currentPath === '/'
+					: currentPath === item.href || currentPath.startsWith(item.href);
+
+			return (
+				<a class:list={['nav-link', { active: isActive }]} href={item.href}>
+					{item.label}
+				</a>
+			);
+		})
+	}
+</nav>

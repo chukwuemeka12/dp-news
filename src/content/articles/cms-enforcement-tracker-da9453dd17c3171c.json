@@ -1,0 +1,23 @@
+{
+  "id": "cms-enforcement-tracker-da9453dd17c3171c",
+  "title": "SPAIN enforcement action against Landlord (1,800)",
+  "source": "CMS Enforcement Tracker",
+  "sourceId": "cms-enforcement-tracker",
+  "sourceUrl": "https://www.enforcementtracker.com/",
+  "publishedDate": "2026-02-06",
+  "decisionDate": "2026-02-06",
+  "authorityPublicationDate": null,
+  "platformPublicationDate": null,
+  "summary": "Insufficient legal basis for data processing The Spanish DPA has imposed a fine of EUR 1,800 on a Landlord. The landlord used video surveillance in rental apartments without having a sufficient legal basis. The original fine of EUR 3,000 was reduced to EUR 1,800 due to immediate payment and admission of responsibility by the controller. L...",
+  "category": "decisions",
+  "dedupKey": "spain enforcement action against landlord 1 800|2026-02-06",
+  "tags": [
+    "enforcement",
+    "fines",
+    "spain",
+    "accomodation-and-hospitality",
+    "etid-3056"
+  ],
+  "originalLink": "https://www.aepd.es/documento/ps-00484-2025.pdf",
+  "fetchedAt": "2026-03-28T17:30:01.319Z"
+}

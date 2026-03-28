@@ -1,0 +1,24 @@
+{
+  "id": "cms-enforcement-tracker-911d64f7d6c6d9aa",
+  "title": "ROMANIA enforcement action against Roumasport S.R.L (10,000)",
+  "source": "CMS Enforcement Tracker",
+  "sourceId": "cms-enforcement-tracker",
+  "sourceUrl": "https://www.enforcementtracker.com/",
+  "publishedDate": "2025-12-30",
+  "decisionDate": "2025-12-30",
+  "authorityPublicationDate": null,
+  "platformPublicationDate": null,
+  "summary": "Insufficient technical and organisational measures to ensure information security The Romanian DPA has imposed a fine of EUR 10,000 on Roumasport S.R.L The controller failed to implement adequate technical and organisational measures, resulting in multiple cyber incidents. Legal basis: Art. 32 (1) b) (2) GDPR.",
+  "category": "decisions",
+  "dedupKey": "romania enforcement action against roumasport s r l 10 000|2025-12-30",
+  "tags": [
+    "enforcement",
+    "fines",
+    "romania",
+    "industry-and-commerce",
+    "etid-2984",
+    "gdpr"
+  ],
+  "originalLink": "https://www.dataprotection.ro/index.jsp?page=Comunicat_Presa_30.12.2025",
+  "fetchedAt": "2026-03-28T17:30:01.319Z"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "cms-enforcement-tracker-bd167f5de828fac0",
+  "title": "THE NETHERLANDS enforcement action against Municipality of Huizen (25,000)",
+  "source": "CMS Enforcement Tracker",
+  "sourceId": "cms-enforcement-tracker",
+  "sourceUrl": "https://www.enforcementtracker.com/",
+  "publishedDate": "2026-02-03",
+  "decisionDate": "2026-02-03",
+  "authorityPublicationDate": null,
+  "platformPublicationDate": null,
+  "summary": "Insufficient legal basis for data processing The Dutch DPA has imposed a fine of EUR 25,000 on the Municipality of Huizen. The controller, one of ten municipalities that were fined, processed data regarding the Islamic community in its municipality using a force field analysis, for which it employed an external processor. This processing...",
+  "category": "decisions",
+  "dedupKey": "the netherlands enforcement action against municipality of huizen 25 000|2026-02-03",
+  "tags": [
+    "enforcement",
+    "fines",
+    "the-netherlands",
+    "public-sector-and-education",
+    "etid-3038"
+  ],
+  "originalLink": "https://www.autoriteitpersoonsgegevens.nl/system/files?file=2026-02/boetebesluiten-10-nederlandse-gemeenten-illegaal-verwerken-informatie-islamitische-mensen.pdf",
+  "fetchedAt": "2026-03-28T17:30:01.319Z"
+}

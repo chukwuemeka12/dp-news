@@ -1,0 +1,23 @@
+{
+  "id": "cms-enforcement-tracker-3199f642918a1d2a",
+  "title": "ROMANIA enforcement action against Your Consulting SRL (3,000)",
+  "source": "CMS Enforcement Tracker",
+  "sourceId": "cms-enforcement-tracker",
+  "sourceUrl": "https://www.enforcementtracker.com/",
+  "publishedDate": "2026-02-19",
+  "decisionDate": "2026-02-19",
+  "authorityPublicationDate": null,
+  "platformPublicationDate": null,
+  "summary": "Insufficient technical and organisational measures to ensure information security The Romanian DPA has imposed a fine of EUR 3,000 on Your Consulting SRL. The controller suffered a data leak due to insufficient technical and organisational measures. In particular, the controller failed to regularly test, evaluate and reassess security mea...",
+  "category": "decisions",
+  "dedupKey": "romania enforcement action against your consulting srl 3 000|2026-02-19",
+  "tags": [
+    "enforcement",
+    "fines",
+    "romania",
+    "industry-and-commerce",
+    "etid-3057"
+  ],
+  "originalLink": "https://www.dataprotection.ro/index.jsp?page=Comunicat_Presa_19_02_2026",
+  "fetchedAt": "2026-03-28T17:30:01.319Z"
+}

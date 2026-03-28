@@ -1,0 +1,92 @@
+---
+import Base from '../layouts/Base.astro';
+import { RETENTION_DAYS, MAX_ARTICLES, SOURCE_CONFIG } from '../data/source-config.js';
+import { formatTimestamp, getStatusSnapshot, isSourceFresh } from '../lib/content';
+
+const status = await getStatusSnapshot();
+const statusById = new Map(status?.sources.map((source) => [source.id, source]) ?? []);
+---
+
+<Base
+	title="DPA News | About"
+	description="Methodology and source coverage for the DPA News MVP."
+>
+	<section class="hero-card">
+		<div class="hero-copy">
+			<p class="eyebrow">About the MVP</p>
+			<h2>Built to run quietly, publish quickly, and stay transparent.</h2>
+			<p>
+				DPA News is a brand and intelligence play for the global data protection profession. The MVP favors
+				public feeds and structured APIs so it can run with minimal operator time.
+			</p>
+		</div>
+
+		<div class="stats-grid">
+			<div class="stat-card">
+				<span class="stat-label">Retention policy</span>
+				<p>Last {RETENTION_DAYS} days, capped at {MAX_ARTICLES} items.</p>
+			</div>
+			<div class="stat-card">
+				<span class="stat-label">Last status refresh</span>
+				<p>{formatTimestamp(status?.generatedAt ?? null)}</p>
+			</div>
+		</div>
+	</section>
+
+	<section class="two-column">
+		<div class="method-card">
+			<h3>Methodology</h3>
+			<ul>
+				<li>Sources are configured centrally and fetched by scheduled Node scripts running in GitHub Actions.</li>
+				<li>Each article uses a composite ID based on source, normalized title, date, and canonical link for stable upserts.</li>
+				<li>Cards can carry up to three separate dates: decision date, authority publication date, and platform publication date.</li>
+				<li>Source health is written to `status.json` so stale feeds can be detected without reading action logs.</li>
+				<li>Content is retained as JSON in git for a rolling {RETENTION_DAYS}-day window, with a hard cap of {MAX_ARTICLES} items.</li>
+				<li>Category assignment is rule-based for the MVP and can be refined later with additional editorial logic.</li>
+			</ul>
+		</div>
+
+		<div class="method-card">
+			<h3>Important caveat</h3>
+			<p>
+				Summaries on this site are generated automatically from public source material. They may be incomplete,
+				lag behind the underlying source, or mischaracterize context. Always follow the original link before
+				relying on any item.
+			</p>
+		</div>
+	</section>
+
+	<section class="source-list">
+		<h3>Current source set</h3>
+		<ul>
+			{
+				SOURCE_CONFIG.map((source) => {
+					const runtime = statusById.get(source.id);
+					const fresh = runtime ? isSourceFresh(runtime) : false;
+
+					return (
+						<li>
+							<div class="source-row">
+								<strong>{source.name}</strong>
+								<span class:list={['health-pill', { stale: !fresh }]}>{fresh ? 'Fresh' : 'Needs attention'}</span>
+							</div>
+							<p>{source.description}</p>
+							<p>
+								Default category: <strong>{source.defaultCategory}</strong>. Last success:{' '}
+								{formatTimestamp(runtime?.lastSuccessAt ?? null)}
+							</p>
+							<p>
+								Date model: <strong>{source.publicationDateSemantics.replaceAll('_', ' / ')}</strong>
+							</p>
+							<p>
+								<a href={source.siteUrl} target="_blank" rel="noreferrer">Homepage</a>{' '}
+								·{' '}
+								<a href={source.feedUrl ?? source.endpoint} target="_blank" rel="noreferrer">Feed or API endpoint</a>
+							</p>
+						</li>
+					);
+				})
+			}
+		</ul>
+	</section>
+</Base>

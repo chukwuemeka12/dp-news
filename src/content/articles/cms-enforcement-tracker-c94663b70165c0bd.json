@@ -1,0 +1,23 @@
+{
+  "id": "cms-enforcement-tracker-c94663b70165c0bd",
+  "title": "FRANCE enforcement action against FRANCE TRAVAIL (5,000,000)",
+  "source": "CMS Enforcement Tracker",
+  "sourceId": "cms-enforcement-tracker",
+  "sourceUrl": "https://www.enforcementtracker.com/",
+  "publishedDate": "2026-01-22",
+  "decisionDate": "2026-01-22",
+  "authorityPublicationDate": null,
+  "platformPublicationDate": null,
+  "summary": "Insufficient technical and organisational measures to ensure information security The French DPA has imposed a fine of EUR 5,000,000 on FRANCE TRAVAIL. The controller suffered a successful cyber attack due to insufficient technical and organisational measures, resulting in the leak of personal and special category data concerning 38,820,8...",
+  "category": "decisions",
+  "dedupKey": "france enforcement action against france travail 5 000 000|2026-01-22",
+  "tags": [
+    "enforcement",
+    "fines",
+    "france",
+    "public-sector-and-education",
+    "etid-3026"
+  ],
+  "originalLink": "https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000053408671",
+  "fetchedAt": "2026-03-28T17:30:01.319Z"
+}

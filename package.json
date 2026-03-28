@@ -1,17 +1,28 @@
 {
-  "name": "users-c-cameron-dp-news",
+  "name": "dp-news",
   "type": "module",
   "version": "0.0.1",
+  "description": "DPA News is a static aggregation site for global data protection news and enforcement developments.",
   "engines": {
     "node": ">=22.12.0"
   },
   "scripts": {
     "dev": "astro dev",
+    "fetch:rss": "node ./scripts/fetch-rss.js",
+    "fetch:gdprhub": "node ./scripts/fetch-gdprhub.js",
+    "fetch:enforcement": "node ./scripts/fetch-enforcement.js",
+    "fetch:all": "node ./scripts/fetch-all.js",
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^6.1.1"
-  }
+    "astro": "^6.1.1",
+    "rss-parser": "^3.13.0"
+  },
+  "main": "index.js",
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }

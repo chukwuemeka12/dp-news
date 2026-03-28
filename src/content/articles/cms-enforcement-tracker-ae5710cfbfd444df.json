@@ -1,0 +1,24 @@
+{
+  "id": "cms-enforcement-tracker-ae5710cfbfd444df",
+  "title": "ITALY enforcement action against Dr. Paolo Montemurro (5,000)",
+  "source": "CMS Enforcement Tracker",
+  "sourceId": "cms-enforcement-tracker",
+  "sourceUrl": "https://www.enforcementtracker.com/",
+  "publishedDate": "2026-01-29",
+  "decisionDate": "2026-01-29",
+  "authorityPublicationDate": null,
+  "platformPublicationDate": null,
+  "summary": "Insufficient legal basis for data processing The Italian DPA has imposed a fine of EUR 5,000 on the medical professional Dr. Paolo Montemurro. The controller published several photographs showing the results of a rhinoseptoplasty procedure. As the patient did not consent to the publication of the pictures, the post has no sufficient legal...",
+  "category": "decisions",
+  "dedupKey": "italy enforcement action against dr paolo montemurro 5 000|2026-01-29",
+  "tags": [
+    "enforcement",
+    "fines",
+    "italy",
+    "health-care",
+    "etid-3059",
+    "health"
+  ],
+  "originalLink": "https://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/10220271",
+  "fetchedAt": "2026-03-28T17:30:01.319Z"
+}

@@ -1,0 +1,50 @@
+---
+import CategoryNav from '../components/CategoryNav.astro';
+import '../styles/global.css';
+
+interface Props {
+	title: string;
+	description: string;
+}
+
+const { title, description } = Astro.props;
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<meta name="description" content={description} />
+		<meta name="generator" content={Astro.generator} />
+		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<link rel="icon" href="/favicon.ico" />
+		<title>{title}</title>
+	</head>
+	<body>
+		<div class="page-shell">
+			<header class="site-header">
+				<div class="brand-lockup">
+					<a class="brand-mark" href="/">DPA</a>
+					<div>
+						<p class="eyebrow">Global Data Protection Monitor</p>
+						<h1 class="site-title">DPA News</h1>
+					</div>
+				</div>
+				<CategoryNav currentPath={Astro.url.pathname} />
+			</header>
+
+			<main class="page-content">
+				<slot />
+			</main>
+
+			<footer class="site-footer">
+				<p>DPA News tracks public data protection developments from a curated set of regulator and reference sources.</p>
+				<p>
+					Built as a static site for low-maintenance publishing. Summaries are automated and link back to the
+					original source.
+				</p>
+			</footer>
+		</div>
+	</body>
+</html>

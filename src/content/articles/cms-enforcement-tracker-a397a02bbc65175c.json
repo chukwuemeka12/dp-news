@@ -1,0 +1,23 @@
+{
+  "id": "cms-enforcement-tracker-a397a02bbc65175c",
+  "title": "POLAND enforcement action against Polish Postal Service (232,379)",
+  "source": "CMS Enforcement Tracker",
+  "sourceId": "cms-enforcement-tracker",
+  "sourceUrl": "https://www.enforcementtracker.com/",
+  "publishedDate": "2026-01-02",
+  "decisionDate": "2026-01-02",
+  "authorityPublicationDate": null,
+  "platformPublicationDate": null,
+  "summary": "Lack of appointment of data protection officer The Polish DPA has imposed a fine of EUR 232,379 on the Polish Postal Service. The controller appointed a person as DPO who also held a managerial position with authority over security and classified information protection issues. However, the controller failed to conduct an analysis to ensur...",
+  "category": "decisions",
+  "dedupKey": "poland enforcement action against polish postal service 232 379|2026-01-02",
+  "tags": [
+    "enforcement",
+    "fines",
+    "poland",
+    "public-sector-and-education",
+    "etid-3031"
+  ],
+  "originalLink": "https://orzeczenia.uodo.gov.pl/document/urn:ndoc:gov:pl:uodo:2025:dkn_5131_4/content?query=",
+  "fetchedAt": "2026-03-28T17:30:01.319Z"
+}

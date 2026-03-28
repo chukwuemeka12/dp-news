@@ -1,0 +1,24 @@
+{
+  "id": "cms-enforcement-tracker-0c174dcc7d67ebcc",
+  "title": "ROMANIA enforcement action against Tensa Art Design S.A (20,000)",
+  "source": "CMS Enforcement Tracker",
+  "sourceId": "cms-enforcement-tracker",
+  "sourceUrl": "https://www.enforcementtracker.com/",
+  "publishedDate": "2026-02-05",
+  "decisionDate": "2026-02-05",
+  "authorityPublicationDate": null,
+  "platformPublicationDate": null,
+  "summary": "Insufficient cooperation with supervisory authority The Romanian DPA has imposed a fine of EUR 20,000 onTensa Art Design S.A.The DPA began investigating the controller's data processing activities, but the controller failed to respond to the DPA's requests. Legal basis: Art. 58 (1) a), e) GDPR, Art. 83 (5) e) GDPR.",
+  "category": "decisions",
+  "dedupKey": "romania enforcement action against tensa art design s a 20 000|2026-02-05",
+  "tags": [
+    "enforcement",
+    "fines",
+    "romania",
+    "industry-and-commerce",
+    "etid-3029",
+    "gdpr"
+  ],
+  "originalLink": "https://www.dataprotection.ro/index.jsp?page=Comunicat_Presa_05_02_2026",
+  "fetchedAt": "2026-03-28T17:30:01.319Z"
+}

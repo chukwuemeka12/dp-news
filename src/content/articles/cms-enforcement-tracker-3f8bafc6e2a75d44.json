@@ -1,0 +1,23 @@
+{
+  "id": "cms-enforcement-tracker-3f8bafc6e2a75d44",
+  "title": "SPAIN enforcement action against VOX ESPAÑA (500)",
+  "source": "CMS Enforcement Tracker",
+  "sourceId": "cms-enforcement-tracker",
+  "sourceUrl": "https://www.enforcementtracker.com/",
+  "publishedDate": "2026-01-10",
+  "decisionDate": "2026-01-10",
+  "authorityPublicationDate": null,
+  "platformPublicationDate": null,
+  "summary": "Insufficient legal basis for data processing The Spanish DPA has imposed a fine of EUR 500 on VOX ESPAÑA. The controller, a political party, posted a picture of of a receipt on its Facebook page. The picture of the recipt included the full name, signature and personal ID number of a natural person. The controller had no legal basis to pub...",
+  "category": "decisions",
+  "dedupKey": "spain enforcement action against vox espana 500|2026-01-10",
+  "tags": [
+    "enforcement",
+    "fines",
+    "spain",
+    "individuals-and-private-associations",
+    "etid-3053"
+  ],
+  "originalLink": "https://www.aepd.es/documento/ps-00255-2024.pdf",
+  "fetchedAt": "2026-03-28T17:30:01.319Z"
+}

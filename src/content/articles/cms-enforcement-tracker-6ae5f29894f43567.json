@@ -1,0 +1,23 @@
+{
+  "id": "cms-enforcement-tracker-6ae5f29894f43567",
+  "title": "SWEDEN enforcement action against Sportadmin i Skandinavien AB (565,000)",
+  "source": "CMS Enforcement Tracker",
+  "sourceId": "cms-enforcement-tracker",
+  "sourceUrl": "https://www.enforcementtracker.com/",
+  "publishedDate": "2026-01-26",
+  "decisionDate": "2026-01-26",
+  "authorityPublicationDate": null,
+  "platformPublicationDate": null,
+  "summary": "Insufficient technical and organisational measures to ensure information security The Swedish DPA has imposed a fine of EUR 565,500 on Sportadmin i Skandinavien AB. The controller suffered a sucessfull cyber attack, resulting in personal and special category data of 2,126,075 individuals, including minors, beeing published in the darknet....",
+  "category": "decisions",
+  "dedupKey": "sweden enforcement action against sportadmin i skandinavien ab 565 000|2026-01-26",
+  "tags": [
+    "enforcement",
+    "fines",
+    "sweden",
+    "industry-and-commerce",
+    "etid-3027"
+  ],
+  "originalLink": "https://www.imy.se/globalassets/dokument/tillsynsskrivelser/2026/beslut-efter-tillsyn-enligt-gdpr_sportadmin-i-skandinavien-ab.pdf",
+  "fetchedAt": "2026-03-28T17:30:01.319Z"
+}

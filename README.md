@@ -1,43 +1,55 @@
-# Astro Starter Kit: Minimal
+# DPA News
 
-```sh
-npm create astro@latest -- --template minimal
-```
+DPA News is a static Astro site that aggregates public data protection developments into a lightweight, community-facing intelligence hub.
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+## MVP scope
 
-## 🚀 Project Structure
+- Curated source configuration with six initial sources
+- RSS ingestion for regulator and community feeds
+- GDPRhub MediaWiki API ingestion for recent decisions
+- CMS Enforcement Tracker ingestion from its structured JSON payload
+- Rolling retention window of 90 days with a hard cap of 2,000 articles
+- Status snapshot output for source freshness and operational visibility
+- Four initial routes: `Latest`, `Decisions`, `Guidance`, and `About`
 
-Inside of your Astro project, you'll see the following folders and files:
+## Project structure
 
 ```text
 /
-├── public/
+├── scripts/
+│   ├── fetch-rss.js
+│   ├── fetch-gdprhub.js
+│   ├── fetch-enforcement.js
+│   └── lib/content-pipeline.js
 ├── src/
-│   └── pages/
-│       └── index.astro
-└── package.json
+│   ├── components/
+│   ├── content/
+│   │   ├── articles/
+│   │   └── system/status.json
+│   ├── data/source-config.js
+│   ├── layouts/
+│   ├── lib/content.ts
+│   ├── pages/
+│   └── styles/global.css
+└── .github/workflows/fetch-and-build.yml
 ```
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+## Commands
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+- `npm install` installs dependencies
+- `npm run fetch:all` refreshes all configured sources
+- `npm run build` generates the static site into `dist/`
+- `npm run dev` starts local development
 
-Any static assets, like images, can be placed in the `public/` directory.
+## Source and status model
 
-## 🧞 Commands
+- Every source lives in `src/data/source-config.js`
+- Every successful fetch updates `src/content/system/status.json`
+- Health is determined by whether a source has a recent successful run within its configured freshness window
+- Content is stored as JSON in `src/content/articles/` and committed to git for static deployment
 
-All commands are run from the root of the project, from a terminal:
+## Operational notes
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
-
-## 👀 Want to learn more?
-
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+- The GitHub Actions workflow runs every 6 hours and prevents overlapping runs with workflow-level concurrency
+- Empty content refreshes do not create commits
+- Summaries are automated and should always be checked against the original source before being relied on
