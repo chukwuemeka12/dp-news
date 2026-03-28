@@ -115,3 +115,4 @@ for (const source of rssSources) {
 }
 
 await persistSnapshot(articlesMap, statusSnapshot);
+process.exit(0);
