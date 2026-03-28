@@ -53,3 +53,4 @@ DPA News is a static Astro site that aggregates public data protection developme
 - The GitHub Actions workflow runs every 6 hours and prevents overlapping runs with workflow-level concurrency
 - Empty content refreshes do not create commits
 - Summaries are automated and should always be checked against the original source before being relied on
+- First production deployment is triggered from the connected `main` branch on Vercel
