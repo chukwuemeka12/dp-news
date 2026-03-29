@@ -1,0 +1,292 @@
+---
+import ArticleCard from '../components/ArticleCard.astro';
+import Base from '../layouts/Base.astro';
+import '../styles/search.css';
+import {
+	formatDisplayDate,
+	getPrimaryArticleDate,
+	getPrimaryArticleDateLabel,
+	getSortedArticles,
+	getStatusSnapshot,
+} from '../lib/content';
+
+const articles = await getSortedArticles();
+const status = await getStatusSnapshot();
+const initialArticles = articles.slice(0, 12);
+
+const searchIndex = articles.map((article) => {
+	const primaryDate = getPrimaryArticleDate(article.data);
+
+	return {
+		id: article.id,
+		title: article.data.title,
+		summary: article.data.summary,
+		source: article.data.source,
+		sourceId: article.data.sourceId,
+		category: article.data.category,
+		tags: article.data.tags,
+		originalLink: article.data.originalLink,
+		primaryDate,
+		primaryDateLabel: getPrimaryArticleDateLabel(article.data),
+		displayDate: formatDisplayDate(primaryDate),
+	};
+});
+
+const categories = [...new Set(searchIndex.map((article) => article.category))].sort();
+const sources = [...new Set(searchIndex.map((article) => article.source))].sort((left, right) =>
+	left.localeCompare(right),
+);
+---
+
+<Base
+	title="DPA News | Search"
+	description="Search across decisions, guidance, and regulatory updates tracked by DPA News."
+>
+	<section class="hero-card">
+		<div class="hero-copy">
+			<p class="eyebrow">Search</p>
+			<h2>Find decisions, guidance, and regulator updates quickly.</h2>
+			<p>
+				Search runs entirely on the static site and works across the current retained article corpus. Use the
+				filters to narrow by category or source.
+			</p>
+		</div>
+
+		<div class="stats-grid">
+			<div class="stat-card">
+				<span class="stat-label">Indexed items</span>
+				<span class="stat-value">{searchIndex.length}</span>
+			</div>
+			<div class="stat-card">
+				<span class="stat-label">Sources represented</span>
+				<span class="stat-value">{sources.length}</span>
+			</div>
+			<div class="stat-card">
+				<span class="stat-label">Decision items</span>
+				<span class="stat-value">{status?.totals.byCategory.decisions ?? 0}</span>
+			</div>
+		</div>
+	</section>
+
+	<section class="search-shell">
+		<div class="search-controls">
+			<label class="search-control search-query">
+				<span class="search-label">Keyword</span>
+				<input
+					id="search-query"
+					class="search-input"
+					type="search"
+					name="q"
+					placeholder="Search titles, summaries, tags, and sources"
+					autocomplete="off"
+				/>
+			</label>
+
+			<label class="search-control">
+				<span class="search-label">Category</span>
+				<select id="search-category" class="search-select" name="category">
+					<option value="">All categories</option>
+					{categories.map((category) => <option value={category}>{category}</option>)}
+				</select>
+			</label>
+
+			<label class="search-control">
+				<span class="search-label">Source</span>
+				<select id="search-source" class="search-select" name="source">
+					<option value="">All sources</option>
+					{sources.map((source) => <option value={source}>{source}</option>)}
+				</select>
+			</label>
+		</div>
+
+		<div class="section-header">
+			<div>
+				<h2 class="section-title">Search results</h2>
+				<p id="search-meta" class="section-subtitle">Showing the latest indexed items.</p>
+			</div>
+		</div>
+
+		<div id="search-results" class="article-grid">
+			{initialArticles.map((article) => <ArticleCard article={article} />)}
+		</div>
+
+		<div id="search-empty" class="empty-state search-empty" hidden>
+			<p>No matching items were found. Try a broader keyword or clear one of the filters.</p>
+		</div>
+
+		<noscript>
+			<div class="empty-state">
+				<p>Interactive search requires JavaScript. The latest items are still shown above.</p>
+			</div>
+		</noscript>
+	</section>
+
+	<script type="application/json" id="search-index">{JSON.stringify(searchIndex)}</script>
+	<script>
+		const searchIndexElement = document.getElementById('search-index');
+		const queryInput = document.getElementById('search-query');
+		const categorySelect = document.getElementById('search-category');
+		const sourceSelect = document.getElementById('search-source');
+		const resultsContainer = document.getElementById('search-results');
+		const emptyState = document.getElementById('search-empty');
+		const meta = document.getElementById('search-meta');
+		const searchIndex = JSON.parse(searchIndexElement?.textContent ?? '[]');
+		const initialLimit = 30;
+		const renderLimit = 60;
+
+		const normalize = (value) =>
+			String(value ?? '')
+				.toLowerCase()
+				.normalize('NFKD')
+				.replace(/[^\w\s-]/g, ' ')
+				.replace(/\s+/g, ' ')
+				.trim();
+
+		const escapeHtml = (value) =>
+			String(value ?? '')
+				.replace(/&/g, '&amp;')
+				.replace(/</g, '&lt;')
+				.replace(/>/g, '&gt;')
+				.replace(/"/g, '&quot;')
+				.replace(/'/g, '&#39;');
+
+		const renderArticle = (article) => {
+			const tagsMarkup = article.tags
+				.slice(0, 4)
+				.map((tag) => `<span class="tag-chip">${escapeHtml(tag)}</span>`)
+				.join('');
+
+			return `
+				<article class="article-card">
+					<div class="article-meta">
+						<span class="source-badge">${escapeHtml(article.source)}</span>
+						<span>${escapeHtml(article.primaryDateLabel)}: ${escapeHtml(article.displayDate)}</span>
+						<span class="category-pill">${escapeHtml(article.category)}</span>
+					</div>
+					<h2>
+						<a href="${escapeHtml(article.originalLink)}" target="_blank" rel="noreferrer">
+							${escapeHtml(article.title)}
+						</a>
+					</h2>
+					<p>${escapeHtml(article.summary)}</p>
+					<div class="article-footer">
+						<div class="tag-row">${tagsMarkup}</div>
+						<a class="article-link" href="${escapeHtml(article.originalLink)}" target="_blank" rel="noreferrer">Read source</a>
+					</div>
+				</article>
+			`;
+		};
+
+		const scoreArticle = (article, queryTokens, normalizedQuery) => {
+			if (!queryTokens.length) {
+				return 0;
+			}
+
+			const normalizedTitle = normalize(article.title);
+			const normalizedSummary = normalize(article.summary);
+			const normalizedSource = normalize(article.source);
+			const normalizedTags = article.tags.map((tag) => normalize(tag));
+			const haystack = [normalizedTitle, normalizedSummary, normalizedSource, normalizedTags.join(' ')].join(' ');
+
+			if (!queryTokens.every((token) => haystack.includes(token))) {
+				return -1;
+			}
+
+			let score = 0;
+
+			if (normalizedQuery && normalizedTitle.includes(normalizedQuery)) {
+				score += 120;
+			}
+
+			for (const token of queryTokens) {
+				if (normalizedTitle.includes(token)) {
+					score += 35;
+				}
+				if (normalizedTags.some((tag) => tag.includes(token))) {
+					score += 20;
+				}
+				if (normalizedSource.includes(token)) {
+					score += 10;
+				}
+				if (normalizedSummary.includes(token)) {
+					score += 6;
+				}
+			}
+
+			return score;
+		};
+
+		const sortResults = (left, right) => {
+			if (right.score !== left.score) {
+				return right.score - left.score;
+			}
+
+			return new Date(right.primaryDate).getTime() - new Date(left.primaryDate).getTime();
+		};
+
+		const syncUrl = (query, category, source) => {
+			const params = new URLSearchParams(window.location.search);
+			query ? params.set('q', query) : params.delete('q');
+			category ? params.set('category', category) : params.delete('category');
+			source ? params.set('source', source) : params.delete('source');
+			const nextSearch = params.toString();
+			const nextUrl = `${window.location.pathname}${nextSearch ? `?${nextSearch}` : ''}`;
+			window.history.replaceState({}, '', nextUrl);
+		};
+
+		const render = () => {
+			const query = queryInput?.value.trim() ?? '';
+			const category = categorySelect?.value ?? '';
+			const source = sourceSelect?.value ?? '';
+			const normalizedQuery = normalize(query);
+			const queryTokens = normalizedQuery ? normalizedQuery.split(' ') : [];
+
+			syncUrl(query, category, source);
+
+			const filtered = searchIndex
+				.filter((article) => !category || article.category === category)
+				.filter((article) => !source || article.source === source)
+				.map((article) => ({
+					...article,
+					score: scoreArticle(article, queryTokens, normalizedQuery),
+				}))
+				.filter((article) => article.score >= 0)
+				.sort(sortResults);
+
+			const visible = (query || category || source ? filtered : filtered.slice(0, initialLimit)).slice(0, renderLimit);
+
+			resultsContainer.innerHTML = visible.map(renderArticle).join('');
+			emptyState.hidden = visible.length > 0;
+			resultsContainer.hidden = visible.length === 0;
+
+			if (!query && !category && !source) {
+				meta.textContent = `Showing the latest ${visible.length} indexed items.`;
+				return;
+			}
+
+			const activeFilters = [
+				query ? `query "${query}"` : null,
+				category ? `category "${category}"` : null,
+				source ? `source "${source}"` : null,
+			].filter(Boolean);
+
+			meta.textContent = `${filtered.length} match${filtered.length === 1 ? '' : 'es'} for ${activeFilters.join(', ')}.`;
+		};
+
+		const params = new URLSearchParams(window.location.search);
+		if (queryInput && params.has('q')) {
+			queryInput.value = params.get('q') ?? '';
+		}
+		if (categorySelect && params.has('category')) {
+			categorySelect.value = params.get('category') ?? '';
+		}
+		if (sourceSelect && params.has('source')) {
+			sourceSelect.value = params.get('source') ?? '';
+		}
+
+		queryInput?.addEventListener('input', render);
+		categorySelect?.addEventListener('change', render);
+		sourceSelect?.addEventListener('change', render);
+		render();
+	</script>
+</Base>

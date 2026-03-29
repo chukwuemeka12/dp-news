@@ -177,5 +177,6 @@ export const PRIMARY_NAV = [
 	{ href: '/', label: CATEGORY_LABELS.latest },
 	{ href: '/decisions/', label: CATEGORY_LABELS.decisions },
 	{ href: '/guidance/', label: CATEGORY_LABELS.guidance },
+	{ href: '/search/', label: 'Search' },
 	{ href: '/about/', label: 'About' },
 ];
