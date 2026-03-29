@@ -1,6 +1,6 @@
 ---
 import Base from '../layouts/Base.astro';
-import { RETENTION_DAYS, MAX_ARTICLES, SOURCE_CONFIG } from '../data/source-config.js';
+import { DECISION_RETENTION_DAYS, RETENTION_DAYS, MAX_ARTICLES, SOURCE_CONFIG } from '../data/source-config.js';
 import { formatTimestamp, getStatusSnapshot, isSourceFresh } from '../lib/content';
 
 const status = await getStatusSnapshot();
@@ -24,7 +24,7 @@ const statusById = new Map(status?.sources.map((source) => [source.id, source]) 
 		<div class="stats-grid">
 			<div class="stat-card">
 				<span class="stat-label">Retention policy</span>
-				<p>Last {RETENTION_DAYS} days, capped at {MAX_ARTICLES} items.</p>
+				<p>Guidance/news: {RETENTION_DAYS} days. Decisions: {DECISION_RETENTION_DAYS} days. Cap: {MAX_ARTICLES} items.</p>
 			</div>
 			<div class="stat-card">
 				<span class="stat-label">Last status refresh</span>
@@ -41,7 +41,7 @@ const statusById = new Map(status?.sources.map((source) => [source.id, source]) 
 				<li>Each article uses a composite ID based on source, normalized title, date, and canonical link for stable upserts.</li>
 				<li>Cards can carry up to three separate dates: decision date, authority publication date, and platform publication date.</li>
 				<li>Source health is written to `status.json` so stale feeds can be detected without reading action logs.</li>
-				<li>Content is retained as JSON in git for a rolling {RETENTION_DAYS}-day window, with a hard cap of {MAX_ARTICLES} items.</li>
+				<li>Content is retained as JSON in git with category-aware windows: {RETENTION_DAYS} days for guidance/news and {DECISION_RETENTION_DAYS} days for decisions, with a hard cap of {MAX_ARTICLES} items.</li>
 				<li>Category assignment is rule-based for the MVP and can be refined later with additional editorial logic.</li>
 			</ul>
 		</div>

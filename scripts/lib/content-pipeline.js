@@ -3,7 +3,12 @@ import fs from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
-import { MAX_ARTICLES, RETENTION_DAYS, SOURCE_CONFIG } from '../../src/data/source-config.js';
+import {
+	DECISION_RETENTION_DAYS,
+	MAX_ARTICLES,
+	RETENTION_DAYS,
+	SOURCE_CONFIG,
+} from '../../src/data/source-config.js';
 
 const SCRIPT_DIR = path.dirname(fileURLToPath(import.meta.url));
 const PROJECT_ROOT = path.resolve(SCRIPT_DIR, '../..');
@@ -24,6 +29,7 @@ export function createEmptyStatus() {
 	return {
 		generatedAt: '',
 		retentionDays: RETENTION_DAYS,
+		decisionRetentionDays: DECISION_RETENTION_DAYS,
 		maxArticles: MAX_ARTICLES,
 		totals: {
 			articles: 0,
@@ -316,11 +322,12 @@ export async function persistSnapshot(articlesMap, statusSnapshot) {
 	);
 
 	const nextStatus = {
-		...statusSnapshot,
-		generatedAt: new Date().toISOString(),
-		retentionDays: RETENTION_DAYS,
-		maxArticles: MAX_ARTICLES,
-		totals,
+			...statusSnapshot,
+			generatedAt: new Date().toISOString(),
+			retentionDays: RETENTION_DAYS,
+			decisionRetentionDays: DECISION_RETENTION_DAYS,
+			maxArticles: MAX_ARTICLES,
+			totals,
 	};
 
 	await fs.writeFile(STATUS_FILE, `${JSON.stringify(nextStatus, null, 2)}\n`, 'utf8');
@@ -393,11 +400,13 @@ export function extractPlainText(value = '') {
 }
 
 function applyRetention(articles) {
-	const cutoff = new Date();
-	cutoff.setUTCDate(cutoff.getUTCDate() - RETENTION_DAYS);
-
 	return articles
-		.filter((article) => new Date(article.publishedDate) >= cutoff)
+		.filter((article) => {
+			const cutoff = new Date();
+			const retentionDays = article.category === 'decisions' ? DECISION_RETENTION_DAYS : RETENTION_DAYS;
+			cutoff.setUTCDate(cutoff.getUTCDate() - retentionDays);
+			return new Date(article.publishedDate) >= cutoff;
+		})
 		.sort((left, right) => {
 			const rightDate = new Date(right.publishedDate).getTime();
 			const leftDate = new Date(left.publishedDate).getTime();

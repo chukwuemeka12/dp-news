@@ -33,6 +33,7 @@ const systemCollection = defineCollection({
 	schema: z.object({
 		generatedAt: z.string(),
 		retentionDays: z.number(),
+		decisionRetentionDays: z.number().optional(),
 		maxArticles: z.number(),
 		totals: z.object({
 			articles: z.number(),
