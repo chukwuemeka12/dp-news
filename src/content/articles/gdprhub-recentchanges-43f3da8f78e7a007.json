@@ -1,6 +1,6 @@
 {
-  "id": "gdprhub-recentchanges-ca45c4aa6624bcb6",
-  "title": "Article 12 GDPR",
+  "id": "gdprhub-recentchanges-43f3da8f78e7a007",
+  "title": "Cass.Civ. - 34224/2025",
   "source": "GDPRhub",
   "sourceId": "gdprhub-recentchanges",
   "sourceUrl": "https://gdprhub.eu/",
@@ -8,14 +8,13 @@
   "decisionDate": null,
   "authorityPublicationDate": null,
   "platformPublicationDate": "2026-03-30",
-  "summary": "GDPRhub updated its case-law record for Article 12 GDPR.",
+  "summary": "GDPRhub updated its case-law record for Cass.Civ. - 34224/2025.",
   "category": "decisions",
-  "dedupKey": "article 12 gdpr|2026-03-30",
+  "dedupKey": "cass civ 34224 2025|2026-03-30",
   "tags": [
     "gdprhub",
-    "case-law",
-    "gdpr"
+    "case-law"
   ],
-  "originalLink": "https://gdprhub.eu/index.php?title=Article%2012%20GDPR",
+  "originalLink": "https://gdprhub.eu/index.php?title=Cass.Civ.%20-%2034224%2F2025",
   "fetchedAt": "2026-03-30T18:46:48.371Z"
 }
