@@ -1,0 +1,20 @@
+{
+  "id": "cnil-rss-en-2a1c2468266b84dd",
+  "title": "Revoir le webinaire - Développement d’un système IA, webscraping : comment mobiliser la base légale de l’intérêt légitime ?",
+  "source": "CNIL",
+  "sourceId": "cnil-rss-en",
+  "sourceUrl": "https://www.cnil.fr/en",
+  "publishedDate": "2026-04-02",
+  "decisionDate": null,
+  "authorityPublicationDate": "2026-04-02",
+  "platformPublicationDate": "2026-04-02",
+  "summary": "La CNIL vous propose de décrypter un sujet ou une actualité en lien avec la protection des données à travers une série de webinaires. Retrouvez ce nouvel épisode consacré au développement de systèmes d'intelligence artificielle.",
+  "category": "guidance",
+  "dedupKey": "revoir le webinaire developpement d un systeme ia webscraping comment mobiliser la base legale de l interet legitime|2026-04-02",
+  "tags": [
+    "france",
+    "cnil"
+  ],
+  "originalLink": "https://www.cnil.fr/fr/revoir-le-webinaire-developpement-ia-webscraping-base-legale-interet-legitime",
+  "fetchedAt": "2026-04-02T12:51:21.952Z"
+}
