@@ -8,7 +8,7 @@
   "decisionDate": null,
   "authorityPublicationDate": null,
   "platformPublicationDate": "2026-04-02",
-  "summary": "New GDPRhub DPA decision added for Garante per la protezione dei dati personali (Italy) - 10233345. Jurisdiction: Italy. Original source listed by GDPRhub: GPDP.",
+  "summary": "GDPRhub updated its case-law record for Garante per la protezione dei dati personali (Italy) - 10233345.",
   "category": "decisions",
   "dedupKey": "garante per la protezione dei dati personali italy 10233345|2026-04-02",
   "tags": [
@@ -17,5 +17,5 @@
     "italy"
   ],
   "originalLink": "https://gdprhub.eu/index.php?title=Garante%20per%20la%20protezione%20dei%20dati%20personali%20(Italy)%20-%2010233345",
-  "fetchedAt": "2026-04-03T12:40:50.454Z"
+  "fetchedAt": "2026-04-03T18:35:07.703Z"
 }
