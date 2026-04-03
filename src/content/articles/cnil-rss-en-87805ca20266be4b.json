@@ -1,0 +1,20 @@
+{
+  "id": "cnil-rss-en-87805ca20266be4b",
+  "title": "Les webinaires de la CNIL",
+  "source": "CNIL",
+  "sourceId": "cnil-rss-en",
+  "sourceUrl": "https://www.cnil.fr/en",
+  "publishedDate": "2026-04-03",
+  "decisionDate": null,
+  "authorityPublicationDate": "2026-04-03",
+  "platformPublicationDate": "2026-04-03",
+  "summary": "La CNIL propose régulièrement des webinaires à destination des professionnels. Ces webinaires sont gratuits et ouverts à tous.",
+  "category": "guidance",
+  "dedupKey": "les webinaires de la cnil|2026-04-03",
+  "tags": [
+    "france",
+    "cnil"
+  ],
+  "originalLink": "https://www.cnil.fr/fr/les-webinaires-de-la-cnil",
+  "fetchedAt": "2026-04-03T12:40:48.925Z"
+}
