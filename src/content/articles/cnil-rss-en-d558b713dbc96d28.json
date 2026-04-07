@@ -1,0 +1,20 @@
+{
+  "id": "cnil-rss-en-d558b713dbc96d28",
+  "title": "Outil PIA : téléchargez et installez le logiciel de la CNIL",
+  "source": "CNIL",
+  "sourceId": "cnil-rss-en",
+  "sourceUrl": "https://www.cnil.fr/en",
+  "publishedDate": "2026-04-07",
+  "decisionDate": null,
+  "authorityPublicationDate": "2026-04-07",
+  "platformPublicationDate": "2026-04-07",
+  "summary": "Le logiciel open source PIA facilite la conduite et la formalisation d’analyses d’impact relatives à la protection des données (AIPD) telles que prévues par le RGPD.",
+  "category": "guidance",
+  "dedupKey": "outil pia telechargez et installez le logiciel de la cnil|2026-04-07",
+  "tags": [
+    "france",
+    "cnil"
+  ],
+  "originalLink": "https://www.cnil.fr/fr/outil-pia-telechargez-et-installez-le-logiciel-de-la-cnil",
+  "fetchedAt": "2026-04-07T18:50:21.667Z"
+}
