@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-04-07T07:05:40.693Z",
+  "generatedAt": "2026-04-07T12:59:12.382Z",
   "retentionDays": 90,
   "maxArticles": 2000,
   "totals": {
-    "articles": 81,
-    "healthySources": 6,
+    "articles": 74,
+    "healthySources": 5,
     "totalSources": 6,
     "byCategory": {
-      "decisions": 53,
+      "decisions": 54,
       "laws": 0,
-      "guidance": 27,
+      "guidance": 20,
       "standards": 0,
-      "appointments": 1
+      "appointments": 0
     }
   },
   "sources": [
@@ -24,8 +24,8 @@
       "defaultCategory": "guidance",
       "description": "Official updates and announcements from the European Data Protection Board.",
       "staleAfterHours": 24,
-      "checkedAt": "2026-04-07T07:05:20.303Z",
-      "lastSuccessAt": "2026-04-07T07:05:20.303Z",
+      "checkedAt": "2026-04-07T12:58:49.369Z",
+      "lastSuccessAt": "2026-04-07T12:58:49.369Z",
       "latestItemAt": "2026-03-24T00:00:00.000Z",
       "itemCount": 10,
       "healthy": true,
@@ -40,8 +40,8 @@
       "defaultCategory": "guidance",
       "description": "Guidelines, opinions, and formal publications from the EDPB.",
       "staleAfterHours": 48,
-      "checkedAt": "2026-04-07T07:05:21.340Z",
-      "lastSuccessAt": "2026-04-07T07:05:21.340Z",
+      "checkedAt": "2026-04-07T12:58:50.553Z",
+      "lastSuccessAt": "2026-04-07T12:58:50.553Z",
       "latestItemAt": "2026-03-26T00:00:00.000Z",
       "itemCount": 10,
       "healthy": true,
@@ -56,12 +56,12 @@
       "defaultCategory": "guidance",
       "description": "English-language CNIL updates covering guidance, enforcement, and regulatory analysis.",
       "staleAfterHours": 24,
-      "checkedAt": "2026-04-07T07:05:21.879Z",
+      "checkedAt": "2026-04-07T12:58:51.312Z",
       "lastSuccessAt": "2026-04-07T07:05:21.879Z",
       "latestItemAt": "2026-04-03T00:00:00.000Z",
       "itemCount": 8,
-      "healthy": true,
-      "error": null
+      "healthy": false,
+      "error": "Request timed out after 15000ms"
     },
     {
       "id": "efdpo-rss",
@@ -72,8 +72,8 @@
       "defaultCategory": "guidance",
       "description": "European Federation of Data Protection Officers updates and community resources.",
       "staleAfterHours": 48,
-      "checkedAt": "2026-04-07T07:05:22.112Z",
-      "lastSuccessAt": "2026-04-07T07:05:22.112Z",
+      "checkedAt": "2026-04-07T12:59:06.314Z",
+      "lastSuccessAt": "2026-04-07T12:59:06.314Z",
       "latestItemAt": "2026-03-24T00:00:00.000Z",
       "itemCount": 10,
       "healthy": true,
@@ -88,10 +88,10 @@
       "defaultCategory": "decisions",
       "description": "Recent case law additions and updates from GDPRhub’s MediaWiki API.",
       "staleAfterHours": 24,
-      "checkedAt": "2026-04-07T07:05:23.741Z",
-      "lastSuccessAt": "2026-04-07T07:05:23.741Z",
-      "latestItemAt": "2026-04-03T00:00:00.000Z",
-      "itemCount": 6,
+      "checkedAt": "2026-04-07T12:59:09.616Z",
+      "lastSuccessAt": "2026-04-07T12:59:09.616Z",
+      "latestItemAt": "2026-04-07T00:00:00.000Z",
+      "itemCount": 7,
       "healthy": true,
       "error": null
     },
@@ -104,10 +104,10 @@
       "defaultCategory": "decisions",
       "description": "Structured GDPR fine and enforcement data maintained by CMS.",
       "staleAfterHours": 24,
-      "checkedAt": "2026-04-07T07:05:38.855Z",
-      "lastSuccessAt": "2026-04-07T07:05:38.855Z",
+      "checkedAt": "2026-04-07T12:59:10.525Z",
+      "lastSuccessAt": "2026-04-07T12:59:10.525Z",
       "latestItemAt": "2026-03-25T00:00:00.000Z",
-      "itemCount": 3050,
+      "itemCount": 3051,
       "healthy": true,
       "error": null
     }
