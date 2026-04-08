@@ -1,21 +1,24 @@
 {
-  "id": "edpb-news-26a1bf2562347d45",
+  "id": "efdpo-rss-a10171b2db8b9c04",
   "title": "EDPB and EDPS support strengthening EU’s cybersecurity and easing compliance while protecting individuals’ personal data",
-  "source": "EDPB News",
-  "sourceId": "edpb-news",
-  "sourceUrl": "https://edpb.europa.eu/news/news_en",
+  "source": "EFDPO",
+  "sourceId": "efdpo-rss",
+  "sourceUrl": "https://www.efdpo.eu/",
   "publishedDate": "2026-03-19",
   "decisionDate": null,
-  "authorityPublicationDate": "2026-03-19",
+  "authorityPublicationDate": null,
   "platformPublicationDate": "2026-03-19",
   "summary": "Brussels, 19 March 2026 – The European Data Protection Board (EDPB) and the European Data Protection Supervisor (EDPS) have adopted a Joint Opinion on the European Commission’s proposal for a Cybersecurity Act 2 (CSA2) and the proposal on amendments to the Network and Information Security 2 (NIS2) D...",
   "category": "guidance",
   "dedupKey": "edpb and edps support strengthening eu s cybersecurity and easing compliance while protecting individuals personal data|2026-03-19",
   "tags": [
+    "europe",
+    "efdpo",
     "eu",
-    "edpb",
+    "rss-feed",
+    "european-data-protection-board",
     "cybersecurity"
   ],
-  "originalLink": "https://www.edpb.europa.eu/news/news/2026/edpb-and-edps-support-strengthening-eus-cybersecurity-and-easing-compliance-while_en",
-  "fetchedAt": "2026-04-08T12:59:27.463Z"
+  "originalLink": "https://www.efdpo.eu/edpb-and-edps-support-strengthening-eus-cybersecurity-and-easing-compliance-while-protecting-individuals-personal-data/",
+  "fetchedAt": "2026-04-08T19:03:40.352Z"
 }
