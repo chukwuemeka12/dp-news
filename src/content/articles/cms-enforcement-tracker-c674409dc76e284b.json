@@ -1,0 +1,23 @@
+{
+  "id": "cms-enforcement-tracker-c674409dc76e284b",
+  "title": "ITALY enforcement action against Comune di Velletri (2,000)",
+  "source": "CMS Enforcement Tracker",
+  "sourceId": "cms-enforcement-tracker",
+  "sourceUrl": "https://www.enforcementtracker.com/",
+  "publishedDate": "2026-02-12",
+  "decisionDate": "2026-02-12",
+  "authorityPublicationDate": null,
+  "platformPublicationDate": null,
+  "summary": "Non-compliance with general data processing principles The Italian DPA has imposed a fine of EUR 2,000 on the Commune di Velletri. The controller provided a cemetery app containing data on deceased persons for use within the app. The app combined public and institutional cemetery information, such as names and places of burial, with socia...",
+  "category": "decisions",
+  "dedupKey": "italy enforcement action against comune di velletri 2 000|2026-02-12",
+  "tags": [
+    "enforcement",
+    "fines",
+    "italy",
+    "public-sector-and-education",
+    "etid-3078"
+  ],
+  "originalLink": "https://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/10225225",
+  "fetchedAt": "2026-04-13T19:02:16.991Z"
+}
