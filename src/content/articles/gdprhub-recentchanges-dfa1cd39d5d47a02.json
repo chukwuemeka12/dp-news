@@ -8,7 +8,7 @@
   "decisionDate": null,
   "authorityPublicationDate": null,
   "platformPublicationDate": "2026-04-16",
-  "summary": "New GDPRhub DPA decision added for Tietosuojavaltuutetun toimisto (Finland) - TSV/206/2021. Jurisdiction: Finland. Original source listed by GDPRhub: FINLEX-Data Protection Ombudsman.",
+  "summary": "GDPRhub updated its case-law record for Tietosuojavaltuutetun toimisto (Finland) - TSV/206/2021.",
   "category": "decisions",
   "dedupKey": "tietosuojavaltuutetun toimisto finland tsv 206 2021|2026-04-16",
   "tags": [
@@ -17,5 +17,5 @@
     "finland"
   ],
   "originalLink": "https://gdprhub.eu/index.php?title=Tietosuojavaltuutetun%20toimisto%20(Finland)%20-%20TSV%2F206%2F2021",
-  "fetchedAt": "2026-04-17T07:20:23.506Z"
+  "fetchedAt": "2026-04-17T12:57:25.538Z"
 }
