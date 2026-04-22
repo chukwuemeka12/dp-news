@@ -1,0 +1,23 @@
+{
+  "id": "cms-enforcement-tracker-a1ace9e7e20f7484",
+  "title": "ITALY enforcement action against Comune di Mazara del Vallo (4,000)",
+  "source": "CMS Enforcement Tracker",
+  "sourceId": "cms-enforcement-tracker",
+  "sourceUrl": "https://www.enforcementtracker.com/",
+  "publishedDate": "2026-02-12",
+  "decisionDate": "2026-02-12",
+  "authorityPublicationDate": null,
+  "platformPublicationDate": null,
+  "summary": "Insufficient legal basis for data processing The Italian DPA has imposed a fine of EUR 4,000 on the Comune di Mazara del Vallo. The controller used video surveillance technology to enforce traffic rules without a sufficient legal basis. Secondly, the controller used a camera system that had not been homologated or approved for this specif...",
+  "category": "decisions",
+  "dedupKey": "italy enforcement action against comune di mazara del vallo 4 000|2026-02-12",
+  "tags": [
+    "enforcement",
+    "fines",
+    "italy",
+    "public-sector-and-education",
+    "etid-3087"
+  ],
+  "originalLink": "https://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/10227910",
+  "fetchedAt": "2026-04-22T13:02:56.360Z"
+}
