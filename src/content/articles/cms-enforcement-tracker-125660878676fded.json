@@ -1,0 +1,24 @@
+{
+  "id": "cms-enforcement-tracker-125660878676fded",
+  "title": "SPAIN enforcement action against HOLY MARY CATHOLIC SCHOOL, S.L. (12,000)",
+  "source": "CMS Enforcement Tracker",
+  "sourceId": "cms-enforcement-tracker",
+  "sourceUrl": "https://www.enforcementtracker.com/",
+  "publishedDate": "2026-03-01",
+  "decisionDate": "2026-03-01",
+  "authorityPublicationDate": null,
+  "platformPublicationDate": null,
+  "summary": "Insufficient legal basis for data processing The Spanish DPA has imposed a fine of EUR 12,000 on the HOLY MARY CATHOLIC SCHOOL, S.L. The controller, an educational institute, used Google Workspace for Education within its school environment. While the use of the tool may be justifiable under the GDPR, the controller failed to implement it...",
+  "category": "decisions",
+  "dedupKey": "spain enforcement action against holy mary catholic school s l 12 000|2026-03-01",
+  "tags": [
+    "enforcement",
+    "fines",
+    "spain",
+    "public-sector-and-education",
+    "etid-3094",
+    "gdpr"
+  ],
+  "originalLink": "https://www.aepd.es/documento/ps-00607-2025.pdf",
+  "fetchedAt": "2026-04-22T18:59:33.880Z"
+}

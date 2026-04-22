@@ -1,0 +1,23 @@
+{
+  "id": "cms-enforcement-tracker-0061f8996aa21583",
+  "title": "SPAIN enforcement action against ORNITOLÓGICA DE ANDALUCÍA FOA (900)",
+  "source": "CMS Enforcement Tracker",
+  "sourceId": "cms-enforcement-tracker",
+  "sourceUrl": "https://www.enforcementtracker.com/",
+  "publishedDate": "2026-03-02",
+  "decisionDate": "2026-03-02",
+  "authorityPublicationDate": null,
+  "platformPublicationDate": null,
+  "summary": "Non-compliance with general data processing principles The Spanish DPA has imposed a fine of EUR 900 on ORNITOLÓGICA DE ANDALUCÍA FOA. The controller sent a mass email to more than 200 affiliated recipients. The email disclosed personal data that was not necessary for the intended purpose, due to insufficient technical and organisational...",
+  "category": "decisions",
+  "dedupKey": "spain enforcement action against ornitologica de andalucia foa 900|2026-03-02",
+  "tags": [
+    "enforcement",
+    "fines",
+    "spain",
+    "individuals-and-private-associations",
+    "etid-3096"
+  ],
+  "originalLink": "https://www.aepd.es/documento/ps-00200-2024.pdf",
+  "fetchedAt": "2026-04-22T18:59:33.880Z"
+}
