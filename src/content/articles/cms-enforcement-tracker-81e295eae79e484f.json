@@ -1,0 +1,23 @@
+{
+  "id": "cms-enforcement-tracker-81e295eae79e484f",
+  "title": "ITALY enforcement action against Dedalus Italia S.p.A. (32,000)",
+  "source": "CMS Enforcement Tracker",
+  "sourceId": "cms-enforcement-tracker",
+  "sourceUrl": "https://www.enforcementtracker.com/",
+  "publishedDate": "2026-02-26",
+  "decisionDate": "2026-02-26",
+  "authorityPublicationDate": null,
+  "platformPublicationDate": null,
+  "summary": "Insufficient technical and organisational measures to ensure information security The Italian DPA has imposed a fine of EUR 32,000 on Dedalus Italia S.p.A. The controller, who operates an employee portal used in the healthcare sector, carried out maintenance work on the application, but failed to implement adequate technical and organisat...",
+  "category": "decisions",
+  "dedupKey": "italy enforcement action against dedalus italia s p a 32 000|2026-02-26",
+  "tags": [
+    "enforcement",
+    "fines",
+    "italy",
+    "industry-and-commerce",
+    "etid-3124"
+  ],
+  "originalLink": "https://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/10234928",
+  "fetchedAt": "2026-04-28T19:20:34.526Z"
+}

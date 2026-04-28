@@ -1,0 +1,23 @@
+{
+  "id": "cms-enforcement-tracker-b0cab2703474cb45",
+  "title": "ITALY enforcement action against Groupharma s.r.l.s. (3,000)",
+  "source": "CMS Enforcement Tracker",
+  "sourceId": "cms-enforcement-tracker",
+  "sourceUrl": "https://www.enforcementtracker.com/",
+  "publishedDate": "2026-02-26",
+  "decisionDate": "2026-02-26",
+  "authorityPublicationDate": null,
+  "platformPublicationDate": null,
+  "summary": "Insufficient fulfilment of data subjects rights The Italian DPA has imposed a fine of EUR 3,000 on Groupharma s.r.l.s. Following the termination of an employment contract, a former employee requested that the controller delete his personal data from their website and send him the final version of the employment contract before termination...",
+  "category": "decisions",
+  "dedupKey": "italy enforcement action against groupharma s r l s 3 000|2026-02-26",
+  "tags": [
+    "enforcement",
+    "fines",
+    "italy",
+    "employment",
+    "etid-3122"
+  ],
+  "originalLink": "https://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/10233201",
+  "fetchedAt": "2026-04-28T19:20:34.526Z"
+}
