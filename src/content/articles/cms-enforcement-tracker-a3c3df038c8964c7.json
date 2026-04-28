@@ -1,0 +1,23 @@
+{
+  "id": "cms-enforcement-tracker-a3c3df038c8964c7",
+  "title": "ITALY enforcement action against Istituto Tecnico Statale “Luigi Einaudi” di Correggio (2,000)",
+  "source": "CMS Enforcement Tracker",
+  "sourceId": "cms-enforcement-tracker",
+  "sourceUrl": "https://www.enforcementtracker.com/",
+  "publishedDate": "2026-02-26",
+  "decisionDate": "2026-02-26",
+  "authorityPublicationDate": null,
+  "platformPublicationDate": null,
+  "summary": "Insufficient legal basis for data processing The Italian DPA has imposed a fine of EUR 2,000 on the Istituto Tecnico Statale “Luigi Einaudi” di Correggio. The controller had been publishing teachers' timetables and supervision rotas, including their full names, on its website, even though this information was only available after logging...",
+  "category": "decisions",
+  "dedupKey": "italy enforcement action against istituto tecnico statale luigi einaudi di correggio 2 000|2026-02-26",
+  "tags": [
+    "enforcement",
+    "fines",
+    "italy",
+    "employment",
+    "etid-3120"
+  ],
+  "originalLink": "https://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/10233242",
+  "fetchedAt": "2026-04-28T13:29:47.292Z"
+}

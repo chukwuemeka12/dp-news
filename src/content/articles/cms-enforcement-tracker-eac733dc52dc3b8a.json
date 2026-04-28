@@ -1,0 +1,23 @@
+{
+  "id": "cms-enforcement-tracker-eac733dc52dc3b8a",
+  "title": "ITALY enforcement action against Conservatory (5,000)",
+  "source": "CMS Enforcement Tracker",
+  "sourceId": "cms-enforcement-tracker",
+  "sourceUrl": "https://www.enforcementtracker.com/",
+  "publishedDate": "2026-02-26",
+  "decisionDate": "2026-02-26",
+  "authorityPublicationDate": null,
+  "platformPublicationDate": null,
+  "summary": "Insufficient legal basis for data processing The Italian DPA has imposed a fine of EUR 5,000 on a Conservatory. The controller sent an email to over one hundred employees informing them that a former Administrative Director had been dismissed due to disciplinary measures. The email included further details of the reasons for the dismissal...",
+  "category": "decisions",
+  "dedupKey": "italy enforcement action against conservatory 5 000|2026-02-26",
+  "tags": [
+    "enforcement",
+    "fines",
+    "italy",
+    "public-sector-and-education",
+    "etid-3115"
+  ],
+  "originalLink": "https://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/10232961",
+  "fetchedAt": "2026-04-28T13:29:47.292Z"
+}

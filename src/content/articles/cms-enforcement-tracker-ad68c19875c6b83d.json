@@ -1,0 +1,24 @@
+{
+  "id": "cms-enforcement-tracker-ad68c19875c6b83d",
+  "title": "POLAND enforcement action against Housing Associaction (2,350)",
+  "source": "CMS Enforcement Tracker",
+  "sourceId": "cms-enforcement-tracker",
+  "sourceUrl": "https://www.enforcementtracker.com/",
+  "publishedDate": "2026-04-07",
+  "decisionDate": "2026-04-07",
+  "authorityPublicationDate": null,
+  "platformPublicationDate": null,
+  "summary": "Insufficient fulfilment of data breach notification obligations The Polish DPA has imposed a fine of EUR 2,350 on a housing association. The controller suffered a data breach and failed to inform the DPA within 72 hours Legal basis: Art. 33 (1) GDPR.",
+  "category": "decisions",
+  "dedupKey": "poland enforcement action against housing associaction 2 350|2026-04-07",
+  "tags": [
+    "enforcement",
+    "fines",
+    "poland",
+    "real-estate",
+    "etid-3114",
+    "gdpr"
+  ],
+  "originalLink": "https://orzeczenia.uodo.gov.pl/document/urn:ndoc:gov:pl:uodo:2025:dkn_5131_16/content",
+  "fetchedAt": "2026-04-28T13:29:47.292Z"
+}

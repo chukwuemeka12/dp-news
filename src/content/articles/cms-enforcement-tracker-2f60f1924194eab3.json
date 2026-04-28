@@ -1,0 +1,23 @@
+{
+  "id": "cms-enforcement-tracker-2f60f1924194eab3",
+  "title": "POLAND enforcement action against Restaurant Partner Polska (1,393,300)",
+  "source": "CMS Enforcement Tracker",
+  "sourceId": "cms-enforcement-tracker",
+  "sourceUrl": "https://www.enforcementtracker.com/",
+  "publishedDate": "2026-02-19",
+  "decisionDate": "2026-02-19",
+  "authorityPublicationDate": null,
+  "platformPublicationDate": null,
+  "summary": "Insufficient legal basis for data processing The Polish DPA has imposed a fine of EUR 1,393,300 on Restaurant Partner Polska. The controller of the 'Glovo' application requested that customers provide a scan or photograph of an identity document when they were suspected of fraud. The controller had no sufficient legal basis for this. Lega...",
+  "category": "decisions",
+  "dedupKey": "poland enforcement action against restaurant partner polska 1 393 300|2026-02-19",
+  "tags": [
+    "enforcement",
+    "fines",
+    "poland",
+    "industry-and-commerce",
+    "etid-3113"
+  ],
+  "originalLink": "https://orzeczenia.uodo.gov.pl/document/urn:ndoc:gov:pl:uodo:2022:dkn_5112_33/content?query=",
+  "fetchedAt": "2026-04-28T13:29:47.292Z"
+}
