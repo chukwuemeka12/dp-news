@@ -1,0 +1,23 @@
+{
+  "id": "cms-enforcement-tracker-aa71af9170eccace",
+  "title": "SPAIN enforcement action against CUMACA MOTOR, S.L. (6,000)",
+  "source": "CMS Enforcement Tracker",
+  "sourceId": "cms-enforcement-tracker",
+  "sourceUrl": "https://www.enforcementtracker.com/",
+  "publishedDate": "2026-03-10",
+  "decisionDate": "2026-03-10",
+  "authorityPublicationDate": null,
+  "platformPublicationDate": null,
+  "summary": "Insufficient legal basis for data processing The Spanish DPA has imposed a fine of EUR 6,000 on CUMACA MOTOR, S.L. The controller required a data subject to provide a national identity document, which it copied for the purpose of a vehicle repair. The controller claimed that this was a requirement of the insurance company, which was payin...",
+  "category": "decisions",
+  "dedupKey": "spain enforcement action against cumaca motor s l 6 000|2026-03-10",
+  "tags": [
+    "enforcement",
+    "fines",
+    "spain",
+    "industry-and-commerce",
+    "etid-3128"
+  ],
+  "originalLink": "https://www.aepd.es/documento/ps-00488-2024.pdf",
+  "fetchedAt": "2026-05-04T08:17:55.380Z"
+}

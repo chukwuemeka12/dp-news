@@ -1,0 +1,23 @@
+{
+  "id": "cms-enforcement-tracker-c2b651e6a338885d",
+  "title": "SPAIN enforcement action against HIGHCLIFFE ESTATES MARBELLA, S.L. (8,500)",
+  "source": "CMS Enforcement Tracker",
+  "sourceId": "cms-enforcement-tracker",
+  "sourceUrl": "https://www.enforcementtracker.com/",
+  "publishedDate": "2026-03-02",
+  "decisionDate": "2026-03-02",
+  "authorityPublicationDate": null,
+  "platformPublicationDate": null,
+  "summary": "Insufficient legal basis for data processing The Spanish DPA has imposed a fine of EUR 8,500 on HIGHCLIFFE ESTATES MARBELLA, S.L. The controller published the personal data of two individuals, including a photo of one of them, and accused them of occupying the controller's property. This processing had no sufficient legal basis. Legal bas...",
+  "category": "decisions",
+  "dedupKey": "spain enforcement action against highcliffe estates marbella s l 8 500|2026-03-02",
+  "tags": [
+    "enforcement",
+    "fines",
+    "spain",
+    "real-estate",
+    "etid-3126"
+  ],
+  "originalLink": "https://www.aepd.es/documento/ps-00294-2024.pdf",
+  "fetchedAt": "2026-05-04T08:17:55.380Z"
+}
