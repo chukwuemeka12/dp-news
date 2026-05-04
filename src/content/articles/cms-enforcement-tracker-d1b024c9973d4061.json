@@ -1,0 +1,24 @@
+{
+  "id": "cms-enforcement-tracker-d1b024c9973d4061",
+  "title": "SPAIN enforcement action against SERVICIOS INMOBILIARIOS Y GESTIÓN RCL MADRID, S.L. (600)",
+  "source": "CMS Enforcement Tracker",
+  "sourceId": "cms-enforcement-tracker",
+  "sourceUrl": "https://www.enforcementtracker.com/",
+  "publishedDate": "2026-03-13",
+  "decisionDate": "2026-03-13",
+  "authorityPublicationDate": null,
+  "platformPublicationDate": null,
+  "summary": "Insufficient cooperation with supervisory authority The Spanish DPA has imposd a fine of EUR 600 on SERVICIOS INMOBILIARIOS Y ESTIÓN RCL MADRID, S.L. The controller failed to react to multiple requests by the DPA. Legal basis: Art. 58 (1) GDPR.",
+  "category": "decisions",
+  "dedupKey": "spain enforcement action against servicios inmobiliarios y gestion rcl madrid s l 600|2026-03-13",
+  "tags": [
+    "enforcement",
+    "fines",
+    "spain",
+    "real-estate",
+    "etid-3132",
+    "gdpr"
+  ],
+  "originalLink": "https://www.aepd.es/documento/ps-00211-2025.pdf",
+  "fetchedAt": "2026-05-04T13:22:35.821Z"
+}

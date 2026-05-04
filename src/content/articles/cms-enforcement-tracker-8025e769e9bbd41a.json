@@ -1,0 +1,24 @@
+{
+  "id": "cms-enforcement-tracker-8025e769e9bbd41a",
+  "title": "SPAIN enforcement action against GATIGOS, S.L. (6,000)",
+  "source": "CMS Enforcement Tracker",
+  "sourceId": "cms-enforcement-tracker",
+  "sourceUrl": "https://www.enforcementtracker.com/",
+  "publishedDate": "2026-04-28",
+  "decisionDate": "2026-04-28",
+  "authorityPublicationDate": null,
+  "platformPublicationDate": null,
+  "summary": "Insufficient cooperation with supervisory authority The Spanish DPA has imposed a fine of EUR 6,000 on GATIGOS, S.L. The controller failed to react to multiple requests by the DPA. Legal basis: Art. 58 (1) GDPR.",
+  "category": "decisions",
+  "dedupKey": "spain enforcement action against gatigos s l 6 000|2026-04-28",
+  "tags": [
+    "enforcement",
+    "fines",
+    "spain",
+    "industry-and-commerce",
+    "etid-3133",
+    "gdpr"
+  ],
+  "originalLink": "https://www.aepd.es/documento/ps-00278-2025.pdf",
+  "fetchedAt": "2026-05-04T13:22:35.821Z"
+}
