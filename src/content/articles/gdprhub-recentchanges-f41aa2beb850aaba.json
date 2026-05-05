@@ -1,20 +1,20 @@
 {
-  "id": "gdprhub-recentchanges-632303d4d7a45888",
+  "id": "gdprhub-recentchanges-f41aa2beb850aaba",
   "title": "BVwG - W256 2233303-1",
   "source": "GDPRhub",
   "sourceId": "gdprhub-recentchanges",
   "sourceUrl": "https://gdprhub.eu/",
-  "publishedDate": "2026-05-04",
+  "publishedDate": "2026-05-05",
   "decisionDate": null,
   "authorityPublicationDate": null,
-  "platformPublicationDate": "2026-05-04",
-  "summary": "New GDPRhub court decision added for BVwG - W256 2233303-1. Jurisdiction: Austria. Original source listed by GDPRhub: RIS.",
+  "platformPublicationDate": "2026-05-05",
+  "summary": "GDPRhub updated its case-law record for BVwG - W256 2233303-1.",
   "category": "decisions",
-  "dedupKey": "bvwg w256 2233303 1|2026-05-04",
+  "dedupKey": "bvwg w256 2233303 1|2026-05-05",
   "tags": [
     "gdprhub",
     "case-law"
   ],
   "originalLink": "https://gdprhub.eu/index.php?title=BVwG%20-%20W256%202233303-1",
-  "fetchedAt": "2026-05-05T13:14:24.666Z"
+  "fetchedAt": "2026-05-05T19:05:20.350Z"
 }

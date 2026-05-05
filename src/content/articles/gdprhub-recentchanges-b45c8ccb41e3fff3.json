@@ -8,7 +8,7 @@
   "decisionDate": null,
   "authorityPublicationDate": null,
   "platformPublicationDate": "2026-05-05",
-  "summary": "New GDPRhub court decision added for BVwG - W298 2323263-1/11E. Jurisdiction: Austria. Original source listed by GDPRhub: RIS.",
+  "summary": "GDPRhub updated its case-law record for BVwG - W298 2323263-1/11E.",
   "category": "decisions",
   "dedupKey": "bvwg w298 2323263 1 11e|2026-05-05",
   "tags": [
@@ -16,5 +16,5 @@
     "case-law"
   ],
   "originalLink": "https://gdprhub.eu/index.php?title=BVwG%20-%20W298%202323263-1%2F11E",
-  "fetchedAt": "2026-05-05T13:14:24.666Z"
+  "fetchedAt": "2026-05-05T19:05:20.350Z"
 }
