@@ -1,0 +1,20 @@
+{
+  "id": "cnil-rss-en-10e55ab404fd49a2",
+  "title": "Vue d’ensemble",
+  "source": "CNIL",
+  "sourceId": "cnil-rss-en",
+  "sourceUrl": "https://www.cnil.fr/en",
+  "publishedDate": "2026-05-06",
+  "decisionDate": null,
+  "authorityPublicationDate": "2026-05-06",
+  "platformPublicationDate": "2026-05-06",
+  "summary": "Les autorités de protection des données et de la vie privée du G7 collaborent afin d’identifier les enjeux et opportunités communs, de s’adapter avec agilité aux évolutions en cours et de mettre en œuvre des approches réglementaires concertées visant, autant que possible, à assurer une uniformité et...",
+  "category": "guidance",
+  "dedupKey": "vue d ensemble|2026-05-06",
+  "tags": [
+    "france",
+    "cnil"
+  ],
+  "originalLink": "https://www.cnil.fr/fr/g7-vue-d-ensemble",
+  "fetchedAt": "2026-05-06T08:08:09.468Z"
+}

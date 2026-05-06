@@ -8,7 +8,7 @@
   "decisionDate": null,
   "authorityPublicationDate": null,
   "platformPublicationDate": "2026-05-05",
-  "summary": "New GDPRhub court decision added for ECtHR - CASE OF KANEV AND BULGARIAN HELSINKI COMMITTEE v. BULGARIA - K45864/22. Jurisdiction: European Union. Original source listed by GDPRhub: Bailii.",
+  "summary": "GDPRhub updated its case-law record for ECtHR - CASE OF KANEV AND BULGARIAN HELSINKI COMMITTEE v. BULGARIA - K45864/22.",
   "category": "decisions",
   "dedupKey": "ecthr case of kanev and bulgarian helsinki committee v bulgaria k45864 22|2026-05-05",
   "tags": [
@@ -16,5 +16,5 @@
     "case-law"
   ],
   "originalLink": "https://gdprhub.eu/index.php?title=ECtHR%20-%20CASE%20OF%20KANEV%20AND%20BULGARIAN%20HELSINKI%20COMMITTEE%20v.%20BULGARIA%20-%20K45864%2F22",
-  "fetchedAt": "2026-05-06T01:56:40.180Z"
+  "fetchedAt": "2026-05-06T08:08:11.127Z"
 }

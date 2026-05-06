@@ -1,0 +1,20 @@
+{
+  "id": "cnil-rss-en-890bbe3618e085a1",
+  "title": "Médiathèque",
+  "source": "CNIL",
+  "sourceId": "cnil-rss-en",
+  "sourceUrl": "https://www.cnil.fr/en",
+  "publishedDate": "2026-05-06",
+  "decisionDate": null,
+  "authorityPublicationDate": "2026-05-06",
+  "platformPublicationDate": "2026-05-06",
+  "summary": "Retrouvez dans cette rubrique les communiqués de presse ainsi que les photos et vidéos de l’évènement.",
+  "category": "guidance",
+  "dedupKey": "mediatheque|2026-05-06",
+  "tags": [
+    "france",
+    "cnil"
+  ],
+  "originalLink": "https://www.cnil.fr/fr/g7-mediatheque",
+  "fetchedAt": "2026-05-06T08:08:09.469Z"
+}
