@@ -8,7 +8,7 @@
   "decisionDate": null,
   "authorityPublicationDate": null,
   "platformPublicationDate": "2026-05-05",
-  "summary": "New GDPRhub case-law added for CJEU - T-84/24 - UU v Court of Justice of the European Union.",
+  "summary": "GDPRhub updated its case-law record for CJEU - T-84/24 - UU v Court of Justice of the European Union.",
   "category": "decisions",
   "dedupKey": "cjeu t 84 24 uu v court of justice of the european union|2026-05-05",
   "tags": [
@@ -16,5 +16,5 @@
     "case-law"
   ],
   "originalLink": "https://gdprhub.eu/index.php?title=CJEU%20-%20T-84%2F24%20-%20UU%20v%20Court%20of%20Justice%20of%20the%20European%20Union",
-  "fetchedAt": "2026-05-05T19:05:20.350Z"
+  "fetchedAt": "2026-05-06T01:56:40.180Z"
 }
