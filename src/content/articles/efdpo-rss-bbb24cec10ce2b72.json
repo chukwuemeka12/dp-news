@@ -1,20 +1,23 @@
 {
-  "id": "edpb-news-8e9362408af46bed",
+  "id": "efdpo-rss-bbb24cec10ce2b72",
   "title": "EDPB brings clarity to data processing for scientific research, speeds up the finalisation of the anonymisation guidelines and approves first European data protection seal as a tool for transfers",
-  "source": "EDPB News",
-  "sourceId": "edpb-news",
-  "sourceUrl": "https://edpb.europa.eu/news/news_en",
+  "source": "EFDPO",
+  "sourceId": "efdpo-rss",
+  "sourceUrl": "https://www.efdpo.eu/",
   "publishedDate": "2026-04-16",
   "decisionDate": null,
-  "authorityPublicationDate": "2026-04-16",
+  "authorityPublicationDate": null,
   "platformPublicationDate": "2026-04-16",
   "summary": "Brussels, 16 April – During its latest plenary, the EDPB has adopted Guidelines on processing of personal data for scientific research purposes. In addition, the Board has created a team to speed up the finalisation of the guidelines on anonymisation. The EDPB has also adopted two opinions on the tw...",
   "category": "guidance",
   "dedupKey": "edpb brings clarity to data processing for scientific research speeds up the finalisation of the anonymisation guidelines and approves first european data protection seal as a tool for transfers|2026-04-16",
   "tags": [
+    "europe",
+    "efdpo",
     "eu",
-    "edpb"
+    "rss-feed",
+    "european-data-protection-board"
   ],
-  "originalLink": "https://www.edpb.europa.eu/news/news/2026/edpb-brings-clarity-data-processing-scientific-research-speeds-finalisation_en",
-  "fetchedAt": "2026-05-07T02:00:18.128Z"
+  "originalLink": "https://www.efdpo.eu/edpb-brings-clarity-to-data-processing-for-scientific-research-speeds-up-the-finalisation-of-the-anonymisation-guidelines-and-approves-first-european-data-protection-seal-as-a-tool-for-transfers/",
+  "fetchedAt": "2026-05-07T08:16:16.509Z"
 }
