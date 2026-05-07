@@ -1,0 +1,23 @@
+{
+  "id": "cms-enforcement-tracker-e4c0637849652cfd",
+  "title": "ROMANIA enforcement action against RENAULT COMMERCIAL ROUMANIE S.R.L. (125,000)",
+  "source": "CMS Enforcement Tracker",
+  "sourceId": "cms-enforcement-tracker",
+  "sourceUrl": "https://www.enforcementtracker.com/",
+  "publishedDate": "2026-03-25",
+  "decisionDate": "2026-03-25",
+  "authorityPublicationDate": null,
+  "platformPublicationDate": null,
+  "summary": "Insufficient technical and organisational measures to ensure information security The Romanian DPA has imposed a fine of EUR 125,000 on RENAULT COMMERCIAL ROUMANIE S.R.L. The controller suffered a successful cyber attack due to insufficient technical and organisational measures to ensure data security, resulting in a large quantity of per...",
+  "category": "decisions",
+  "dedupKey": "romania enforcement action against renault commercial roumanie s r l 125 000|2026-03-25",
+  "tags": [
+    "enforcement",
+    "fines",
+    "romania",
+    "industry-and-commerce",
+    "etid-1207"
+  ],
+  "originalLink": "https://www.dataprotection.ro/index.jsp?page=Comunicat_Presa_25.03.2026",
+  "fetchedAt": "2026-05-07T13:28:44.393Z"
+}

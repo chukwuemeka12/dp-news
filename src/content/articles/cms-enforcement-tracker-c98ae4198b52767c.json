@@ -1,0 +1,23 @@
+{
+  "id": "cms-enforcement-tracker-c98ae4198b52767c",
+  "title": "SPAIN enforcement action against ARES CAPITAL, S.A. (200,000)",
+  "source": "CMS Enforcement Tracker",
+  "sourceId": "cms-enforcement-tracker",
+  "sourceUrl": "https://www.enforcementtracker.com/",
+  "publishedDate": "2026-03-04",
+  "decisionDate": "2026-03-04",
+  "authorityPublicationDate": null,
+  "platformPublicationDate": null,
+  "summary": "Insufficient legal basis for data processing The Spanish DPA has imposed a fine of EUR 200,000 on ARES CAPITAL, S.A. The controller required its employees to use mobile phones for work purposes. The controller offered corporate devices for this purpose, but was unable to provide enough for all employees who did not want to use their own m...",
+  "category": "decisions",
+  "dedupKey": "spain enforcement action against ares capital s a 200 000|2026-03-04",
+  "tags": [
+    "enforcement",
+    "fines",
+    "spain",
+    "employment",
+    "etid-1263"
+  ],
+  "originalLink": "https://www.aepd.es/documento/ps-00454-2024.pdf",
+  "fetchedAt": "2026-05-07T13:28:44.393Z"
+}

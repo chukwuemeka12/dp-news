@@ -1,0 +1,24 @@
+{
+  "id": "cms-enforcement-tracker-430d53c14d17cf07",
+  "title": "ROMANIA enforcement action against Altex Romania S.R.L. (8,000)",
+  "source": "CMS Enforcement Tracker",
+  "sourceId": "cms-enforcement-tracker",
+  "sourceUrl": "https://www.enforcementtracker.com/",
+  "publishedDate": "2026-03-05",
+  "decisionDate": "2026-03-05",
+  "authorityPublicationDate": null,
+  "platformPublicationDate": null,
+  "summary": "Insufficient cooperation with supervisory authority The Romanian DPA has imposed a fine of EUR 8,000 on Altex Romania S.R.L. The DPA has started an investigation into the data processing of the controller, which during the process failed to adequatly react to the DPAs requests. Legal basis: Art. 58 (1) GDPR.",
+  "category": "decisions",
+  "dedupKey": "romania enforcement action against altex romania s r l 8 000|2026-03-05",
+  "tags": [
+    "enforcement",
+    "fines",
+    "romania",
+    "industry-and-commerce",
+    "etid-1204",
+    "gdpr"
+  ],
+  "originalLink": "https://www.dataprotection.ro/index.jsp?page=Comunicat_Presa_05_03_2026",
+  "fetchedAt": "2026-05-07T13:28:44.393Z"
+}

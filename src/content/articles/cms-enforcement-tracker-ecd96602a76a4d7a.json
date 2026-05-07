@@ -1,0 +1,24 @@
+{
+  "id": "cms-enforcement-tracker-ecd96602a76a4d7a",
+  "title": "SPAIN enforcement action against Housing Association (450)",
+  "source": "CMS Enforcement Tracker",
+  "sourceId": "cms-enforcement-tracker",
+  "sourceUrl": "https://www.enforcementtracker.com/",
+  "publishedDate": "2026-03-13",
+  "decisionDate": "2026-03-13",
+  "authorityPublicationDate": null,
+  "platformPublicationDate": null,
+  "summary": "Insufficient cooperation with supervisory authority The Spanish DPA has imposed a fine of EUR 450 on a housing association. The DPA ordered the controller to take measures following a GDPR infringement. However, the controller failed to inform the DPA that these measures had been taken. Legal basis: Art. 58 (2) GDPR.",
+  "category": "decisions",
+  "dedupKey": "spain enforcement action against housing association 450|2026-03-13",
+  "tags": [
+    "enforcement",
+    "fines",
+    "spain",
+    "real-estate",
+    "etid-1267",
+    "gdpr"
+  ],
+  "originalLink": "https://www.aepd.es/documento/ps-00104-2025.pdf",
+  "fetchedAt": "2026-05-07T13:28:44.393Z"
+}

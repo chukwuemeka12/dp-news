@@ -1,0 +1,23 @@
+{
+  "id": "cms-enforcement-tracker-ffb3f22041426969",
+  "title": "ITALY enforcement action against Comune di Coccaglio (6,000)",
+  "source": "CMS Enforcement Tracker",
+  "sourceId": "cms-enforcement-tracker",
+  "sourceUrl": "https://www.enforcementtracker.com/",
+  "publishedDate": "2026-02-12",
+  "decisionDate": "2026-02-12",
+  "authorityPublicationDate": null,
+  "platformPublicationDate": null,
+  "summary": "Non-compliance with general data processing principles The Italian DPA has imposed a fine of EUR 6,000 on the Commune di Coccaglio. The controller uses video surveillance to protect its warehouse property. While the use of video surveillance for this purpose is lawful, the controller also used the footage in a disciplinary procedure again...",
+  "category": "decisions",
+  "dedupKey": "italy enforcement action against comune di coccaglio 6 000|2026-02-12",
+  "tags": [
+    "enforcement",
+    "fines",
+    "italy",
+    "employment",
+    "etid-1215"
+  ],
+  "originalLink": "https://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/10226611",
+  "fetchedAt": "2026-05-07T13:28:44.393Z"
+}

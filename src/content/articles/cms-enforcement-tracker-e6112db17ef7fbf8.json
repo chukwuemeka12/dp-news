@@ -1,0 +1,23 @@
+{
+  "id": "cms-enforcement-tracker-e6112db17ef7fbf8",
+  "title": "ITALY enforcement action against Lex Iuris S.r.l. (15,000)",
+  "source": "CMS Enforcement Tracker",
+  "sourceId": "cms-enforcement-tracker",
+  "sourceUrl": "https://www.enforcementtracker.com/",
+  "publishedDate": "2026-02-12",
+  "decisionDate": "2026-02-12",
+  "authorityPublicationDate": null,
+  "platformPublicationDate": null,
+  "summary": "Insufficient legal basis for data processing The Italian DPA has imposed a fine of EUR 15,000 on Lex Iuris S.r.l. The controller sent promotional emails to data subjects after mistakenly transferring those email addresses to a marketing list without their consent. Additionally, the controller failed to adequately respond to the data subje...",
+  "category": "decisions",
+  "dedupKey": "italy enforcement action against lex iuris s r l 15 000|2026-02-12",
+  "tags": [
+    "enforcement",
+    "fines",
+    "italy",
+    "public-sector-and-education",
+    "etid-1226"
+  ],
+  "originalLink": "https://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/10225019",
+  "fetchedAt": "2026-05-07T13:28:44.393Z"
+}

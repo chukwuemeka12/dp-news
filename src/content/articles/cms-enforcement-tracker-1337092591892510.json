@@ -1,0 +1,23 @@
+{
+  "id": "cms-enforcement-tracker-1337092591892510",
+  "title": "BELGIUM enforcement action against Accountancy Firm (8,500)",
+  "source": "CMS Enforcement Tracker",
+  "sourceId": "cms-enforcement-tracker",
+  "sourceUrl": "https://www.enforcementtracker.com/",
+  "publishedDate": "2026-04-23",
+  "decisionDate": "2026-04-23",
+  "authorityPublicationDate": null,
+  "platformPublicationDate": null,
+  "summary": "Insufficient legal basis for data processing The Belgian DPA has imposed a fine of EUR 8,500 on a accountancy firm. Following the termination of an employment contract, the controller failed to deactivate the former employee's personal work email address for a long time. Even after the former employee requested that the controller delete...",
+  "category": "decisions",
+  "dedupKey": "belgium enforcement action against accountancy firm 8 500|2026-04-23",
+  "tags": [
+    "enforcement",
+    "fines",
+    "belgium",
+    "employment",
+    "etid-1248"
+  ],
+  "originalLink": "https://www.autoriteprotectiondonnees.be/publications/decision-quant-au-fond-n0-86-2026.pdf",
+  "fetchedAt": "2026-05-07T13:28:44.393Z"
+}

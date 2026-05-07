@@ -1,0 +1,23 @@
+{
+  "id": "cms-enforcement-tracker-45a32678277a0f44",
+  "title": "SPAIN enforcement action against RAMÓN GRAU, S.L. (18,000)",
+  "source": "CMS Enforcement Tracker",
+  "sourceId": "cms-enforcement-tracker",
+  "sourceUrl": "https://www.enforcementtracker.com/",
+  "publishedDate": "2026-03-13",
+  "decisionDate": "2026-03-13",
+  "authorityPublicationDate": null,
+  "platformPublicationDate": null,
+  "summary": "Insufficient legal basis for data processing The Spanish DPA has imposed a fine of EUR 18,000 on RAMÓN GRAU, S.L. The controller used video surveillance in areas where employees were working. The camera system could also record sound and had been used to monitor employees. The controller had no sufficient legal basis for this processing a...",
+  "category": "decisions",
+  "dedupKey": "spain enforcement action against ramon grau s l 18 000|2026-03-13",
+  "tags": [
+    "enforcement",
+    "fines",
+    "spain",
+    "employment",
+    "etid-1266"
+  ],
+  "originalLink": "https://www.aepd.es/documento/ps-00264-2024.pdf",
+  "fetchedAt": "2026-05-07T13:28:44.393Z"
+}

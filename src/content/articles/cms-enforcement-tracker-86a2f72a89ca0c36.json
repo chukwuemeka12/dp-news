@@ -1,0 +1,23 @@
+{
+  "id": "cms-enforcement-tracker-86a2f72a89ca0c36",
+  "title": "SLOVENIA enforcement action against Legal Person (13,491)",
+  "source": "CMS Enforcement Tracker",
+  "sourceId": "cms-enforcement-tracker",
+  "sourceUrl": "https://www.enforcementtracker.com/",
+  "publishedDate": "2026-03-27",
+  "decisionDate": "2026-03-27",
+  "authorityPublicationDate": null,
+  "platformPublicationDate": null,
+  "summary": "Insufficient technical and organisational measures to ensure information security The Slovenian DPA has imposed a fine of EUR 13,491 on a legal person. The controller failed to implement adequate technical and organisational measures to ensure data security by not using a sufficient randomisation method, which allowed unauthorised persons...",
+  "category": "decisions",
+  "dedupKey": "slovenia enforcement action against legal person 13 491|2026-03-27",
+  "tags": [
+    "enforcement",
+    "fines",
+    "slovenia",
+    "not-assigned",
+    "etid-1246"
+  ],
+  "originalLink": "https://www.ip-rs.si/go?u=%2Ffileadmin%2Fuser_upload%2Fdocx%2FSUVP%2F0609_10_2026_7.docx",
+  "fetchedAt": "2026-05-07T13:28:44.393Z"
+}

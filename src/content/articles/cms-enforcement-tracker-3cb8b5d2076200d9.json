@@ -1,0 +1,23 @@
+{
+  "id": "cms-enforcement-tracker-3cb8b5d2076200d9",
+  "title": "POLAND enforcement action against Election Committee of Karol Nawrocki (8,470)",
+  "source": "CMS Enforcement Tracker",
+  "sourceId": "cms-enforcement-tracker",
+  "sourceUrl": "https://www.enforcementtracker.com/",
+  "publishedDate": "2026-02-13",
+  "decisionDate": "2026-02-13",
+  "authorityPublicationDate": null,
+  "platformPublicationDate": null,
+  "summary": "Insufficient legal basis for data processing The Polish DPA has imposed a fine of EUR 8,470 on the Election Committee of Karol Nawrocki. The controller published documents relating to a political affair concerning the purchase of real estate, which contained personal data that could have been pseudonymised or redacted. Therefore, there wa...",
+  "category": "decisions",
+  "dedupKey": "poland enforcement action against election committee of karol nawrocki 8 470|2026-02-13",
+  "tags": [
+    "enforcement",
+    "fines",
+    "poland",
+    "individuals-and-private-associations",
+    "etid-1202"
+  ],
+  "originalLink": "https://orzeczenia.uodo.gov.pl/document/urn:ndoc:gov:pl:uodo:2025:dkn_5131_12/content",
+  "fetchedAt": "2026-05-07T13:28:44.393Z"
+}

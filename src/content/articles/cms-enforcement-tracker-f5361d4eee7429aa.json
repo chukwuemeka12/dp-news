@@ -1,0 +1,23 @@
+{
+  "id": "cms-enforcement-tracker-f5361d4eee7429aa",
+  "title": "SPAIN enforcement action against MALAGASUITE SHOWROOM, S.L. (2,000)",
+  "source": "CMS Enforcement Tracker",
+  "sourceId": "cms-enforcement-tracker",
+  "sourceUrl": "https://www.enforcementtracker.com/",
+  "publishedDate": "2026-03-02",
+  "decisionDate": "2026-03-02",
+  "authorityPublicationDate": null,
+  "platformPublicationDate": null,
+  "summary": "Insufficient fulfilment of data subjects rights The Spanish DPA has imposed a fine of EUR 2,000 on MALAGASUITE SHOWROOM, S.L. The controller collected guest identification data for the purpose of tourist accommodation. While the controller had a sufficient legal basis for processing the data, the controller failed to adequately inform the...",
+  "category": "decisions",
+  "dedupKey": "spain enforcement action against malagasuite showroom s l 2 000|2026-03-02",
+  "tags": [
+    "enforcement",
+    "fines",
+    "spain",
+    "accomodation-and-hospitality",
+    "etid-1231"
+  ],
+  "originalLink": "https://www.aepd.es/documento/ps-00524-2025.pdf",
+  "fetchedAt": "2026-05-07T13:28:44.393Z"
+}

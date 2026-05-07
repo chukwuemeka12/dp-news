@@ -1,0 +1,23 @@
+{
+  "id": "cms-enforcement-tracker-cd07956031f27399",
+  "title": "SPAIN enforcement action against Unknown (1,000)",
+  "source": "CMS Enforcement Tracker",
+  "sourceId": "cms-enforcement-tracker",
+  "sourceUrl": "https://www.enforcementtracker.com/",
+  "publishedDate": "2026-03-01",
+  "decisionDate": "2026-03-01",
+  "authorityPublicationDate": null,
+  "platformPublicationDate": null,
+  "summary": "Non-compliance with general data processing principles The Italian DPA has imposed a fine of EUR 1,000 on a unknown data controller. The controller had been appointed to issue an energy performance certificate for a data subject. In that context, the controller requested a full copy of the front of their ID card alongside other informatio...",
+  "category": "decisions",
+  "dedupKey": "spain enforcement action against unknown 1 000|2026-03-01",
+  "tags": [
+    "enforcement",
+    "fines",
+    "spain",
+    "industry-and-commerce",
+    "etid-1229"
+  ],
+  "originalLink": "https://www.aepd.es/documento/ps-00292-2024.pdf",
+  "fetchedAt": "2026-05-07T13:28:44.393Z"
+}

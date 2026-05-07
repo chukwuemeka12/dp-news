@@ -1,0 +1,23 @@
+{
+  "id": "cms-enforcement-tracker-1c249d51f5ac8957",
+  "title": "ROMANIA enforcement action against ING Bank NV Amsterdam – Sucursala București S.A. (4,000)",
+  "source": "CMS Enforcement Tracker",
+  "sourceId": "cms-enforcement-tracker",
+  "sourceUrl": "https://www.enforcementtracker.com/",
+  "publishedDate": "2026-03-23",
+  "decisionDate": "2026-03-23",
+  "authorityPublicationDate": null,
+  "platformPublicationDate": null,
+  "summary": "Insufficient technical and organisational measures to ensure information security The Romanian DPA has imposed a fine of EUR 4,000 on ING Bank NV Amsterdam – Sucursala București S.A. The controller failed to implement adequate technical and organisational measures to ensure data security. This resulted in an employee handing bank account...",
+  "category": "decisions",
+  "dedupKey": "romania enforcement action against ing bank nv amsterdam sucursala bucuresti s a 4 000|2026-03-23",
+  "tags": [
+    "enforcement",
+    "fines",
+    "romania",
+    "finance-insurance-and-consulting",
+    "etid-1206"
+  ],
+  "originalLink": "https://www.dataprotection.ro/index.jsp?page=Comunicat_Presa_23.03.2026",
+  "fetchedAt": "2026-05-07T13:28:44.393Z"
+}
