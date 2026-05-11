@@ -8,7 +8,7 @@
   "decisionDate": null,
   "authorityPublicationDate": null,
   "platformPublicationDate": "2026-05-09",
-  "summary": "New GDPRhub court decision added for BVwG - W287 2250962-1. Jurisdiction: Austria. Original source listed by GDPRhub: RIS.",
+  "summary": "GDPRhub updated its case-law record for BVwG - W287 2250962-1.",
   "category": "decisions",
   "dedupKey": "bvwg w287 2250962 1|2026-05-09",
   "tags": [
@@ -16,5 +16,5 @@
     "case-law"
   ],
   "originalLink": "https://gdprhub.eu/index.php?title=BVwG%20-%20W287%202250962-1",
-  "fetchedAt": "2026-05-11T14:29:44.569Z"
+  "fetchedAt": "2026-05-11T19:27:36.058Z"
 }
