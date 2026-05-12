@@ -8,7 +8,7 @@
   "decisionDate": null,
   "authorityPublicationDate": null,
   "platformPublicationDate": "2026-05-09",
-  "summary": "New GDPRhub DPA decision added for DSB (Austria) - 2021-0.474.768. Jurisdiction: Austria. Original source listed by GDPRhub: RIS.",
+  "summary": "GDPRhub updated its case-law record for DSB (Austria) - 2021-0.474.768.",
   "category": "decisions",
   "dedupKey": "dsb austria 2021 0 474 768|2026-05-09",
   "tags": [
@@ -17,5 +17,5 @@
     "austria"
   ],
   "originalLink": "https://gdprhub.eu/index.php?title=DSB%20(Austria)%20-%202021-0.474.768",
-  "fetchedAt": "2026-05-12T02:05:18.257Z"
+  "fetchedAt": "2026-05-12T08:26:34.506Z"
 }
