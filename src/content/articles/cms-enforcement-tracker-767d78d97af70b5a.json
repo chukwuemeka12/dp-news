@@ -1,0 +1,23 @@
+{
+  "id": "cms-enforcement-tracker-767d78d97af70b5a",
+  "title": "AUSTRIA enforcement action against Advertising Agency (6,300)",
+  "source": "CMS Enforcement Tracker",
+  "sourceId": "cms-enforcement-tracker",
+  "sourceUrl": "https://www.enforcementtracker.com/",
+  "publishedDate": "2026-03-24",
+  "decisionDate": "2026-03-24",
+  "authorityPublicationDate": null,
+  "platformPublicationDate": null,
+  "summary": "Insufficient legal basis for data processing The Austrian DPA has imposed a fine of EUR 6,300 on an advertising agency. The controller recorded a business meeting in secret. The controller later used the recording as evidence in a claim. The controller took the case to the Austrian Federal Administrative Court, which upheld the decision....",
+  "category": "decisions",
+  "dedupKey": "austria enforcement action against advertising agency 6 300|2026-03-24",
+  "tags": [
+    "enforcement",
+    "fines",
+    "austria",
+    "industry-and-commerce",
+    "etid-3143"
+  ],
+  "originalLink": "https://www.ris.bka.gv.at/Dokumente/Bvwg/BVWGT_20260324_W298_2323263_1_00/BVWGT_20260324_W298_2323263_1_00.pdf",
+  "fetchedAt": "2026-05-18T14:54:42.749Z"
+}

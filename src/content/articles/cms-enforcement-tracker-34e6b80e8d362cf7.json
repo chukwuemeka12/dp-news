@@ -1,0 +1,23 @@
+{
+  "id": "cms-enforcement-tracker-34e6b80e8d362cf7",
+  "title": "BELGIUM enforcement action against Law Firm (4,920)",
+  "source": "CMS Enforcement Tracker",
+  "sourceId": "cms-enforcement-tracker",
+  "sourceUrl": "https://www.enforcementtracker.com/",
+  "publishedDate": "2026-05-08",
+  "decisionDate": "2026-05-08",
+  "authorityPublicationDate": null,
+  "platformPublicationDate": null,
+  "summary": "Insufficient fulfilment of data subjects rights The Belgian DPA has imposed a fine of EUR 4,920 on a law firm. The controller had a client relationship with the data subject. After the relationship ended, the data subject's daughter requested access to their personal data on behalf of the data subject. Initially, the controller denied the...",
+  "category": "decisions",
+  "dedupKey": "belgium enforcement action against law firm 4 920|2026-05-08",
+  "tags": [
+    "enforcement",
+    "fines",
+    "belgium",
+    "finance-insurance-and-consulting",
+    "etid-3145"
+  ],
+  "originalLink": "https://www.autoriteprotectiondonnees.be/publications/decision-quant-au-fond-n0-99-2026.pdf",
+  "fetchedAt": "2026-05-18T14:54:42.749Z"
+}
