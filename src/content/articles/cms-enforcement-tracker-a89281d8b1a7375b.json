@@ -1,0 +1,23 @@
+{
+  "id": "cms-enforcement-tracker-a89281d8b1a7375b",
+  "title": "SPAIN enforcement action against SIPHONE 2020, S.L. (4,000)",
+  "source": "CMS Enforcement Tracker",
+  "sourceId": "cms-enforcement-tracker",
+  "sourceUrl": "https://www.enforcementtracker.com/",
+  "publishedDate": "2026-04-28",
+  "decisionDate": "2026-04-28",
+  "authorityPublicationDate": null,
+  "platformPublicationDate": null,
+  "summary": "Insufficient legal basis for data processing The Spanish DPA has imposed a fine of EUR 4,000 on SIPHONE 2020, S.L. The controller had installed video surveillance on its business premises. The system captured video and audio, including employees' conversations. Employees had not been adequately informed or given their consent for this pro...",
+  "category": "decisions",
+  "dedupKey": "spain enforcement action against siphone 2020 s l 4 000|2026-04-28",
+  "tags": [
+    "enforcement",
+    "fines",
+    "spain",
+    "employment",
+    "etid-3167"
+  ],
+  "originalLink": "https://www.aepd.es/documento/ps-00615-2025.pdf",
+  "fetchedAt": "2026-05-20T20:01:53.400Z"
+}

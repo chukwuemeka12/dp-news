@@ -1,0 +1,24 @@
+{
+  "id": "cms-enforcement-tracker-159bc66a3cf8a758",
+  "title": "HUNGARY enforcement action against University of Szeged (5,570)",
+  "source": "CMS Enforcement Tracker",
+  "sourceId": "cms-enforcement-tracker",
+  "sourceUrl": "https://www.enforcementtracker.com/",
+  "publishedDate": "2026-02-20",
+  "decisionDate": "2026-02-20",
+  "authorityPublicationDate": null,
+  "platformPublicationDate": null,
+  "summary": "Insufficient legal basis for data processing The Hungarian DPA has imposed a fine of EUR 5,570 on the University of Szeged. The controller operates student housing. To determine which students would receive a place, the university processed the personal data of applicants, including health data, to determine their social circumstances, wh...",
+  "category": "decisions",
+  "dedupKey": "hungary enforcement action against university of szeged 5 570|2026-02-20",
+  "tags": [
+    "enforcement",
+    "fines",
+    "hungary",
+    "public-sector-and-education",
+    "etid-3169",
+    "health"
+  ],
+  "originalLink": "https://www.naih.hu/hatarozatok-vegzesek?download=1443:kollegiumi-felveteli-eljaras-adatkezelese",
+  "fetchedAt": "2026-05-20T20:01:53.400Z"
+}
