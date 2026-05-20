@@ -1,0 +1,24 @@
+{
+  "id": "cms-enforcement-tracker-c96671085ff7f86f",
+  "title": "ITALY enforcement action against Municipality (5,000)",
+  "source": "CMS Enforcement Tracker",
+  "sourceId": "cms-enforcement-tracker",
+  "sourceUrl": "https://www.enforcementtracker.com/",
+  "publishedDate": "2026-03-26",
+  "decisionDate": "2026-03-26",
+  "authorityPublicationDate": null,
+  "platformPublicationDate": null,
+  "summary": "Insufficient legal basis for data processing The Italian DPA has imposed a fine of EUR 5,000 on a municipality. The controller published a council resolution containing the personal data of a data subject that had not been adequately pseudonymised, as well as information regarding her pregnancy, maternity status, health and taking parenta...",
+  "category": "decisions",
+  "dedupKey": "italy enforcement action against municipality 5 000|2026-03-26",
+  "tags": [
+    "enforcement",
+    "fines",
+    "italy",
+    "employment",
+    "etid-3165",
+    "health"
+  ],
+  "originalLink": "https://www.gpdp.it/web/guest/home/docweb/-/docweb-display/docweb/10243180",
+  "fetchedAt": "2026-05-20T14:36:34.164Z"
+}

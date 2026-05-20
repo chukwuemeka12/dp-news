@@ -1,0 +1,23 @@
+{
+  "id": "cms-enforcement-tracker-46cb9b1018a715b2",
+  "title": "ITALY enforcement action against Business Owner (2,000)",
+  "source": "CMS Enforcement Tracker",
+  "sourceId": "cms-enforcement-tracker",
+  "sourceUrl": "https://www.enforcementtracker.com/",
+  "publishedDate": "2026-03-26",
+  "decisionDate": "2026-03-26",
+  "authorityPublicationDate": null,
+  "platformPublicationDate": null,
+  "summary": "Insufficient legal basis for data processing The Italian DPA has imposed a fine of EUR 2,000 on a business owner. The controller had been using video surveillance at his business premises. However, he did not put up any signs to inform data subjects about it, nor did he obtain the necessary authorisation from the labour inspectorate. Lega...",
+  "category": "decisions",
+  "dedupKey": "italy enforcement action against business owner 2 000|2026-03-26",
+  "tags": [
+    "enforcement",
+    "fines",
+    "italy",
+    "industry-and-commerce",
+    "etid-3158"
+  ],
+  "originalLink": "https://www.gpdp.it/web/guest/home/docweb/-/docweb-display/docweb/10246060",
+  "fetchedAt": "2026-05-20T14:36:34.164Z"
+}

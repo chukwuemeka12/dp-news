@@ -1,0 +1,23 @@
+{
+  "id": "cms-enforcement-tracker-0100402775cd52dd",
+  "title": "ITALY enforcement action against Eni S.p.A. (96,000)",
+  "source": "CMS Enforcement Tracker",
+  "sourceId": "cms-enforcement-tracker",
+  "sourceUrl": "https://www.enforcementtracker.com/",
+  "publishedDate": "2026-03-26",
+  "decisionDate": "2026-03-26",
+  "authorityPublicationDate": null,
+  "platformPublicationDate": null,
+  "summary": "Insufficient legal basis for data processing The Italian DPA has imposed a fine of EUR 96,000 on Eni S.p.A. The controller had been involved in a legal dispute with an NGO that had run a public campaign against them. In an attempt to defend itself publicly, the controller published court documents relating to a lawsuit initiated by the NG...",
+  "category": "decisions",
+  "dedupKey": "italy enforcement action against eni s p a 96 000|2026-03-26",
+  "tags": [
+    "enforcement",
+    "fines",
+    "italy",
+    "industry-and-commerce",
+    "etid-3161"
+  ],
+  "originalLink": "https://www.gpdp.it/web/guest/home/docweb/-/docweb-display/docweb/10238270",
+  "fetchedAt": "2026-05-20T14:36:34.164Z"
+}
