@@ -1,0 +1,23 @@
+{
+  "id": "cms-enforcement-tracker-c325bced78e3d77d",
+  "title": "ITALY enforcement action against Copacabana s.r.l. (2,000)",
+  "source": "CMS Enforcement Tracker",
+  "sourceId": "cms-enforcement-tracker",
+  "sourceUrl": "https://www.enforcementtracker.com/",
+  "publishedDate": "2026-03-26",
+  "decisionDate": "2026-03-26",
+  "authorityPublicationDate": null,
+  "platformPublicationDate": null,
+  "summary": "Insufficient legal basis for data processing The Italian DPA has imposed a fine of EUR 2,000 on Copacabana s.r.l. The controller operates a restaurant in Rome and uses video surveillance after being subjected to theft. However, the controller did not put up any signs to inform data subjects about the video surveillance, and failed to obta...",
+  "category": "decisions",
+  "dedupKey": "italy enforcement action against copacabana s r l 2 000|2026-03-26",
+  "tags": [
+    "enforcement",
+    "fines",
+    "italy",
+    "industry-and-commerce",
+    "etid-3157"
+  ],
+  "originalLink": "https://www.gpdp.it/web/guest/home/docweb/-/docweb-display/docweb/10246082",
+  "fetchedAt": "2026-05-20T08:53:32.800Z"
+}
