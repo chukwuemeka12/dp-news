@@ -1,0 +1,23 @@
+{
+  "id": "cms-enforcement-tracker-93cce91a54773aa8",
+  "title": "ITALY enforcement action against Poste Italiane S.p.a. (6,624,000)",
+  "source": "CMS Enforcement Tracker",
+  "sourceId": "cms-enforcement-tracker",
+  "sourceUrl": "https://www.enforcementtracker.com/",
+  "publishedDate": "2026-04-17",
+  "decisionDate": "2026-04-17",
+  "authorityPublicationDate": null,
+  "platformPublicationDate": null,
+  "summary": "Non-compliance with general data processing principles The Italian DPA has imposed a fine of EUR 6,624,000 on Poste Italiane S.p.a. The controller operated a banking application and used the ThreatMetrix fraud prevention tool. Use of the tool was mandatory for customers using the controller's banking app. The tool had been configured in s...",
+  "category": "decisions",
+  "dedupKey": "italy enforcement action against poste italiane s p a 6 624 000|2026-04-17",
+  "tags": [
+    "enforcement",
+    "fines",
+    "italy",
+    "finance-insurance-and-consulting",
+    "etid-3178"
+  ],
+  "originalLink": "https://www.gpdp.it/web/guest/home/docweb/-/docweb-display/docweb/10241537",
+  "fetchedAt": "2026-05-26T14:45:12.953Z"
+}

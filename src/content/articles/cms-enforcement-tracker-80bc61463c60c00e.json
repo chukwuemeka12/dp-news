@@ -1,0 +1,23 @@
+{
+  "id": "cms-enforcement-tracker-80bc61463c60c00e",
+  "title": "BELGIUM enforcement action against Isabel SA (120,000)",
+  "source": "CMS Enforcement Tracker",
+  "sourceId": "cms-enforcement-tracker",
+  "sourceUrl": "https://www.enforcementtracker.com/",
+  "publishedDate": "2026-05-12",
+  "decisionDate": "2026-05-12",
+  "authorityPublicationDate": null,
+  "platformPublicationDate": null,
+  "summary": "Insufficient fulfilment of data subjects rights The Belgian DPA has imposed a fine of EUR 120,000 on Isabel SA. The controller, who operates the 'TruliUs' authentication application, failed to provide data subjects with correct privacy information due to the fact that the data collected did not match that described in the privacy informat...",
+  "category": "decisions",
+  "dedupKey": "belgium enforcement action against isabel sa 120 000|2026-05-12",
+  "tags": [
+    "enforcement",
+    "fines",
+    "belgium",
+    "finance-insurance-and-consulting",
+    "etid-3174"
+  ],
+  "originalLink": "https://www.autoriteprotectiondonnees.be/publications/decision-quant-au-fond-n0-103-2026.pdf",
+  "fetchedAt": "2026-05-26T14:45:12.953Z"
+}

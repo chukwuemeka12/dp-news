@@ -1,0 +1,23 @@
+{
+  "id": "cms-enforcement-tracker-80d24d44b4dfa2e9",
+  "title": "ITALY enforcement action against Framos Italia s.r.l. (5,000)",
+  "source": "CMS Enforcement Tracker",
+  "sourceId": "cms-enforcement-tracker",
+  "sourceUrl": "https://www.enforcementtracker.com/",
+  "publishedDate": "2026-04-17",
+  "decisionDate": "2026-04-17",
+  "authorityPublicationDate": null,
+  "platformPublicationDate": null,
+  "summary": "Non-compliance with general data processing principles The Italian DPA has imposed a fine of EUR 5,000 on Framos Italia s.r.l. Following termination of the employment contract, the controller denied the data subject access to their personal work email account, but kept the account active. The controller also failed to adequately respond t...",
+  "category": "decisions",
+  "dedupKey": "italy enforcement action against framos italia s r l 5 000|2026-04-17",
+  "tags": [
+    "enforcement",
+    "fines",
+    "italy",
+    "employment",
+    "etid-3177"
+  ],
+  "originalLink": "https://www.gpdp.it/web/guest/home/docweb/-/docweb-display/docweb/10250265",
+  "fetchedAt": "2026-05-26T14:45:12.953Z"
+}

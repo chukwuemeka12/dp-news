@@ -8,7 +8,7 @@
   "decisionDate": null,
   "authorityPublicationDate": null,
   "platformPublicationDate": "2026-05-26",
-  "summary": "New GDPRhub DPA decision added for APD/GBA (Belgium) - 102/2026. Jurisdiction: Belgium. Original source listed by GDPRhub: APD.",
+  "summary": "GDPRhub updated its case-law record for APD/GBA (Belgium) - 102/2026.",
   "category": "decisions",
   "dedupKey": "apd gba belgium 102 2026|2026-05-26",
   "tags": [
@@ -17,5 +17,5 @@
     "belgium"
   ],
   "originalLink": "https://gdprhub.eu/index.php?title=APD%2FGBA%20(Belgium)%20-%20102%2F2026",
-  "fetchedAt": "2026-05-26T09:36:11.909Z"
+  "fetchedAt": "2026-05-26T14:45:11.499Z"
 }

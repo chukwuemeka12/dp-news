@@ -1,0 +1,23 @@
+{
+  "id": "cms-enforcement-tracker-5b65194d95bea79f",
+  "title": "BELGIUM enforcement action against Société Wallonne des Eaux (86,000)",
+  "source": "CMS Enforcement Tracker",
+  "sourceId": "cms-enforcement-tracker",
+  "sourceUrl": "https://www.enforcementtracker.com/",
+  "publishedDate": "2026-05-12",
+  "decisionDate": "2026-05-12",
+  "authorityPublicationDate": null,
+  "platformPublicationDate": null,
+  "summary": "Insufficient legal basis for data processing The Belgian DPA has imposed a fine of EUR 86,000 on Société Wallonne des Eaux. The controller had been recording and listening to phone calls with customers for service control and staff training purposes. However, the controller failed to adequately inform its employees about the recording of...",
+  "category": "decisions",
+  "dedupKey": "belgium enforcement action against societe wallonne des eaux 86 000|2026-05-12",
+  "tags": [
+    "enforcement",
+    "fines",
+    "belgium",
+    "public-sector-and-education",
+    "etid-3173"
+  ],
+  "originalLink": "https://www.autoriteprotectiondonnees.be/publications/decision-quant-au-fond-n0-102-2026.pdf",
+  "fetchedAt": "2026-05-26T14:45:12.953Z"
+}

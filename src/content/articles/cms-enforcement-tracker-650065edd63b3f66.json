@@ -1,0 +1,24 @@
+{
+  "id": "cms-enforcement-tracker-650065edd63b3f66",
+  "title": "ITALY enforcement action against Comune di Campo Calabro (6,000)",
+  "source": "CMS Enforcement Tracker",
+  "sourceId": "cms-enforcement-tracker",
+  "sourceUrl": "https://www.enforcementtracker.com/",
+  "publishedDate": "2026-04-17",
+  "decisionDate": "2026-04-17",
+  "authorityPublicationDate": null,
+  "platformPublicationDate": null,
+  "summary": "Insufficient legal basis for data processing The Italian DPA has imposed a fine of EUR 6,000 on the Comune di Campo Calabro. The controller published documents containing the personal data of employees, including information about their work performance. Legal basis: Art. 5 (1) a), c) GDPR, Art. 6 GDPR.",
+  "category": "decisions",
+  "dedupKey": "italy enforcement action against comune di campo calabro 6 000|2026-04-17",
+  "tags": [
+    "enforcement",
+    "fines",
+    "italy",
+    "employment",
+    "etid-3181",
+    "gdpr"
+  ],
+  "originalLink": "https://www.gpdp.it/web/guest/home/docweb/-/docweb-display/docweb/10251748",
+  "fetchedAt": "2026-05-26T14:45:12.953Z"
+}
