@@ -1,0 +1,24 @@
+{
+  "id": "cms-enforcement-tracker-4938b3985cae34c1",
+  "title": "HUNGARY enforcement action against Elektronikus Egészségügyi Szolgáltatási Tér (1,400)",
+  "source": "CMS Enforcement Tracker",
+  "sourceId": "cms-enforcement-tracker",
+  "sourceUrl": "https://www.enforcementtracker.com/",
+  "publishedDate": "2026-05-20",
+  "decisionDate": "2026-05-20",
+  "authorityPublicationDate": null,
+  "platformPublicationDate": null,
+  "summary": "Insufficient technical and organisational measures to ensure information security The Hungarian DPA has imposed a fine of EUR 1,400 on Elektronikus Egészségügyi Szolgáltatási Tér. The controller, an electronic health record provider, failed to prevent a former general practitioner from continuing to access the health data in 47 cases. The...",
+  "category": "decisions",
+  "dedupKey": "hungary enforcement action against elektronikus egeszsegugyi szolgaltatasi ter 1 400|2026-05-20",
+  "tags": [
+    "enforcement",
+    "fines",
+    "hungary",
+    "health-care",
+    "etid-3170",
+    "health"
+  ],
+  "originalLink": "https://www.naih.hu/hatarozatok-vegzesek?download=1450:jogalap-nelkuli-hozzaferes-az-eeszt-rendszerehez-es-hozzaferesi-kerelem-nemteljesitese",
+  "fetchedAt": "2026-05-26T09:36:13.290Z"
+}
