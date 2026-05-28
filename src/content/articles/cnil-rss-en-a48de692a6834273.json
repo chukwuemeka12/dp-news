@@ -1,0 +1,21 @@
+{
+  "id": "cnil-rss-en-a48de692a6834273",
+  "title": "Données de santé : sanction de 5 millions d’euros à l’encontre de la société IQVIA",
+  "source": "CNIL",
+  "sourceId": "cnil-rss-en",
+  "sourceUrl": "https://www.cnil.fr/en",
+  "publishedDate": "2026-05-28",
+  "decisionDate": null,
+  "authorityPublicationDate": "2026-05-28",
+  "platformPublicationDate": "2026-05-28",
+  "summary": "Le 26 mai 2026, la société IQVIA OPERATIONS FRANCE a été sanctionnée d’une amende de 5 millions d’euros, notamment pour non-respect des garanties visant à limiter les risques pour les personnes dans le cadre de la gestion d’entrepôts de données de santé.",
+  "category": "decisions",
+  "dedupKey": "donnees de sante sanction de 5 millions d euros a l encontre de la societe iqvia|2026-05-28",
+  "tags": [
+    "france",
+    "cnil",
+    "enforcement"
+  ],
+  "originalLink": "https://www.cnil.fr/fr/donnees-sante-sanction-5-millions-iqvia",
+  "fetchedAt": "2026-05-28T09:45:13.046Z"
+}
