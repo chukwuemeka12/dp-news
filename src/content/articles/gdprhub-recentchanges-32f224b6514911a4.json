@@ -8,7 +8,7 @@
   "decisionDate": null,
   "authorityPublicationDate": null,
   "platformPublicationDate": "2026-06-03",
-  "summary": "New GDPRhub DPA decision added for AEPD (Spain) - PS-00143-2025. Jurisdiction: Spain. Original source listed by GDPRhub: AEPD.",
+  "summary": "GDPRhub updated its case-law record for AEPD (Spain) - PS-00143-2025.",
   "category": "decisions",
   "dedupKey": "aepd spain ps 00143 2025|2026-06-03",
   "tags": [
@@ -17,5 +17,5 @@
     "spain"
   ],
   "originalLink": "https://gdprhub.eu/index.php?title=AEPD%20(Spain)%20-%20PS-00143-2025",
-  "fetchedAt": "2026-06-08T02:41:39.757Z"
+  "fetchedAt": "2026-06-08T10:17:24.386Z"
 }
