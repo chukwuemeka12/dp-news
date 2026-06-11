@@ -1,0 +1,30 @@
+{
+  "id": "ico-enforcement-actions-91298aa2ac98a3bf",
+  "title": "Post Office Limited",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2025-12-02",
+  "decisionDate": "2025-12-02",
+  "authorityPublicationDate": "2025-12-02",
+  "platformPublicationDate": "2025-12-02",
+  "summary": "On 25 April 2024, Post Office Limited (POL) uploaded an unredacted copy of a legal Settlement Deed to its corporate website instead of the intended redacted version. The Settlement Deed contained the personal data of 502 claimants who were part of the 2017 group litigation brought against POL which exposed the Horizon IT Scandal.",
+  "category": "decisions",
+  "dedupKey": "post office limited|2025-12-02",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "reprimands"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2025/12/post-office-limited/",
+  "documentUrl": "https://ico.org.uk/media2/sroaikut/post-office-limited-reprimand-20251202.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-91298aa2ac98a3bf.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 251684,
+  "documentSha256": "7a2c3e708bfc1a3785188987bbcfb17e40222b7f3a4de8f72fe02ccc0a5f6c55",
+  "documentDownloadedAt": "2026-06-11T11:34:53.580Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/sroaikut/post-office-limited-reprimand-20251202.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

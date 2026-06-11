@@ -1,0 +1,31 @@
+{
+  "id": "ico-enforcement-actions-714cbfe995c1a04f",
+  "title": "Staines Health Group",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2025-12-16",
+  "decisionDate": "2025-12-16",
+  "authorityPublicationDate": "2025-12-16",
+  "platformPublicationDate": "2025-12-16",
+  "summary": "Reprimand Issued - Staines Health Group sent excessive medical details about a terminally ill patient to their insurance company. The patient requested that five years of medical records be sent to them to review, before being sent to the insurer in order to progress the claim. But, instead of five years medical history being sent to the...",
+  "category": "decisions",
+  "dedupKey": "staines health group|2025-12-16",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "reprimands",
+    "health"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2025/12/staines-health-group/",
+  "documentUrl": "https://ico.org.uk/media2/ydzp0vgm/20251216-staines-health-group-reprimand.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-714cbfe995c1a04f.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 224682,
+  "documentSha256": "d59701b12213b15b654813cfa4451b5f2b39a760570b1cf80c59d6d42324de9b",
+  "documentDownloadedAt": "2026-04-16T04:15:16.755Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/ydzp0vgm/20251216-staines-health-group-reprimand.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

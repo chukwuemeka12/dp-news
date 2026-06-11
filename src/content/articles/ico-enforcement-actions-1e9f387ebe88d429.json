@@ -1,0 +1,32 @@
+{
+  "id": "ico-enforcement-actions-1e9f387ebe88d429",
+  "title": "Ice Telecommunications Ltd",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2023-05-16",
+  "decisionDate": "2023-05-16",
+  "authorityPublicationDate": "2023-05-16",
+  "platformPublicationDate": "2023-05-16",
+  "summary": "Ice Telecommunications Ltd made 72,682 unsolicited marketing calls to businesses registered with the CTPS or TPS between 13 September 2021 and 31 January 2022.",
+  "category": "decisions",
+  "dedupKey": "ice telecommunications ltd|2023-05-16",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "enforcement-notices",
+    "marketing",
+    "monetary-penalties"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2023/05/ice-telecommunications-ltd-en/",
+  "documentUrl": "https://ico.org.uk/media2/migrated/4025189/ice-telecommunications-en-20230509.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-1e9f387ebe88d429.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 211456,
+  "documentSha256": "eebd7912b619797b22c241aa06cacd1f8014d02c2229cc0cf5dfcf57b7283d35",
+  "documentDownloadedAt": "2026-04-16T04:17:33.309Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/migrated/4025189/ice-telecommunications-en-20230509.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

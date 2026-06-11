@@ -1,0 +1,31 @@
+{
+  "id": "ico-enforcement-actions-ca37d82dd826ecfc",
+  "title": "University Hospitals Bristol and Weston NHS Foundation Trust",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2023-03-07",
+  "decisionDate": "2023-03-07",
+  "authorityPublicationDate": "2023-03-07",
+  "platformPublicationDate": "2023-03-07",
+  "summary": "Patient records were saved on to an Electronic Document Viewing System. The Trust decided to terminate the use of this system and the records on it were downloaded prior to allowing the system licence to expire. However this download was not fully successful but this was not investigated prior to the licence expiry and therefore a number...",
+  "category": "decisions",
+  "dedupKey": "university hospitals bristol and weston nhs foundation trust|2023-03-07",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "reprimands",
+    "health"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2023/03/university-hospitals-bristol-and-weston-nhs-foundation-trust/",
+  "documentUrl": "https://ico.org.uk/media2/migrated/4024607/reprimand-university-hospitals-bristol-and-weston-nhs-foundation-trust.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-ca37d82dd826ecfc.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 188133,
+  "documentSha256": "a80b395909a28df27e5b54e2dbf7676153ef734e94e113569618ac4bee27b111",
+  "documentDownloadedAt": "2026-04-16T04:17:52.161Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/migrated/4024607/reprimand-university-hospitals-bristol-and-weston-nhs-foundation-trust.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

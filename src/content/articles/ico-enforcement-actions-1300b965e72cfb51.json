@@ -1,0 +1,32 @@
+{
+  "id": "ico-enforcement-actions-1300b965e72cfb51",
+  "title": "Police Service of Scotland",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2025-12-12",
+  "decisionDate": "2025-12-12",
+  "authorityPublicationDate": "2025-12-12",
+  "platformPublicationDate": "2025-12-12",
+  "summary": "The Information Commissioner's Office (ICO) has fined the Police Service of Scotland £66,000 and issued a Reprimand for serious failures in the handling of sensitive personal information.",
+  "category": "decisions",
+  "dedupKey": "police service of scotland|2025-12-12",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "reprimands",
+    "monetary-penalties",
+    "criminal-justice"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2025/12/police-service-of-scotland/",
+  "documentUrl": "https://ico.org.uk/media2/b1kcsxom/police-scotland-reprimand-and-penalty-notice.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-1300b965e72cfb51.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 520126,
+  "documentSha256": "6c4ca89f2c708c053cedf394c75c4cbf2185fc793ebc0f9ff254d28da7f941ed",
+  "documentDownloadedAt": "2026-04-16T04:15:17.711Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/b1kcsxom/police-scotland-reprimand-and-penalty-notice.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

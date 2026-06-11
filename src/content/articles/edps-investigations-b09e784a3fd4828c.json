@@ -1,0 +1,33 @@
+{
+  "id": "edps-investigations-b09e784a3fd4828c",
+  "title": "\"IDOC\" - Commission",
+  "source": "EDPS Investigations",
+  "sourceId": "edps-investigations",
+  "sourceUrl": "https://www.edps.europa.eu/data-protection/our-work/subjects/privacy-eu-institutions/investigations_en",
+  "publishedDate": "2005-04-20",
+  "decisionDate": "2005-04-20",
+  "authorityPublicationDate": "2005-04-20",
+  "platformPublicationDate": "2005-04-20",
+  "summary": "Opinion of 20 April 2005 on the notification for prior checking relating to internal administrative inquiries and disciplinary procedures within the European Commission (Case 2004-187)",
+  "category": "decisions",
+  "dedupKey": "idoc commission|2005-04-20",
+  "tags": [
+    "eu",
+    "edps",
+    "investigations",
+    "case-law",
+    "privacy-in-the-eu-institutions",
+    "staff-evaluation",
+    "conflicts-of-interest"
+  ],
+  "sourceDetailUrl": "https://www.edps.europa.eu/data-protection/our-work/publications/opinions-prior-check/idoc-commission_en",
+  "documentUrl": "https://www.edps.europa.eu/sites/default/files/publication/05-04-20_commission_idoc_en.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/edps-investigations/edps-investigations-b09e784a3fd4828c.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 114584,
+  "documentSha256": "8bf030605cebc19e3676e275c66c04f9e27b73e1cfe088a771459aaf2d0d5f62",
+  "documentDownloadedAt": "2026-06-10T20:14:29.843Z",
+  "documentDownloadError": null,
+  "originalLink": "https://www.edps.europa.eu/sites/default/files/publication/05-04-20_commission_idoc_en.pdf",
+  "fetchedAt": "2026-06-10T20:10:49.951Z"
+}

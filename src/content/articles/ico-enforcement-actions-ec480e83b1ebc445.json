@@ -1,0 +1,31 @@
+{
+  "id": "ico-enforcement-actions-ec480e83b1ebc445",
+  "title": "Chartered Institute for Securities & Investment",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2023-02-21",
+  "decisionDate": "2023-02-21",
+  "authorityPublicationDate": "2023-02-21",
+  "platformPublicationDate": "2023-02-21",
+  "summary": "An unauthorised third party exploited a known vulnerability in the Sitefinity software to leverage a bruteforce attack to upload a malicious code to the Chartered Institute for Securities & Investment (CISI)’s website checkout page. The code captured payment details of an estimated 3,883 UK Data Subjects, as well as other personal data in...",
+  "category": "decisions",
+  "dedupKey": "chartered institute for securities investment|2023-02-21",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "reprimands",
+    "charitable-and-voluntary"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2023/02/chartered-institute-for-securities-investment/",
+  "documentUrl": "https://ico.org.uk/media2/1kip5gw2/chartered-institiute-for-securities-and-investment-reprimand.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-ec480e83b1ebc445.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 210162,
+  "documentSha256": "95f60957ea8d9cd2437f17a786d1c1a810621a2ae92cbcf79e475376c38b61b7",
+  "documentDownloadedAt": "2026-04-16T04:17:54.657Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/1kip5gw2/chartered-institiute-for-securities-and-investment-reprimand.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "edps-investigations-32df2bbfb26dfb3a",
+  "title": "Disciplinary files - Parliament",
+  "source": "EDPS Investigations",
+  "sourceId": "edps-investigations",
+  "sourceUrl": "https://www.edps.europa.eu/data-protection/our-work/subjects/privacy-eu-institutions/investigations_en",
+  "publishedDate": "2005-03-21",
+  "decisionDate": "2005-03-21",
+  "authorityPublicationDate": "2005-03-21",
+  "platformPublicationDate": "2005-03-21",
+  "summary": "Opinion of 21 March 2005 on the notification for prior checking relating to data processing in the context of disciplinary files (Case 2004-198)",
+  "category": "decisions",
+  "dedupKey": "disciplinary files parliament|2005-03-21",
+  "tags": [
+    "eu",
+    "edps",
+    "investigations",
+    "case-law",
+    "privacy-in-the-eu-institutions"
+  ],
+  "sourceDetailUrl": "https://www.edps.europa.eu/data-protection/our-work/publications/opinions-prior-check/disciplinary-files-parliament_en",
+  "documentUrl": "https://www.edps.europa.eu/sites/default/files/publication/05-03-21_parliament_disciplinary_files_en.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/edps-investigations/edps-investigations-32df2bbfb26dfb3a.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 101822,
+  "documentSha256": "95b51616f630af139c2cf4259a7badcaf79c5ec1da04074ba18d2d446577a550",
+  "documentDownloadedAt": "2026-04-05T14:22:11.240Z",
+  "documentDownloadError": null,
+  "originalLink": "https://www.edps.europa.eu/sites/default/files/publication/05-03-21_parliament_disciplinary_files_en.pdf",
+  "fetchedAt": "2026-06-10T20:10:49.951Z"
+}

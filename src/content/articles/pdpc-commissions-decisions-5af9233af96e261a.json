@@ -1,0 +1,31 @@
+{
+  "id": "pdpc-commissions-decisions-5af9233af96e261a",
+  "title": "No Breach of the Protection Obligation by QCP Capital",
+  "source": "Singapore PDPC Decisions",
+  "sourceId": "pdpc-commissions-decisions",
+  "sourceUrl": "https://www.pdpc.gov.sg/all-commissions-decisions",
+  "publishedDate": "2022-10-25",
+  "decisionDate": "2022-10-25",
+  "authorityPublicationDate": "2022-10-25",
+  "platformPublicationDate": "2022-10-25",
+  "summary": "QCP Capital was found not in breach of the PDPA in relation to an incident whereby threat actor(s) exfiltrated personal data via unauthorised access to an employee's account.",
+  "category": "decisions",
+  "dedupKey": "no breach of the protection obligation by qcp capital|2022-10-25",
+  "tags": [
+    "singapore",
+    "pdpc",
+    "enforcement",
+    "protection",
+    "not-in-breach"
+  ],
+  "sourceDetailUrl": "https://www.pdpc.gov.sg/all-commissions-decisions/2022/10/no-breach-of-the-protection-obligation-by-qcp-capital",
+  "documentUrl": "https://www.pdpc.gov.sg/-/media/files/pdpc/pdf-files/commissions-decisions/decision---qcp-capital-pte-ltd---16092022-(002).pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/pdpc-commissions-decisions/pdpc-commissions-decisions-5af9233af96e261a.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 123337,
+  "documentSha256": "91758951027b48baf0887b589f91c6fdb70aef77ad3b57d1830246cf29d5b706",
+  "documentDownloadedAt": "2026-04-05T15:03:47.138Z",
+  "documentDownloadError": null,
+  "originalLink": "https://www.pdpc.gov.sg/-/media/files/pdpc/pdf-files/commissions-decisions/decision---qcp-capital-pte-ltd---16092022-(002).pdf",
+  "fetchedAt": "2026-04-16T04:11:05.443Z"
+}

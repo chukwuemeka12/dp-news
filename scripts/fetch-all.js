@@ -5,6 +5,7 @@ const commands = [
 	['node', './scripts/fetch-gdprhub.js'],
 	['node', './scripts/fetch-enforcement.js'],
 	['node', './scripts/fetch-official-decisions.js'],
+	['node', './scripts/download-official-documents.js'],
 ];
 
 for (const [command, script] of commands) {

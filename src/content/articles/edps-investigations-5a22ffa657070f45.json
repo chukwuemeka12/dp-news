@@ -1,0 +1,31 @@
+{
+  "id": "edps-investigations-5a22ffa657070f45",
+  "title": "Administrative inquiries and disciplinary proceedings - EBA",
+  "source": "EDPS Investigations",
+  "sourceId": "edps-investigations",
+  "sourceUrl": "https://www.edps.europa.eu/data-protection/our-work/subjects/privacy-eu-institutions/investigations_en",
+  "publishedDate": "2018-07-24",
+  "decisionDate": "2018-07-24",
+  "authorityPublicationDate": "2018-07-24",
+  "platformPublicationDate": "2018-07-24",
+  "summary": "Prior-check Opinion on \"administrative inquiries and disciplinary proceedings\" at EBA (EDPS Case 2017-1083)",
+  "category": "decisions",
+  "dedupKey": "administrative inquiries and disciplinary proceedings eba|2018-07-24",
+  "tags": [
+    "eu",
+    "edps",
+    "investigations",
+    "case-law",
+    "privacy-in-the-eu-institutions"
+  ],
+  "sourceDetailUrl": "https://www.edps.europa.eu/data-protection/our-work/publications/opinions-prior-check/administrative-inquiries-and-12",
+  "documentUrl": "https://www.edps.europa.eu/sites/default/files/publication/18-07-24_letter-opinion_eba_case-2017-1083_en.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/edps-investigations/edps-investigations-5a22ffa657070f45.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 211498,
+  "documentSha256": "80375720e5e28a88e742a400bf1069863f0bf79a18afaf41622f411664b0b99b",
+  "documentDownloadedAt": "2026-04-05T14:21:51.084Z",
+  "documentDownloadError": null,
+  "originalLink": "https://www.edps.europa.eu/sites/default/files/publication/18-07-24_letter-opinion_eba_case-2017-1083_en.pdf",
+  "fetchedAt": "2026-06-10T20:10:49.951Z"
+}

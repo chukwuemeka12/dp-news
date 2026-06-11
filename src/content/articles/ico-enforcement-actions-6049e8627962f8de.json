@@ -1,0 +1,31 @@
+{
+  "id": "ico-enforcement-actions-6049e8627962f8de",
+  "title": "London Borough of Lambeth",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2022-09-23",
+  "decisionDate": "2022-09-23",
+  "authorityPublicationDate": "2022-09-23",
+  "platformPublicationDate": "2022-09-23",
+  "summary": "London Borough of Lambeth has only responded to 74% of the SARs it has received within the statutory timescales from 1 August 2020 to 11 August 2021. This equates to 268 SARs. The council continues to have a backlog of SAR cases and, based on the updated figures, does not appear to be improving.",
+  "category": "decisions",
+  "dedupKey": "london borough of lambeth|2022-09-23",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "reprimands",
+    "local-government"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2022/09/london-borough-of-lambeth/",
+  "documentUrl": "https://ico.org.uk/media2/migrated/4025202/lambeth-reprimand-letter.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-6049e8627962f8de.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 178660,
+  "documentSha256": "23b044e73718db2628a2cd33891f6c7867e830c02c49053cee0bfae75c401649",
+  "documentDownloadedAt": "2026-04-16T04:18:04.083Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/migrated/4025202/lambeth-reprimand-letter.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "dpc-published-decisions-6a02fd4279c1a8b9",
+  "title": "Inquiry into TikTok Technology Limited - April 2025",
+  "source": "Irish DPC Decisions",
+  "sourceId": "dpc-published-decisions",
+  "sourceUrl": "https://www.dataprotection.ie/en/dpc-guidance/law/decisions-made-under-data-protection-act-2018",
+  "publishedDate": "2025-04-30",
+  "decisionDate": "2025-04-30",
+  "authorityPublicationDate": null,
+  "platformPublicationDate": null,
+  "summary": "02nd October 2025 Findings: The DPC found that TikTok infringed Article 46(1) GDPR during the temporal scope of the Inquiry by carrying out the Data Transfers while failing to verify, guarantee and demonstrate that that the personal data of EEA users subject to the Data Transfers was afforded a level of protection essentially equivalent t...",
+  "category": "decisions",
+  "dedupKey": "inquiry into tiktok technology limited april 2025|2025-04-30",
+  "tags": [
+    "ireland",
+    "dpc",
+    "case-law",
+    "gdpr"
+  ],
+  "sourceDetailUrl": "https://dataprotection.ie/en/treoir-ccs/law/decisions/inquiry-tiktok-technology-limited-april-2025",
+  "documentUrl": "https://www.dataprotection.ie/sites/default/files/uploads/2025-10/Inquiry%20into%20TikTok%20Technology%20Limited%20April%202025.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/dpc-published-decisions/dpc-published-decisions-6a02fd4279c1a8b9.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 3129386,
+  "documentSha256": "deb365d9ada6c4bd061ab53316fa64654e0439807e2d74ebf28bec1fe3a12952",
+  "documentDownloadedAt": "2026-06-02T13:00:31.643Z",
+  "documentDownloadError": null,
+  "originalLink": "https://www.dataprotection.ie/sites/default/files/uploads/2025-10/Inquiry%20into%20TikTok%20Technology%20Limited%20April%202025.pdf",
+  "fetchedAt": "2026-04-16T04:10:42.786Z"
+}

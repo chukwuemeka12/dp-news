@@ -25,6 +25,23 @@ const ENTITY_MAP = {
 	quot: '"',
 };
 
+const LOCALIZED_MONTHS = new Map([
+	['janvier', '01'],
+	['fevrier', '02'],
+	['mars', '03'],
+	['avril', '04'],
+	['mai', '05'],
+	['juin', '06'],
+	['juillet', '07'],
+	['aout', '08'],
+	['septembre', '09'],
+	['octobre', '10'],
+	['novembre', '11'],
+	['decembre', '12'],
+]);
+
+const SOURCE_BY_ID = new Map(SOURCE_CONFIG.map((source) => [source.id, source]));
+
 export function createEmptyStatus() {
 	return {
 		generatedAt: '',
@@ -249,6 +266,7 @@ export function removeArticlesBySourceId(map, sourceId) {
 export function removeCrossSourceDuplicates(map) {
 	const byDedupKey = new Map();
 	const sourcePriority = new Map(SOURCE_CONFIG.map((source) => [source.id, source.priority ?? 0]));
+	const sourceKind = new Map(SOURCE_CONFIG.map((source) => [source.id, source.kind]));
 
 	for (const article of map.values()) {
 		const existing = byDedupKey.get(article.dedupKey);
@@ -257,18 +275,35 @@ export function removeCrossSourceDuplicates(map) {
 			continue;
 		}
 
-		const existingPriority = sourcePriority.get(existing.sourceId) ?? 0;
-		const articlePriority = sourcePriority.get(article.sourceId) ?? 0;
-		const winner =
-			articlePriority > existingPriority
-				? article
-				: articlePriority < existingPriority
-					? existing
-					: article.summary.length > existing.summary.length
-						? article
-						: existing;
+		const existingIsOfficial = sourceKind.get(existing.sourceId) === 'official-decisions';
+		const articleIsOfficial = sourceKind.get(article.sourceId) === 'official-decisions';
 
-		byDedupKey.set(article.dedupKey, winner);
+		let winner;
+		if (existingIsOfficial !== articleIsOfficial) {
+			// Official-decision sources always beat non-official sources.
+			winner = articleIsOfficial ? article : existing;
+		} else {
+			// Within the same tier, use numeric priority then summary length.
+			const existingPriority = sourcePriority.get(existing.sourceId) ?? 0;
+			const articlePriority = sourcePriority.get(article.sourceId) ?? 0;
+			winner =
+				articlePriority > existingPriority
+					? article
+					: articlePriority < existingPriority
+						? existing
+						: article.summary.length > existing.summary.length
+							? article
+							: existing;
+		}
+
+		const loser = winner === article ? existing : article;
+
+		// Enrich the winner with tags and summary from the loser.
+		const mergedSummary =
+			loser.summary.length > winner.summary.length ? loser.summary : winner.summary;
+		const mergedTags = [...new Set([...(winner.tags ?? []), ...(loser.tags ?? [])])].slice(0, 8);
+
+		byDedupKey.set(article.dedupKey, { ...winner, summary: mergedSummary, tags: mergedTags });
 	}
 
 	map.clear();
@@ -343,6 +378,11 @@ export function normalizeDate(value, fallback = new Date().toISOString().slice(0
 		return fallback;
 	}
 
+	const localizedRaw = raw
+		.normalize('NFD')
+		.replace(/[\u0300-\u036f]/g, '')
+		.toLowerCase();
+
 	if (/^\d{4}$/.test(raw)) {
 		return `${raw}-01-01`;
 	}
@@ -357,6 +397,15 @@ export function normalizeDate(value, fallback = new Date().toISOString().slice(0
 	if (yearFirstMatch) {
 		const [, year, month, day] = yearFirstMatch;
 		return `${year}-${month}-${day}`;
+	}
+
+	const localizedMonthMatch = localizedRaw.match(/^(\d{1,2})\s+([a-z]+)\s+(\d{4})$/);
+	if (localizedMonthMatch) {
+		const [, day, monthName, year] = localizedMonthMatch;
+		const month = LOCALIZED_MONTHS.get(monthName);
+		if (month) {
+			return `${year}-${month}-${day.padStart(2, '0')}`;
+		}
 	}
 
 	const date = new Date(raw);
@@ -402,6 +451,11 @@ export function extractPlainText(value = '') {
 function applyRetention(articles) {
 	return articles
 		.filter((article) => {
+			const source = SOURCE_BY_ID.get(article.sourceId);
+			if (source?.disableRetention) {
+				return true;
+			}
+
 			const cutoff = new Date();
 			const retentionDays = article.category === 'decisions' ? DECISION_RETENTION_DAYS : RETENTION_DAYS;
 			cutoff.setUTCDate(cutoff.getUTCDate() - retentionDays);

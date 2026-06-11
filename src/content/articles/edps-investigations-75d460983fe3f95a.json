@@ -1,0 +1,31 @@
+{
+  "id": "edps-investigations-75d460983fe3f95a",
+  "title": "Audio recording - European Economic and Social Committee",
+  "source": "EDPS Investigations",
+  "sourceId": "edps-investigations",
+  "sourceUrl": "https://www.edps.europa.eu/data-protection/our-work/subjects/privacy-eu-institutions/investigations_en",
+  "publishedDate": "2009-12-15",
+  "decisionDate": "2009-12-15",
+  "authorityPublicationDate": "2009-12-15",
+  "platformPublicationDate": "2009-12-15",
+  "summary": "Answer to a notification of prior checking relating to audio recording (Case 2009-688)",
+  "category": "decisions",
+  "dedupKey": "audio recording european economic and social committee|2009-12-15",
+  "tags": [
+    "eu",
+    "edps",
+    "investigations",
+    "case-law",
+    "privacy-in-the-eu-institutions"
+  ],
+  "sourceDetailUrl": "https://www.edps.europa.eu/data-protection/our-work/publications/opinions-non-prior-check/audio-recording-european-economic-and",
+  "documentUrl": "https://www.edps.europa.eu/sites/default/files/publication/09-12-15_eesc_audio_recording_en.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/edps-investigations/edps-investigations-75d460983fe3f95a.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 27812,
+  "documentSha256": "1043facb47a106cbe9c492feaf83493d57fcdb3d8557c02864419faa7f943b37",
+  "documentDownloadedAt": "2026-04-05T14:22:03.432Z",
+  "documentDownloadError": null,
+  "originalLink": "https://www.edps.europa.eu/sites/default/files/publication/09-12-15_eesc_audio_recording_en.pdf",
+  "fetchedAt": "2026-06-10T20:10:49.951Z"
+}

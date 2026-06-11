@@ -1,0 +1,32 @@
+{
+  "id": "opc-canada-pipeda-investigations-fa2928d5ec926a99",
+  "title": "Joint investigation of Clearview AI, Inc. by the Office of the Privacy Commissioner of Canada, the Commission d’accès à l’information du Québec , the Information and Privacy Commissioner for British Columbia, and the Information Privacy Commissioner of Alberta",
+  "source": "Canada OPC Business Investigations",
+  "sourceId": "opc-canada-pipeda-investigations",
+  "sourceUrl": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/",
+  "publishedDate": "2021-02-03",
+  "decisionDate": "2021-02-02",
+  "authorityPublicationDate": "2021-02-02",
+  "platformPublicationDate": "2021-02-03",
+  "summary": "Joint investigation of Clearview AI, Inc. by the Office of the Privacy Commissioner of Canada, the Commission d’accès à l’information du Québec , the Information and Privacy Commissioner for British Columbia, and the Information Privacy Commissioner of Alberta",
+  "category": "decisions",
+  "dedupKey": "joint investigation of clearview ai inc by the office of the privacy commissioner of canada the commission d acces a l information du quebec the information and privacy commissioner for british columbia and the information privacy commissioner of alberta|2021-02-02",
+  "tags": [
+    "canada",
+    "opc",
+    "pipeda",
+    "investigations",
+    "pipeda-findings-2021-001",
+    "ai"
+  ],
+  "sourceDetailUrl": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2021/pipeda-2021-001/",
+  "documentUrl": null,
+  "localDocumentUrl": null,
+  "documentContentType": null,
+  "documentSizeBytes": null,
+  "documentSha256": null,
+  "documentDownloadedAt": null,
+  "documentDownloadError": null,
+  "originalLink": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2021/pipeda-2021-001/",
+  "fetchedAt": "2026-06-10T20:08:43.678Z"
+}

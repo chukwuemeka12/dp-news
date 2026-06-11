@@ -1,0 +1,31 @@
+{
+  "id": "edps-investigations-6836141a4dce2f05",
+  "title": "Administrative inquiries and disciplinary proceedings - EMCDDA",
+  "source": "EDPS Investigations",
+  "sourceId": "edps-investigations",
+  "sourceUrl": "https://www.edps.europa.eu/data-protection/our-work/subjects/privacy-eu-institutions/investigations_en",
+  "publishedDate": "2017-01-30",
+  "decisionDate": "2017-01-30",
+  "authorityPublicationDate": "2017-01-30",
+  "platformPublicationDate": "2017-01-30",
+  "summary": "EDPS prior-check opinion of 30 January 2017 on administrative inquiries and disciplinary proceedings at European Monitoring Centre for Drugs and Drug Addiction (EMCDDA) (Case 2016-0989)",
+  "category": "decisions",
+  "dedupKey": "administrative inquiries and disciplinary proceedings emcdda|2017-01-30",
+  "tags": [
+    "eu",
+    "edps",
+    "investigations",
+    "case-law",
+    "privacy-in-the-eu-institutions"
+  ],
+  "sourceDetailUrl": "https://www.edps.europa.eu/data-protection/our-work/publications/opinions-prior-check/administrative-inquiries-and-9_en",
+  "documentUrl": "https://www.edps.europa.eu/sites/default/files/publication/17-01-30_emcdda_adminq_en.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/edps-investigations/edps-investigations-6836141a4dce2f05.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 225715,
+  "documentSha256": "3d68ba097ec5e91914c97d56c571ba44e54e334fc2585b0701d7c1181cbfb739",
+  "documentDownloadedAt": "2026-04-05T14:21:54.089Z",
+  "documentDownloadError": null,
+  "originalLink": "https://www.edps.europa.eu/sites/default/files/publication/17-01-30_emcdda_adminq_en.pdf",
+  "fetchedAt": "2026-06-10T20:10:49.951Z"
+}

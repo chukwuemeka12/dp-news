@@ -1,0 +1,31 @@
+{
+  "id": "ico-enforcement-actions-77dcfb917983f077",
+  "title": "Money Bubble Ltd EN",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2024-12-12",
+  "decisionDate": "2024-12-12",
+  "authorityPublicationDate": "2024-12-12",
+  "platformPublicationDate": "2024-12-12",
+  "summary": "It was found that between October – November 2022, the company made 168,852 spam calls resulting in several further complaints being made to the ICO and TPS. MBL did not provide evidence that anyone whose number had been called had consented to receiving calls from the company. The ICO has issued a £120,000 fine.",
+  "category": "decisions",
+  "dedupKey": "money bubble ltd en|2024-12-12",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "enforcement-notices",
+    "general-business"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2024/12/money-bubble-ltd-en/",
+  "documentUrl": "https://ico.org.uk/media2/gmoa141e/money-bubble-ltd-en-202412.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-77dcfb917983f077.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 423088,
+  "documentSha256": "cbf26d4466458f7978d588850c591cb36fe324b4f0ea0d5f22d98b742b848939",
+  "documentDownloadedAt": "2026-04-16T04:15:57.477Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/gmoa141e/money-bubble-ltd-en-202412.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

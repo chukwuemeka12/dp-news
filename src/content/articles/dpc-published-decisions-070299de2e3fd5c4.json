@@ -1,0 +1,29 @@
+{
+  "id": "dpc-published-decisions-070299de2e3fd5c4",
+  "title": "Inquiry into Microsoft Ireland Operations Limited – September 2025",
+  "source": "Irish DPC Decisions",
+  "sourceId": "dpc-published-decisions",
+  "sourceUrl": "https://www.dataprotection.ie/en/dpc-guidance/law/decisions-made-under-data-protection-act-2018",
+  "publishedDate": "2025-09-01",
+  "decisionDate": "2025-09-01",
+  "authorityPublicationDate": null,
+  "platformPublicationDate": null,
+  "summary": "On 1 September 2025, following an inquiry concerning a complaint received against Microsoft Ireland Operations Limited (Microsoft), the Data Protection Commission (DPC) adopted a decision.",
+  "category": "decisions",
+  "dedupKey": "inquiry into microsoft ireland operations limited september 2025|2025-09-01",
+  "tags": [
+    "ireland",
+    "dpc",
+    "case-law"
+  ],
+  "sourceDetailUrl": "https://dataprotection.ie/en/dpc-guidance/law/decisions-made-under-data-protection-act-2018/Inquiry-into-Microsoft-Ireland-Operations-Limited%E2%80%93September-2025",
+  "documentUrl": "https://www.dataprotection.ie/sites/default/files/uploads/2026-03/20250901-REDACTED-Art60-Decision-Microsoft-for-publication.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/dpc-published-decisions/dpc-published-decisions-070299de2e3fd5c4.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 1027488,
+  "documentSha256": "8e99f7d45a0076a3b86947b293d503c023b6dea880aa96bef7bc2ffd536182cc",
+  "documentDownloadedAt": "2026-06-02T12:59:57.129Z",
+  "documentDownloadError": null,
+  "originalLink": "https://www.dataprotection.ie/sites/default/files/uploads/2026-03/20250901-REDACTED-Art60-Decision-Microsoft-for-publication.pdf",
+  "fetchedAt": "2026-04-16T04:10:42.786Z"
+}

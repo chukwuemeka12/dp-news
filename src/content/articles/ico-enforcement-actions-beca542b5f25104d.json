@@ -1,0 +1,32 @@
+{
+  "id": "ico-enforcement-actions-beca542b5f25104d",
+  "title": "Wakefield Council",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2022-09-22",
+  "decisionDate": "2022-09-22",
+  "authorityPublicationDate": "2022-09-22",
+  "platformPublicationDate": "2022-09-22",
+  "summary": "A reprimand was issued after the Council sent papers prepared as a Court bundle, in relation to Child Protection Legal Proceedings, to the parents of the child in question. The Court documents contained a Child Protection Medical Report which included the home address of the mother and her two children.",
+  "category": "decisions",
+  "dedupKey": "wakefield council|2022-09-22",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "reprimands",
+    "local-government",
+    "children"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2022/09/wakefield-council/",
+  "documentUrl": "https://ico.org.uk/media2/migrated/4023136/wakefield-council-reprimand.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-beca542b5f25104d.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 272514,
+  "documentSha256": "8b51b98f6d060e40dc15348ed057826b409ee8d336e6ef3306feb4afe0c4a211",
+  "documentDownloadedAt": "2026-04-16T04:18:04.964Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/migrated/4023136/wakefield-council-reprimand.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

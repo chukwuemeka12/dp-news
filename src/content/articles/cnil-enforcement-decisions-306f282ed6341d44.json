@@ -1,0 +1,33 @@
+{
+  "id": "cnil-enforcement-decisions-306f282ed6341d44",
+  "title": "Délibération SAN-2026-008 du 26 mai 2026",
+  "source": "CNIL Enforcement Decisions",
+  "sourceId": "cnil-enforcement-decisions",
+  "sourceUrl": "https://www.cnil.fr/en/investigation-powers-cnil/sanctions-issued-cnil",
+  "publishedDate": "2018-09-12",
+  "decisionDate": "2018-09-12",
+  "authorityPublicationDate": "2018-09-12",
+  "platformPublicationDate": "2018-09-12",
+  "summary": "",
+  "category": "decisions",
+  "dedupKey": "deliberation san 2026 008 du 26 mai 2026|2018-09-12",
+  "tags": [
+    "france",
+    "cnil",
+    "enforcement",
+    "gdpr",
+    "fine-5m-eur",
+    "san-2026-008",
+    "health"
+  ],
+  "sourceDetailUrl": "https://www.cnil.fr/en/health-data-fine-5-million-euros-against-iqvia",
+  "documentUrl": "https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000054136834",
+  "localDocumentUrl": "/decision-documents/official-decisions/cnil-enforcement-decisions/cnil-enforcement-decisions-306f282ed6341d44.pdf",
+  "documentContentType": null,
+  "documentSizeBytes": null,
+  "documentSha256": null,
+  "documentDownloadedAt": null,
+  "documentDownloadError": "Document source returned 403",
+  "originalLink": "https://www.legifrance.gouv.fr/cnil/id/CNILTEXT000054136834",
+  "fetchedAt": "2026-06-11T11:33:36.009Z"
+}

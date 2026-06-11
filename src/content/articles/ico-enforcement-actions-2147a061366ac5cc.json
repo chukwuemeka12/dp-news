@@ -1,0 +1,33 @@
+{
+  "id": "ico-enforcement-actions-2147a061366ac5cc",
+  "title": "Department of Health and Social Care",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2022-07-11",
+  "decisionDate": "2022-07-11",
+  "authorityPublicationDate": "2022-07-11",
+  "platformPublicationDate": "2022-07-11",
+  "summary": "The ICO has issued the DHSC with a reprimand in relation to data protection compliance matters under the General Data Protection Regulation (GDPR), the UK General Data Protection Regulation (UKGDPR) and the UK Data Protection Act 2018 (DPA).",
+  "category": "decisions",
+  "dedupKey": "department of health and social care|2022-07-11",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "reprimands",
+    "central-government",
+    "gdpr",
+    "health"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2022/07/department-of-health-and-social-care/",
+  "documentUrl": "https://ico.org.uk/media2/migrated/4020887/dhsc-reprimand.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-2147a061366ac5cc.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 169150,
+  "documentSha256": "3c4b1c554b7238cf449d575e10adcec52b3527a5504b57873b122ba7293576a5",
+  "documentDownloadedAt": "2026-04-16T04:18:17.411Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/migrated/4020887/dhsc-reprimand.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

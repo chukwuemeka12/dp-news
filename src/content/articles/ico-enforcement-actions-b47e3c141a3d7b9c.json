@@ -1,0 +1,32 @@
+{
+  "id": "ico-enforcement-actions-b47e3c141a3d7b9c",
+  "title": "Optionis Group Limited",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2023-10-10",
+  "decisionDate": "2023-10-10",
+  "authorityPublicationDate": "2023-10-10",
+  "platformPublicationDate": "2023-10-10",
+  "summary": "The data controller suffered a ransomware attack, which resulted in the exfiltration of personal data. A reprimand was issued in respect of specific infringements of the UK GDPR, which include lack of multi-factor authentication, an inadequate account lockout policy, and no clear Bring Your Own Device policy.",
+  "category": "decisions",
+  "dedupKey": "optionis group limited|2023-10-10",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "reprimands",
+    "finance-insurance-and-credit",
+    "gdpr"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2023/10/optionis-group-limited/",
+  "documentUrl": "https://ico.org.uk/media2/lntf5yit/20231010-inv01202022-reprimand-optionis-group-limited.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-b47e3c141a3d7b9c.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 167743,
+  "documentSha256": "b9dd814a25697690a6ce32973cb2d1194b47387f17e68156a99bec7d14dc9d41",
+  "documentDownloadedAt": "2026-04-16T04:17:01.051Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/lntf5yit/20231010-inv01202022-reprimand-optionis-group-limited.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

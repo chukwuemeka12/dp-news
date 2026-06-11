@@ -1,0 +1,32 @@
+{
+  "id": "ico-enforcement-actions-f73fd45bccc6273d",
+  "title": "23andMe",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2025-06-05",
+  "decisionDate": "2025-06-05",
+  "authorityPublicationDate": "2025-06-05",
+  "platformPublicationDate": "2025-06-05",
+  "summary": "The Information Commissioner has fined 23andMe, Inc £2,310,000 for infringements of Articles 5(1)(f) and 32(1) of the UK GDPR between 25 May 2018 and 31 December 2024. 23andMe failed to implement appropriate security measures to protect the personal information of 155,592 UK users, following a large-scale cyber attack in 2023. The penalty...",
+  "category": "decisions",
+  "dedupKey": "23andme|2025-06-05",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "monetary-penalties",
+    "general-business",
+    "gdpr"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2025/06/23andme/",
+  "documentUrl": "https://ico.org.uk/media2/kclbljpo/23andme-penalty-notice.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-f73fd45bccc6273d.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 2433151,
+  "documentSha256": "d8509fdf38ddd2c29587d7cb73fdd505e072fbee5d2bec184eaf97e789b6d593",
+  "documentDownloadedAt": "2026-04-16T04:15:37.578Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/kclbljpo/23andme-penalty-notice.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

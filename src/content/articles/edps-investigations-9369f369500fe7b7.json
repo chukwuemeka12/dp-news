@@ -1,0 +1,33 @@
+{
+  "id": "edps-investigations-9369f369500fe7b7",
+  "title": "Administrative inquiries - European Central Bank",
+  "source": "EDPS Investigations",
+  "sourceId": "edps-investigations",
+  "sourceUrl": "https://www.edps.europa.eu/data-protection/our-work/subjects/privacy-eu-institutions/investigations_en",
+  "publishedDate": "2005-12-27",
+  "decisionDate": "2005-12-27",
+  "authorityPublicationDate": "2005-12-27",
+  "platformPublicationDate": "2005-12-27",
+  "summary": "Opinion of 22 December 2005 on a notification for prior checking on Internal Administrative Inquiries (Case 2005-290)",
+  "category": "decisions",
+  "dedupKey": "administrative inquiries european central bank|2005-12-27",
+  "tags": [
+    "eu",
+    "edps",
+    "investigations",
+    "case-law",
+    "privacy-in-the-eu-institutions",
+    "staff-evaluation",
+    "conflicts-of-interest"
+  ],
+  "sourceDetailUrl": "https://www.edps.europa.eu/data-protection/our-work/publications/opinions-prior-check/administrative-inquiries-european-central_en",
+  "documentUrl": "https://www.edps.europa.eu/sites/default/files/publication/05-12-22_ecb_admin_inquiries_en.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/edps-investigations/edps-investigations-9369f369500fe7b7.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 110546,
+  "documentSha256": "42f17beb3bbb0ad5c44c82e8ea8da77d3c3ede6dcd3057b19a2d8359bd6b3323",
+  "documentDownloadedAt": "2026-04-05T14:22:10.161Z",
+  "documentDownloadError": null,
+  "originalLink": "https://www.edps.europa.eu/sites/default/files/publication/05-12-22_ecb_admin_inquiries_en.pdf",
+  "fetchedAt": "2026-06-10T20:10:49.951Z"
+}

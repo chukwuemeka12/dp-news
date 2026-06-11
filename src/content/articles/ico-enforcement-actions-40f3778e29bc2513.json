@@ -1,0 +1,31 @@
+{
+  "id": "ico-enforcement-actions-40f3778e29bc2513",
+  "title": "Welsh Language Commissioner",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2022-01-22",
+  "decisionDate": "2022-01-22",
+  "authorityPublicationDate": "2022-01-22",
+  "platformPublicationDate": "2022-01-22",
+  "summary": "The ICO have decided to issue the WLC with a reprimand in accordance with Article 58(2)(b) of the General Data Protection Regulation.",
+  "category": "decisions",
+  "dedupKey": "welsh language commissioner|2022-01-22",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "reprimands",
+    "regulators"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2022/01/welsh-language-commissioner/",
+  "documentUrl": "https://ico.org.uk/media2/migrated/4023138/welsh-language-commissioner-reprimand.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-40f3778e29bc2513.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 211701,
+  "documentSha256": "583c21ab9eccf5998d895d0aa4bda26c599d3716d95e1c14d3728c621367dbbc",
+  "documentDownloadedAt": "2026-04-16T04:18:26.199Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/migrated/4023138/welsh-language-commissioner-reprimand.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

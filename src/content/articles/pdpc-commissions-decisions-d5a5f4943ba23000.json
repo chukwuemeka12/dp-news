@@ -1,0 +1,31 @@
+{
+  "id": "pdpc-commissions-decisions-d5a5f4943ba23000",
+  "title": "Breach of Section 48B of the PDPA (Prohibition on Use of Dictionary Attacks) by an individual",
+  "source": "Singapore PDPC Decisions",
+  "sourceId": "pdpc-commissions-decisions",
+  "sourceUrl": "https://www.pdpc.gov.sg/all-commissions-decisions",
+  "publishedDate": "2023-04-17",
+  "decisionDate": "2023-04-17",
+  "authorityPublicationDate": "2023-04-17",
+  "platformPublicationDate": "2023-04-17",
+  "summary": "A warning was issued to an individual for using dictionary attack methods to generate telephone numbers which were then used for telemarketing purposes, thereby breaching section 48B of the PDPA.",
+  "category": "decisions",
+  "dedupKey": "breach of section 48b of the pdpa prohibition on use of dictionary attacks by an individual|2023-04-17",
+  "tags": [
+    "singapore",
+    "pdpc",
+    "enforcement",
+    "do-not-call-provisions",
+    "warning"
+  ],
+  "sourceDetailUrl": "https://www.pdpc.gov.sg/all-commissions-decisions/2023/04/breach-of-section-48b-of-the-pdpa-prohibition-on-use-of-dictionary-attacks-by-an-individual",
+  "documentUrl": "https://www.pdpc.gov.sg/-/media/files/pdpc/pdf-files/commissions-decisions/gd_taishinfatt_140223.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/pdpc-commissions-decisions/pdpc-commissions-decisions-d5a5f4943ba23000.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 200220,
+  "documentSha256": "ef749d93a8f81d81fcbe5a9c961832552515572975ce80bba38b85b6c08e5b3d",
+  "documentDownloadedAt": "2026-04-05T15:03:34.723Z",
+  "documentDownloadError": null,
+  "originalLink": "https://www.pdpc.gov.sg/-/media/files/pdpc/pdf-files/commissions-decisions/gd_taishinfatt_140223.pdf",
+  "fetchedAt": "2026-04-16T04:11:05.443Z"
+}

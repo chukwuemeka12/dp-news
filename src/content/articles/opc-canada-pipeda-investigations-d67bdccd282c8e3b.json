@@ -1,0 +1,31 @@
+{
+  "id": "opc-canada-pipeda-investigations-d67bdccd282c8e3b",
+  "title": "Multiple breach incidents as a result of password reuse",
+  "source": "Canada OPC Business Investigations",
+  "sourceId": "opc-canada-pipeda-investigations",
+  "sourceUrl": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/",
+  "publishedDate": "2018-03-29",
+  "decisionDate": "2017-04-26",
+  "authorityPublicationDate": "2017-04-26",
+  "platformPublicationDate": "2018-03-29",
+  "summary": "In 2017, the Office of the Privacy Commissioner of Canada received several breach reports from companies that suspected their systems had been accessed by unauthorized third parties using valid customer or employee login data. It is believed the unauthorized third parties obtained the login data from previous, unrelated breaches that resu...",
+  "category": "decisions",
+  "dedupKey": "multiple breach incidents as a result of password reuse|2017-04-26",
+  "tags": [
+    "canada",
+    "opc",
+    "pipeda",
+    "investigations",
+    "incident-case-summary-2017-001"
+  ],
+  "sourceDetailUrl": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/incidents/2017/001_170426/",
+  "documentUrl": null,
+  "localDocumentUrl": null,
+  "documentContentType": null,
+  "documentSizeBytes": null,
+  "documentSha256": null,
+  "documentDownloadedAt": null,
+  "documentDownloadError": null,
+  "originalLink": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/incidents/2017/001_170426/",
+  "fetchedAt": "2026-06-10T20:08:43.678Z"
+}

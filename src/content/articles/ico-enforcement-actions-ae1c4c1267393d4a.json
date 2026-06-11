@@ -1,0 +1,31 @@
+{
+  "id": "ico-enforcement-actions-ae1c4c1267393d4a",
+  "title": "London Borough of Hackney",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2024-07-05",
+  "decisionDate": "2024-07-05",
+  "authorityPublicationDate": "2024-07-05",
+  "platformPublicationDate": "2024-07-05",
+  "summary": "The Information Commissioner’s Office has issued the London Borough of Hackey with a reprimand following a cyber-attack in 2020 that led to hackers gaining access to and encrypting 440,000 files, affecting at least 280,000 residents and other individuals including staff.",
+  "category": "decisions",
+  "dedupKey": "london borough of hackney|2024-07-05",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "reprimands",
+    "local-government"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2024/07/london-borough-of-hackney-1/",
+  "documentUrl": "https://ico.org.uk/media2/migrated/4030344/20240705-lboh-updated-reprimand-with-redactions-1.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-ae1c4c1267393d4a.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 1060294,
+  "documentSha256": "418d7017413834c1cba54ec690b60750b4c043c3caf71cef3fd47aae5acee110",
+  "documentDownloadedAt": "2026-04-16T04:16:12.765Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/migrated/4030344/20240705-lboh-updated-reprimand-with-redactions-1.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

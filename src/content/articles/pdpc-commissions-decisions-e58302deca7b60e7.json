@@ -1,0 +1,31 @@
+{
+  "id": "pdpc-commissions-decisions-e58302deca7b60e7",
+  "title": "Breach of the Protection Obligation by Honestbee",
+  "source": "Singapore PDPC Decisions",
+  "sourceId": "pdpc-commissions-decisions",
+  "sourceUrl": "https://www.pdpc.gov.sg/all-commissions-decisions",
+  "publishedDate": "2019-12-05",
+  "decisionDate": "2019-12-05",
+  "authorityPublicationDate": "2019-12-05",
+  "platformPublicationDate": "2019-12-05",
+  "summary": "A financial penalty of $8,000 was imposed on Honestbee for failing to put in place reasonable security arrangements to protect the personal data of individuals. The data of about 8,000 individuals was stored in the cloud without access restrictions.",
+  "category": "decisions",
+  "dedupKey": "breach of the protection obligation by honestbee|2019-12-05",
+  "tags": [
+    "singapore",
+    "pdpc",
+    "enforcement",
+    "protection",
+    "financial-penalty"
+  ],
+  "sourceDetailUrl": "https://www.pdpc.gov.sg/all-commissions-decisions/2019/12/breach-of-the-protection-obligation-by-honestbee",
+  "documentUrl": "https://www.pdpc.gov.sg/-/media/files/pdpc/pdf-files/commissions-decisions/summary-decision---honestbee.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/pdpc-commissions-decisions/pdpc-commissions-decisions-e58302deca7b60e7.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 372308,
+  "documentSha256": "9455e95d6ad286b183f3f49746b6ee0c525ee1f6818df8e0bb1c433ba9eab2a3",
+  "documentDownloadedAt": "2026-04-05T15:06:14.192Z",
+  "documentDownloadError": null,
+  "originalLink": "https://www.pdpc.gov.sg/-/media/files/pdpc/pdf-files/commissions-decisions/summary-decision---honestbee.pdf",
+  "fetchedAt": "2026-04-16T04:11:05.443Z"
+}

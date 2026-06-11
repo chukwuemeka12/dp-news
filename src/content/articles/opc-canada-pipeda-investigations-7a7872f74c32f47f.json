@@ -1,0 +1,31 @@
+{
+  "id": "opc-canada-pipeda-investigations-7a7872f74c32f47f",
+  "title": "Dell improves security and complaint handling practices following breaches and OPC Investigation",
+  "source": "Canada OPC Business Investigations",
+  "sourceId": "opc-canada-pipeda-investigations",
+  "sourceUrl": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/",
+  "publishedDate": "2020-10-08",
+  "decisionDate": "2020-07-09",
+  "authorityPublicationDate": "2020-07-09",
+  "platformPublicationDate": "2020-10-08",
+  "summary": "After receiving a “tech support scam” call, two Dell customers complained that their personal information was disclosed to fraudsters and that Dell would not take their concerns about a breach seriously. Dell discovered that two employees of its service provider sold customer information on two separate occasions. Dell took a number of re...",
+  "category": "decisions",
+  "dedupKey": "dell improves security and complaint handling practices following breaches and opc investigation|2020-07-09",
+  "tags": [
+    "canada",
+    "opc",
+    "pipeda",
+    "investigations",
+    "pipeda-findings-2020-003"
+  ],
+  "sourceDetailUrl": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2020/pipeda-2020-003/",
+  "documentUrl": null,
+  "localDocumentUrl": null,
+  "documentContentType": null,
+  "documentSizeBytes": null,
+  "documentSha256": null,
+  "documentDownloadedAt": null,
+  "documentDownloadError": null,
+  "originalLink": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2020/pipeda-2020-003/",
+  "fetchedAt": "2026-06-10T20:08:43.678Z"
+}

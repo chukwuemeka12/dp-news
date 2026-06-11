@@ -1,0 +1,30 @@
+{
+  "id": "dpc-published-decisions-a99c05599d86229e",
+  "title": "Inquiry concerning the University of Limerick – December 2025",
+  "source": "Irish DPC Decisions",
+  "sourceId": "dpc-published-decisions",
+  "sourceUrl": "https://www.dataprotection.ie/en/dpc-guidance/law/decisions-made-under-data-protection-act-2018",
+  "publishedDate": "2025-12-10",
+  "decisionDate": "2025-12-10",
+  "authorityPublicationDate": null,
+  "platformPublicationDate": null,
+  "summary": "This Decision arises from an own-volition inquiry into the University of Limerick (‘UL’) following a series of personal data breaches that occurred between November 2018 and January 2020. The temporal scope of the Inquiry is from May 2018 to January 2020. Corrective measures: A reprimand to UL pursuant to Article 58(2)(b) GDPR in respect...",
+  "category": "decisions",
+  "dedupKey": "inquiry concerning the university of limerick december 2025|2025-12-10",
+  "tags": [
+    "ireland",
+    "dpc",
+    "case-law",
+    "gdpr"
+  ],
+  "sourceDetailUrl": "https://dataprotection.ie/en/dpc-guidance/law/decisions/inquiry-concerning-university-limerick-december-2025",
+  "documentUrl": "https://www.dataprotection.ie/sites/default/files/uploads/2026-02/20251210_UL_FD_IN-19-7-1.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/dpc-published-decisions/dpc-published-decisions-a99c05599d86229e.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 17105283,
+  "documentSha256": "d17f5968dec71fb197eb71e54da26953cbdcc1ff687ede2016e1a56420ffd1dd",
+  "documentDownloadedAt": "2026-06-02T12:59:55.857Z",
+  "documentDownloadError": null,
+  "originalLink": "https://www.dataprotection.ie/sites/default/files/uploads/2026-02/20251210_UL_FD_IN-19-7-1.pdf",
+  "fetchedAt": "2026-04-16T04:10:42.786Z"
+}

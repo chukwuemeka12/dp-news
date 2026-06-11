@@ -1,0 +1,31 @@
+{
+  "id": "opc-canada-pipeda-investigations-68b844f21d252ce8",
+  "title": "Bank Disclosed Personal Information without Consent",
+  "source": "Canada OPC Business Investigations",
+  "sourceId": "opc-canada-pipeda-investigations",
+  "sourceUrl": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/",
+  "publishedDate": "2013-04-19",
+  "decisionDate": "2009-12-21",
+  "authorityPublicationDate": "2009-12-21",
+  "platformPublicationDate": "2013-04-19",
+  "summary": "A married couple who held separate bank accounts met with a mortgage specialist from their bank to discuss applying for a mortgage. The husband alleged that the specialist disclosed his account information to his wife without his consent. The bank maintained that, while information was disclosed, the specialist had the husband’s implicit...",
+  "category": "decisions",
+  "dedupKey": "bank disclosed personal information without consent|2009-12-21",
+  "tags": [
+    "canada",
+    "opc",
+    "pipeda",
+    "investigations",
+    "pipeda-case-summary-2009-024"
+  ],
+  "sourceDetailUrl": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2009/pipeda-2009-024/",
+  "documentUrl": null,
+  "localDocumentUrl": null,
+  "documentContentType": null,
+  "documentSizeBytes": null,
+  "documentSha256": null,
+  "documentDownloadedAt": null,
+  "documentDownloadError": null,
+  "originalLink": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2009/pipeda-2009-024/",
+  "fetchedAt": "2026-06-10T20:08:43.678Z"
+}

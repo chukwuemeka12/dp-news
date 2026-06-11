@@ -1,0 +1,31 @@
+{
+  "id": "ico-enforcement-actions-48d25ad15869cf99",
+  "title": "Bank of Ireland",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2023-11-30",
+  "decisionDate": "2023-11-30",
+  "authorityPublicationDate": "2023-11-30",
+  "platformPublicationDate": "2023-11-30",
+  "summary": "BOI failed to ensure the accuracy of customers’ default loan status which led to inaccurate personal data being held on their account which was subsequently incorrectly recorded on customers’ credit profile.",
+  "category": "decisions",
+  "dedupKey": "bank of ireland|2023-11-30",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "reprimands",
+    "finance-insurance-and-credit"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2023/11/bank-of-ireland/",
+  "documentUrl": "https://ico.org.uk/media2/migrated/4027663/boi-reprimand.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-48d25ad15869cf99.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 141318,
+  "documentSha256": "0a57b14f895f286ffbcec3a01cf5e67060c5950a9dd8798976472a25a53458a0",
+  "documentDownloadedAt": "2026-06-11T11:35:30.365Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/migrated/4027663/boi-reprimand.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

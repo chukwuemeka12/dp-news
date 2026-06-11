@@ -1,0 +1,31 @@
+{
+  "id": "ico-enforcement-actions-8525994998148851",
+  "title": "Executive Office",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2023-07-21",
+  "decisionDate": "2023-07-21",
+  "authorityPublicationDate": "2023-07-21",
+  "platformPublicationDate": "2023-07-21",
+  "summary": "Status: Complete",
+  "category": "decisions",
+  "dedupKey": "executive office|2023-07-21",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "reprimands",
+    "central-government"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2023/07/executive-office/",
+  "documentUrl": "https://ico.org.uk/media2/migrated/4026064/executive-office-reprimand-20230721.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-8525994998148851.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 471453,
+  "documentSha256": "d5b014fce2c9adb4094803bd8c1c0811446b6bade807b818be7097698cd1b448",
+  "documentDownloadedAt": "2026-04-16T04:17:23.139Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/migrated/4026064/executive-office-reprimand-20230721.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

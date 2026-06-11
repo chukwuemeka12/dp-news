@@ -1,0 +1,32 @@
+{
+  "id": "ico-enforcement-actions-81ee2a1be2387651",
+  "title": "Gloucester City Council",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2023-09-01",
+  "decisionDate": "2023-09-01",
+  "authorityPublicationDate": "2023-09-01",
+  "platformPublicationDate": "2023-09-01",
+  "summary": "The Information Commissioner (the Commissioner) issues a reprimand to Gloucester City Council in respect of infringements of Article 32(1)b, Article 32(1)c and Article 32(1)d of the UK GDPR. Gloucester City Council failed to implement appropriate technical and organisational measures to properly secure their systems.",
+  "category": "decisions",
+  "dedupKey": "gloucester city council|2023-09-01",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "reprimands",
+    "local-government",
+    "gdpr"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2023/09/gloucester-city-council/",
+  "documentUrl": "https://ico.org.uk/media2/gafknxua/gloucester-city-council-reprimand-23082023.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-81ee2a1be2387651.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 319511,
+  "documentSha256": "ee202b6958e93445aeb2db2b3165db9547572d2edae53f318bde3cd42ef5de70",
+  "documentDownloadedAt": "2026-04-16T04:17:16.255Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/gafknxua/gloucester-city-council-reprimand-23082023.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "edps-investigations-0cfcf19646dab27b",
+  "title": "Administrative inquiries and disciplinary proceedings - ENISA",
+  "source": "EDPS Investigations",
+  "sourceId": "edps-investigations",
+  "sourceUrl": "https://www.edps.europa.eu/data-protection/our-work/subjects/privacy-eu-institutions/investigations_en",
+  "publishedDate": "2013-11-01",
+  "decisionDate": "2013-11-01",
+  "authorityPublicationDate": "2013-11-01",
+  "platformPublicationDate": "2013-11-01",
+  "summary": "Opinion of 1 October 2013 on the notification for prior checking notification of the processing of personal data in the framework of administrative inquiries and disciplinary proceedings at ENISA (Case 2013-0715)",
+  "category": "decisions",
+  "dedupKey": "administrative inquiries and disciplinary proceedings enisa|2013-11-01",
+  "tags": [
+    "eu",
+    "edps",
+    "investigations",
+    "case-law",
+    "privacy-in-the-eu-institutions",
+    "staff-evaluation",
+    "conflicts-of-interest"
+  ],
+  "sourceDetailUrl": "https://www.edps.europa.eu/data-protection/our-work/publications/opinions-prior-check/administrative-inquiries-and-4_en",
+  "documentUrl": "https://www.edps.europa.eu/sites/default/files/publication/13-10-01_enisa_helmbrecht_en.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/edps-investigations/edps-investigations-0cfcf19646dab27b.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 117061,
+  "documentSha256": "e6f98666a20c54ea3ef6484ccb852980fa1bef4c1ee20851230613abb3b60e31",
+  "documentDownloadedAt": "2026-04-05T14:21:59.266Z",
+  "documentDownloadError": null,
+  "originalLink": "https://www.edps.europa.eu/sites/default/files/publication/13-10-01_enisa_helmbrecht_en.pdf",
+  "fetchedAt": "2026-06-10T20:10:49.951Z"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "ico-enforcement-actions-70f55efc0df03253",
+  "title": "Police Service of Northern Ireland (PSNI)",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2023-10-26",
+  "decisionDate": "2023-10-26",
+  "authorityPublicationDate": "2023-10-26",
+  "platformPublicationDate": "2023-10-26",
+  "summary": "Police Service of Northern Ireland (PSNI) failed to have appropriate measures in place to prevent unlawful sharing of personal data including criminal data with the United States Department of Homeland Security (DHS)",
+  "category": "decisions",
+  "dedupKey": "police service of northern ireland psni|2023-10-26",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "reprimands",
+    "criminal-justice"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2023/10/police-service-of-northern-ireland-psni/",
+  "documentUrl": "https://ico.org.uk/media2/migrated/4027163/reprimand-psni.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-70f55efc0df03253.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 150228,
+  "documentSha256": "f68293f9865670b8e6ba5319c7f87aef90955a46c64d55ea18375bd0711b04fd",
+  "documentDownloadedAt": "2026-04-16T04:16:57.075Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/migrated/4027163/reprimand-psni.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

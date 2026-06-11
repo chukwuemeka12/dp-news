@@ -1,0 +1,32 @@
+{
+  "id": "ico-enforcement-actions-d3e668379c12db5a",
+  "title": "The Patient and Client Council",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2023-07-19",
+  "decisionDate": "2023-07-19",
+  "authorityPublicationDate": "2023-07-19",
+  "platformPublicationDate": "2023-07-19",
+  "summary": "A reprimand has been issued to The Patient and Client Council in relation to infringements of Article 5 (1)(f) and Article 32 (1) of the UK GDPR. The infringements were identified following an investigation into the disclosure of special category due to an email sent to 15 individuals using carbon copy (CC) rather than blind carbon copy (...",
+  "category": "decisions",
+  "dedupKey": "the patient and client council|2023-07-19",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "reprimands",
+    "health",
+    "gdpr"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2023/07/the-patient-and-client-council/",
+  "documentUrl": "https://ico.org.uk/media2/migrated/4026065/patient-and-client-council-202308-reprimand.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-d3e668379c12db5a.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 130197,
+  "documentSha256": "29a017f7117275067321c59de76d9a4e604a68de718dd2fef6d97c1ba2da95d6",
+  "documentDownloadedAt": "2026-04-16T04:17:23.902Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/migrated/4026065/patient-and-client-council-202308-reprimand.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

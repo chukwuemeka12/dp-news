@@ -1,0 +1,32 @@
+{
+  "id": "ico-enforcement-actions-a3cf0c0e24df6770",
+  "title": "Department for Education",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2022-11-02",
+  "decisionDate": "2022-11-02",
+  "authorityPublicationDate": "2022-11-02",
+  "platformPublicationDate": "2022-11-02",
+  "summary": "The DfE permitted third party access to the LRS database outside of the DfE and subsequent processing took place of some of that personal data (including children) for the purposes of age verification, without appropriate control or oversight. The investigation has found that therefore the personal data on the LRS database was processed i...",
+  "category": "decisions",
+  "dedupKey": "department for education|2022-11-02",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "reprimands",
+    "central-government",
+    "children"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2022/11/department-for-education/",
+  "documentUrl": "https://ico.org.uk/media2/migrated/4022280/dfe-reprimand-20221102.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-a3cf0c0e24df6770.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 365761,
+  "documentSha256": "e93885cc1f28b0294f509ae5704924286b3f0c2dbbd91179c6541e91953be827",
+  "documentDownloadedAt": "2026-04-16T04:17:59.679Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/migrated/4022280/dfe-reprimand-20221102.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

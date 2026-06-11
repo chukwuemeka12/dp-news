@@ -1,0 +1,32 @@
+{
+  "id": "ico-enforcement-actions-c9e25a1c293e19e2",
+  "title": "Police Service of Northern Ireland",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2024-10-03",
+  "decisionDate": "2024-10-03",
+  "authorityPublicationDate": "2024-10-03",
+  "platformPublicationDate": "2024-10-03",
+  "summary": "The Police Service of Northern Ireland has been fined £750,000 for infringing Articles 5(1)(f), 32(1) and (2) of the UK GDPR between 25 May 2018 and 14 June 2024.",
+  "category": "decisions",
+  "dedupKey": "police service of northern ireland|2024-10-03",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "monetary-penalties",
+    "criminal-justice",
+    "gdpr"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2024/10/police-service-of-northern-ireland-mpn/",
+  "documentUrl": "https://ico.org.uk/media2/migrated/4031177/psni-penalty-notice.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-c9e25a1c293e19e2.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 4226813,
+  "documentSha256": "fc9c70f2d467ccf0e853fe87c545eeb8e7f4d2e532a0b97ac8bbde7f34cfa6ad",
+  "documentDownloadedAt": "2026-04-16T04:16:08.447Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/migrated/4031177/psni-penalty-notice.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

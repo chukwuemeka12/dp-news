@@ -1,0 +1,31 @@
+{
+  "id": "ico-enforcement-actions-534b22f85af6dc16",
+  "title": "Metropolitan Police Service",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2023-03-02",
+  "decisionDate": "2023-03-02",
+  "authorityPublicationDate": "2023-03-02",
+  "platformPublicationDate": "2023-03-02",
+  "summary": "MPS was unable to ensure that sensitive criminal records were not able to be uploaded correctly to the Police National Database (PND), or amended, or deleted and that this situation had been in place, unknown to MPS for some considerable time. The consequences of this failure cannot be measured but had the potential to cause significant d...",
+  "category": "decisions",
+  "dedupKey": "metropolitan police service|2023-03-02",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "reprimands",
+    "criminal-justice"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2023/03/metropolitan-police-service-reprimand/",
+  "documentUrl": "https://ico.org.uk/media2/migrated/4024616/mps-reprimand-inv07262020.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-534b22f85af6dc16.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 408914,
+  "documentSha256": "bd4b3b73ee4fdff5da543d61c96146bd6f8538e0a3ed288fbf1217f3a7d01734",
+  "documentDownloadedAt": "2026-04-16T04:17:53.781Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/migrated/4024616/mps-reprimand-inv07262020.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

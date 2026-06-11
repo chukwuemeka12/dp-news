@@ -1,0 +1,31 @@
+{
+  "id": "edps-investigations-467d39a1c202ccf4",
+  "title": "Safety Inspections - Commission (DG JRC Ispra)",
+  "source": "EDPS Investigations",
+  "sourceId": "edps-investigations",
+  "sourceUrl": "https://www.edps.europa.eu/data-protection/our-work/subjects/privacy-eu-institutions/investigations_en",
+  "publishedDate": "2010-09-06",
+  "decisionDate": "2010-09-06",
+  "authorityPublicationDate": "2010-09-06",
+  "platformPublicationDate": "2010-09-06",
+  "summary": "Opinion of 6 September 2010 on the notification for prior checking from the Data Protection Officer of the European Commission concerning \"Safety Inspections at the JRC Ispra Site\" (Case 2009-682)",
+  "category": "decisions",
+  "dedupKey": "safety inspections commission dg jrc ispra|2010-09-06",
+  "tags": [
+    "eu",
+    "edps",
+    "investigations",
+    "case-law",
+    "privacy-in-the-eu-institutions"
+  ],
+  "sourceDetailUrl": "https://www.edps.europa.eu/data-protection/our-work/publications/opinions-prior-check/safety-inspections-commission-dg-jrc_en",
+  "documentUrl": "https://www.edps.europa.eu/sites/default/files/publication/10-09-06_jrc_en.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/edps-investigations/edps-investigations-467d39a1c202ccf4.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 50847,
+  "documentSha256": "ca6a3f5cfa63a649b69b876b335363dd55f4e77279a5662ed0c943132ef699fc",
+  "documentDownloadedAt": "2026-04-05T14:22:03.026Z",
+  "documentDownloadError": null,
+  "originalLink": "https://www.edps.europa.eu/sites/default/files/publication/10-09-06_jrc_en.pdf",
+  "fetchedAt": "2026-06-10T20:10:49.951Z"
+}

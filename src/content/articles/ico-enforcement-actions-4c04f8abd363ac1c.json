@@ -1,0 +1,32 @@
+{
+  "id": "ico-enforcement-actions-4c04f8abd363ac1c",
+  "title": "RHAP Ltd",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2023-09-21",
+  "decisionDate": "2023-09-21",
+  "authorityPublicationDate": "2023-09-21",
+  "platformPublicationDate": "2023-09-21",
+  "summary": "RHAP Ltd made 15,288 marketing calls to individuals in breach of regulation 21 of PECR. The company was fined £65,000 and issued with an enforcement notice.",
+  "category": "decisions",
+  "dedupKey": "rhap ltd|2023-09-21",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "enforcement-notices",
+    "marketing",
+    "monetary-penalties"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2023/09/rhap-ltd-en/",
+  "documentUrl": "https://ico.org.uk/media2/migrated/4026572/rhap-limited-en.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-4c04f8abd363ac1c.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 407996,
+  "documentSha256": "bedfd36c92055b04637207a063cc55372d18c8499cbbb3b4d39a4ba12d434375",
+  "documentDownloadedAt": "2026-04-16T04:17:06.856Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/migrated/4026572/rhap-limited-en.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

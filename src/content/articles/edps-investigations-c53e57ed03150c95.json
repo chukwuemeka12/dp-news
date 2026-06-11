@@ -1,0 +1,31 @@
+{
+  "id": "edps-investigations-c53e57ed03150c95",
+  "title": "Disciplinary procedures - Court of Justice",
+  "source": "EDPS Investigations",
+  "sourceId": "edps-investigations",
+  "sourceUrl": "https://www.edps.europa.eu/data-protection/our-work/subjects/privacy-eu-institutions/investigations_en",
+  "publishedDate": "2006-06-08",
+  "decisionDate": "2006-06-08",
+  "authorityPublicationDate": "2006-06-08",
+  "platformPublicationDate": "2006-06-08",
+  "summary": "Opinion of 8 June 2006 on a notification for prior checking on data processing in the framework of disciplinary procedures (Case 2006-99)",
+  "category": "decisions",
+  "dedupKey": "disciplinary procedures court of justice|2006-06-08",
+  "tags": [
+    "eu",
+    "edps",
+    "investigations",
+    "case-law",
+    "privacy-in-the-eu-institutions"
+  ],
+  "sourceDetailUrl": "https://www.edps.europa.eu/data-protection/our-work/publications/opinions-prior-check/disciplinary-procedures-court-justice_en",
+  "documentUrl": "https://www.edps.europa.eu/sites/default/files/publication/06-06-08_ecj_disciplinary_procedures_en.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/edps-investigations/edps-investigations-c53e57ed03150c95.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 94055,
+  "documentSha256": "3515966f79b973056b0e42b9590b47021790e8aa3fb16cb4c389637981404625",
+  "documentDownloadedAt": "2026-04-05T14:22:09.393Z",
+  "documentDownloadError": null,
+  "originalLink": "https://www.edps.europa.eu/sites/default/files/publication/06-06-08_ecj_disciplinary_procedures_en.pdf",
+  "fetchedAt": "2026-06-10T20:10:49.951Z"
+}

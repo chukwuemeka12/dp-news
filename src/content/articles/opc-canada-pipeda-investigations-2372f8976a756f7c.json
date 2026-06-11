@@ -1,0 +1,31 @@
+{
+  "id": "opc-canada-pipeda-investigations-2372f8976a756f7c",
+  "title": "Investigation into Bell’s compliance with PIPEDA when responding to an access request for personal information",
+  "source": "Canada OPC Business Investigations",
+  "sourceId": "opc-canada-pipeda-investigations",
+  "sourceUrl": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/",
+  "publishedDate": "2026-06-04",
+  "decisionDate": "2026-01-09",
+  "authorityPublicationDate": "2026-01-09",
+  "platformPublicationDate": "2026-06-04",
+  "summary": "Bell’s Representations and Account System The requested phone logs contain the Complainant’s personal information",
+  "category": "decisions",
+  "dedupKey": "investigation into bell s compliance with pipeda when responding to an access request for personal information|2026-01-09",
+  "tags": [
+    "canada",
+    "opc",
+    "pipeda",
+    "investigations",
+    "pipeda-report-of-findings-2026-003"
+  ],
+  "sourceDetailUrl": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2026/pipeda-2026-003/",
+  "documentUrl": null,
+  "localDocumentUrl": null,
+  "documentContentType": null,
+  "documentSizeBytes": null,
+  "documentSha256": null,
+  "documentDownloadedAt": null,
+  "documentDownloadError": null,
+  "originalLink": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2026/pipeda-2026-003/",
+  "fetchedAt": "2026-06-10T20:08:43.678Z"
+}

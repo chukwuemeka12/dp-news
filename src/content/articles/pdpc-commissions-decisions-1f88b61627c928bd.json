@@ -1,0 +1,32 @@
+{
+  "id": "pdpc-commissions-decisions-1f88b61627c928bd",
+  "title": "No Breach of the Protection Obligation by Singapore Telecommunications (Singtel)",
+  "source": "Singapore PDPC Decisions",
+  "sourceId": "pdpc-commissions-decisions",
+  "sourceUrl": "https://www.pdpc.gov.sg/all-commissions-decisions",
+  "publishedDate": "2022-05-19",
+  "decisionDate": "2022-05-19",
+  "authorityPublicationDate": "2022-05-19",
+  "platformPublicationDate": "2022-05-19",
+  "summary": "Singtel was found not in breach of the PDPA in relation to an incident which occurred on or about 20 January 2021 whereby threat actor(s) exfiltrated personal data by exploiting zero-day vulnerabilities of a third party file transfer appliance.",
+  "category": "decisions",
+  "dedupKey": "no breach of the protection obligation by singapore telecommunications singtel|2022-05-19",
+  "tags": [
+    "singapore",
+    "pdpc",
+    "enforcement",
+    "protection",
+    "not-in-breach",
+    "transfers"
+  ],
+  "sourceDetailUrl": "https://www.pdpc.gov.sg/all-commissions-decisions/2022/05/no-breach-of-the-protection-obligation-by-singapore-telecommunications",
+  "documentUrl": "https://www.pdpc.gov.sg/-/media/files/pdpc/pdf-files/commissions-decisions/decision---singapore-telecommunication-limited---101221.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/pdpc-commissions-decisions/pdpc-commissions-decisions-1f88b61627c928bd.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 146902,
+  "documentSha256": "6b07c475fca700e906f75c9b450ad7cc60e2d5299e08d23a85097e6724920f19",
+  "documentDownloadedAt": "2026-04-05T15:04:04.484Z",
+  "documentDownloadError": null,
+  "originalLink": "https://www.pdpc.gov.sg/-/media/files/pdpc/pdf-files/commissions-decisions/decision---singapore-telecommunication-limited---101221.pdf",
+  "fetchedAt": "2026-04-16T04:11:05.443Z"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "edps-investigations-e2ff1d6719bf7403",
+  "title": "Administrative appeals - EASME",
+  "source": "EDPS Investigations",
+  "sourceId": "edps-investigations",
+  "sourceUrl": "https://www.edps.europa.eu/data-protection/our-work/subjects/privacy-eu-institutions/investigations_en",
+  "publishedDate": "2014-12-18",
+  "decisionDate": "2014-12-18",
+  "authorityPublicationDate": "2014-12-18",
+  "platformPublicationDate": "2014-12-18",
+  "summary": "Letter concerning the processing of personal data in the context of administrative appeals under Articles 90(1) and (2) of the Staff Regulations and Article 45 of CEOS, Executive Agency for Small and Medium-sized enterprises (EASME) (Case 2013-0837)",
+  "category": "decisions",
+  "dedupKey": "administrative appeals easme|2014-12-18",
+  "tags": [
+    "eu",
+    "edps",
+    "investigations",
+    "case-law",
+    "privacy-in-the-eu-institutions"
+  ],
+  "sourceDetailUrl": "https://www.edps.europa.eu/data-protection/our-work/publications/opinions-non-prior-check/administrative-appeals-easme",
+  "documentUrl": "https://www.edps.europa.eu/sites/default/files/publication/14-12-18_easme_appeals_en.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/edps-investigations/edps-investigations-e2ff1d6719bf7403.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 32988,
+  "documentSha256": "5c506046d085efbc99bf3ee6275f66bd8a3b1fe4f7b183e69630acf21c08440d",
+  "documentDownloadedAt": "2026-04-05T14:21:57.775Z",
+  "documentDownloadError": null,
+  "originalLink": "https://www.edps.europa.eu/sites/default/files/publication/14-12-18_easme_appeals_en.pdf",
+  "fetchedAt": "2026-06-10T20:10:49.951Z"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dpc-published-decisions-ffebc67e5a7f1ef5",
+  "title": "Inquiry into Kerry County Council",
+  "source": "Irish DPC Decisions",
+  "sourceId": "dpc-published-decisions",
+  "sourceUrl": "https://www.dataprotection.ie/en/dpc-guidance/law/decisions-made-under-data-protection-act-2018",
+  "publishedDate": "2020-03-25",
+  "decisionDate": "2020-03-25",
+  "authorityPublicationDate": null,
+  "platformPublicationDate": null,
+  "summary": "This inquiry is one of a number of own-volition inquiries into a broad range of issues pertaining to surveillance technologies deployed by State authorities. The findings made in the decision include:",
+  "category": "decisions",
+  "dedupKey": "inquiry into kerry county council|2020-03-25",
+  "tags": [
+    "ireland",
+    "dpc",
+    "case-law"
+  ],
+  "sourceDetailUrl": "https://www.dataprotection.ie/en/dpc-guidance/law/decisions/kerrycountycouncil-march-2020",
+  "documentUrl": "https://www.dataprotection.ie/sites/default/files/uploads/2021-02/25.03.2020_Decision_IN-02-SIU-2018_KerryCountyCouncil.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/dpc-published-decisions/dpc-published-decisions-ffebc67e5a7f1ef5.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 974769,
+  "documentSha256": "944c57ec9f385b70d0f40b84d5cd50d51d6b08c33897a669d7f7970207e375fb",
+  "documentDownloadedAt": "2026-06-02T13:02:09.115Z",
+  "documentDownloadError": null,
+  "originalLink": "https://www.dataprotection.ie/sites/default/files/uploads/2021-02/25.03.2020_Decision_IN-02-SIU-2018_KerryCountyCouncil.pdf",
+  "fetchedAt": "2026-04-16T04:10:42.786Z"
+}

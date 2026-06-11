@@ -1,0 +1,31 @@
+{
+  "id": "opc-canada-pipeda-investigations-ae08729dabc6db5d",
+  "title": "Bank ensures openness and comparable protection for personal information transferred to third party",
+  "source": "Canada OPC Business Investigations",
+  "sourceId": "opc-canada-pipeda-investigations",
+  "sourceUrl": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/",
+  "publishedDate": "2020-08-04",
+  "decisionDate": "2020-08-04",
+  "authorityPublicationDate": "2020-08-04",
+  "platformPublicationDate": "2020-08-04",
+  "summary": "A former employee of TD Canada Trust ( TD ) complained that TD had outsourced aspects of its fraud claims processing services to a third party service provider in India without getting customers’ consent or offering the choice to opt out. We found that TD is not required to obtain additional consent for this activity and that it was appro...",
+  "category": "decisions",
+  "dedupKey": "bank ensures openness and comparable protection for personal information transferred to third party|2020-08-04",
+  "tags": [
+    "canada",
+    "opc",
+    "pipeda",
+    "investigations",
+    "pipeda-findings-2020-001"
+  ],
+  "sourceDetailUrl": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2020/pipeda-2020-001/",
+  "documentUrl": null,
+  "localDocumentUrl": null,
+  "documentContentType": null,
+  "documentSizeBytes": null,
+  "documentSha256": null,
+  "documentDownloadedAt": null,
+  "documentDownloadError": null,
+  "originalLink": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2020/pipeda-2020-001/",
+  "fetchedAt": "2026-06-10T20:08:43.678Z"
+}

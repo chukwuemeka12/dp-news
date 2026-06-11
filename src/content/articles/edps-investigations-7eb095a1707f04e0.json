@@ -1,0 +1,33 @@
+{
+  "id": "edps-investigations-7eb095a1707f04e0",
+  "title": "External cases of potential fraud - REA",
+  "source": "EDPS Investigations",
+  "sourceId": "edps-investigations",
+  "sourceUrl": "https://www.edps.europa.eu/data-protection/our-work/subjects/privacy-eu-institutions/investigations_en",
+  "publishedDate": "2015-12-08",
+  "decisionDate": "2015-12-08",
+  "authorityPublicationDate": "2015-12-08",
+  "platformPublicationDate": "2015-12-08",
+  "summary": "Opinion on a notification for prior checking regarding \"External cases of potential fraud and/or other financial irregularities\" at the the Research Executive Agency (REA) (Case 2013-1038)",
+  "category": "decisions",
+  "dedupKey": "external cases of potential fraud rea|2015-12-08",
+  "tags": [
+    "eu",
+    "edps",
+    "investigations",
+    "case-law",
+    "privacy-in-the-eu-institutions",
+    "anti-fraud",
+    "conflicts-of-interest"
+  ],
+  "sourceDetailUrl": "https://www.edps.europa.eu/data-protection/our-work/publications/opinions-prior-check/external-cases-potential-fraud-rea_en",
+  "documentUrl": "https://www.edps.europa.eu/sites/default/files/publication/15-12-08_potential_fraud_rea_en.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/edps-investigations/edps-investigations-7eb095a1707f04e0.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 188121,
+  "documentSha256": "bf040ac6705f49657cc97e3a331db06d2f93d1b9964cdc5e33aecb8eb9ae1b83",
+  "documentDownloadedAt": "2026-04-05T14:21:56.455Z",
+  "documentDownloadError": null,
+  "originalLink": "https://www.edps.europa.eu/sites/default/files/publication/15-12-08_potential_fraud_rea_en.pdf",
+  "fetchedAt": "2026-06-10T20:10:49.951Z"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "edps-investigations-f4268e2a645e9168",
+  "title": "Administrative inquiries and disciplinary proceedings - EIT",
+  "source": "EDPS Investigations",
+  "sourceId": "edps-investigations",
+  "sourceUrl": "https://www.edps.europa.eu/data-protection/our-work/subjects/privacy-eu-institutions/investigations_en",
+  "publishedDate": "2018-01-17",
+  "decisionDate": "2018-01-17",
+  "authorityPublicationDate": "2018-01-17",
+  "platformPublicationDate": "2018-01-17",
+  "summary": "Prior-check Opinion on \"administrative inquiries and disciplinary proceedings\" at European Institute of Technology & Innovation (EIT) (Case 2016-1165)",
+  "category": "decisions",
+  "dedupKey": "administrative inquiries and disciplinary proceedings eit|2018-01-17",
+  "tags": [
+    "eu",
+    "edps",
+    "investigations",
+    "case-law",
+    "privacy-in-the-eu-institutions"
+  ],
+  "sourceDetailUrl": "https://www.edps.europa.eu/data-protection/our-work/publications/opinions-prior-check/administrative-inquiries-and-11_en",
+  "documentUrl": "https://www.edps.europa.eu/sites/default/files/publication/18-01-17_letter_pc_eit_en.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/edps-investigations/edps-investigations-f4268e2a645e9168.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 205692,
+  "documentSha256": "1e5c793f0eb533da58b0ef02bd1204bfc88500e694af301ee7cfc6477c503437",
+  "documentDownloadedAt": "2026-04-05T14:21:51.321Z",
+  "documentDownloadError": null,
+  "originalLink": "https://www.edps.europa.eu/sites/default/files/publication/18-01-17_letter_pc_eit_en.pdf",
+  "fetchedAt": "2026-06-10T20:10:49.951Z"
+}

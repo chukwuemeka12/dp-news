@@ -1,0 +1,31 @@
+{
+  "id": "opc-canada-pipeda-investigations-ec7872f27e9dac87",
+  "title": "Privacy Commissioner of Canada v. SWIFT Report of Findings",
+  "source": "Canada OPC Business Investigations",
+  "sourceId": "opc-canada-pipeda-investigations",
+  "sourceUrl": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/",
+  "publishedDate": "2007-04-02",
+  "decisionDate": "2007-04-02",
+  "authorityPublicationDate": "2007-04-02",
+  "platformPublicationDate": "2007-04-02",
+  "summary": "3. SWIFT is the financial industry-owned co-operative supplying secure, standardized messaging services and software to over 7,900 financial institutions in more than 200 countries. SWIFT is solely a messaging intermediary for transmitting secure and confidential financial messages on behalf of, and between, financial institutions. It is...",
+  "category": "decisions",
+  "dedupKey": "privacy commissioner of canada v swift report of findings|2007-04-02",
+  "tags": [
+    "canada",
+    "opc",
+    "pipeda",
+    "investigations",
+    "pipeda-report-of-findings-2007-365"
+  ],
+  "sourceDetailUrl": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2007/swift_rep_070402/",
+  "documentUrl": null,
+  "localDocumentUrl": null,
+  "documentContentType": null,
+  "documentSizeBytes": null,
+  "documentSha256": null,
+  "documentDownloadedAt": null,
+  "documentDownloadError": null,
+  "originalLink": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2007/swift_rep_070402/",
+  "fetchedAt": "2026-06-10T20:08:43.678Z"
+}

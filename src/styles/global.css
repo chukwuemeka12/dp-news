@@ -129,7 +129,8 @@ a {
 
 .hero-card,
 .method-card,
-.source-list {
+.source-list,
+.monitor-banner {
 	background: var(--panel);
 	border: 1px solid var(--line);
 	border-radius: var(--radius-lg);
@@ -219,6 +220,17 @@ a {
 	display: grid;
 	gap: 18px;
 	grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+}
+
+.monitor-banner {
+	background: rgba(125, 77, 20, 0.1);
+	border-color: rgba(125, 77, 20, 0.2);
+	color: var(--warning);
+	padding: 16px 20px;
+}
+
+.monitor-banner p {
+	margin: 0;
 }
 
 .article-card {

@@ -1,0 +1,32 @@
+{
+  "id": "ico-enforcement-actions-772390a0c5a4ff95",
+  "title": "NHS Lanarkshire",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2023-07-31",
+  "decisionDate": "2023-07-31",
+  "authorityPublicationDate": "2023-07-31",
+  "platformPublicationDate": "2023-07-31",
+  "summary": "The Information Commissioner (the Commissioner) issues a reprimand to NHS Lanarkshire in accordance with Article 58 (2)(b) of the UK General Data Protection Regulation (UK GDPR) for the sharing of personal data of patients via unauthorised means and secondly, a disclosure of personal data.",
+  "category": "decisions",
+  "dedupKey": "nhs lanarkshire|2023-07-31",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "reprimands",
+    "health",
+    "gdpr"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2023/07/nhs-lanarkshire/",
+  "documentUrl": "https://ico.org.uk/media2/migrated/4026016/nhs-lanarkshire-reprimand.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-772390a0c5a4ff95.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 182359,
+  "documentSha256": "6265d487e61ddc154024aafd5c3261c0ce1267b569a7652359dd823f6712c598",
+  "documentDownloadedAt": "2026-04-16T04:17:21.293Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/migrated/4026016/nhs-lanarkshire-reprimand.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

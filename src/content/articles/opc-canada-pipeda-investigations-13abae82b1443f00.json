@@ -1,0 +1,32 @@
+{
+  "id": "opc-canada-pipeda-investigations-13abae82b1443f00",
+  "title": "Windows reveal too much information",
+  "source": "Canada OPC Business Investigations",
+  "sourceId": "opc-canada-pipeda-investigations",
+  "sourceUrl": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/",
+  "publishedDate": "2004-11-24",
+  "decisionDate": "2004-07-06",
+  "authorityPublicationDate": "2004-07-06",
+  "platformPublicationDate": "2004-11-24",
+  "summary": "The Office received two complaints against two different banks regarding an excessive amount of information that could be seen through the envelope window. In one case, the complainant, an administrator of a pension fund for an organization, received registered retirement savings plan transfers from a bank. He complained that the bank was...",
+  "category": "decisions",
+  "dedupKey": "windows reveal too much information|2004-07-06",
+  "tags": [
+    "canada",
+    "opc",
+    "pipeda",
+    "investigations",
+    "settled-case-summary-9",
+    "settled"
+  ],
+  "sourceDetailUrl": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/ser/2004/s_040706/",
+  "documentUrl": null,
+  "localDocumentUrl": null,
+  "documentContentType": null,
+  "documentSizeBytes": null,
+  "documentSha256": null,
+  "documentDownloadedAt": null,
+  "documentDownloadError": null,
+  "originalLink": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/ser/2004/s_040706/",
+  "fetchedAt": "2026-06-10T20:08:43.678Z"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "ico-enforcement-actions-5e5878f0b93be21c",
+  "title": "Reddit, Inc.",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2026-02-23",
+  "decisionDate": "2026-02-23",
+  "authorityPublicationDate": "2026-02-23",
+  "platformPublicationDate": "2026-02-23",
+  "summary": "We imposed a £14,472,500.00 penalty to Reddit, Inc. for infringing Articles 5(1)(a), 6, and 8, and Article 35 of the UK GDPR. We found that Reddit, Inc.:",
+  "category": "decisions",
+  "dedupKey": "reddit inc|2026-02-23",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "monetary-penalties",
+    "online-technology-and-telecoms",
+    "gdpr"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2026/02/reddit-inc/",
+  "documentUrl": "https://ico.org.uk/media2/hrlmvj14/reddit-mpn-20260223.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-5e5878f0b93be21c.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 13983611,
+  "documentSha256": "1361be86a6a969181b3a66493e143bab551db368bed4cbaf16dbf71b7bcfed13",
+  "documentDownloadedAt": "2026-04-16T04:15:12.423Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/hrlmvj14/reddit-mpn-20260223.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

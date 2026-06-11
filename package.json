@@ -11,7 +11,12 @@
     "fetch:rss": "node ./scripts/fetch-rss.js",
     "fetch:gdprhub": "node ./scripts/fetch-gdprhub.js",
     "fetch:enforcement": "node ./scripts/fetch-enforcement.js",
+    "fetch:official-decisions": "node ./scripts/fetch-official-decisions.js",
+    "download:official-documents": "node ./scripts/download-official-documents.js",
     "fetch:all": "node ./scripts/fetch-all.js",
+    "monitor:feeds": "node ./scripts/monitor-feeds.js",
+    "sync:retrieval": "node ./scripts/sync-retrieval.js",
+    "sync:retrieval:apply": "node ./scripts/sync-retrieval.js --apply",
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro"

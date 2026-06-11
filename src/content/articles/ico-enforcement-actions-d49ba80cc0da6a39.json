@@ -1,0 +1,32 @@
+{
+  "id": "ico-enforcement-actions-d49ba80cc0da6a39",
+  "title": "Nottinghamshire County Council",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2023-09-27",
+  "decisionDate": "2023-09-27",
+  "authorityPublicationDate": "2023-09-27",
+  "platformPublicationDate": "2023-09-27",
+  "summary": "A social worker sent copies of a Child and Family Assessment report to the mother and her two ex-partners: each the father of one of her two children. The report contained sensitive personal data which should have been redacted from the copies sent to the partners.",
+  "category": "decisions",
+  "dedupKey": "nottinghamshire county council|2023-09-27",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "reprimands",
+    "local-government",
+    "children"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2023/09/nottinghamshire-county-council-reprimand/",
+  "documentUrl": "https://ico.org.uk/media2/migrated/4026605/nottinghamshire-county-council.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-d49ba80cc0da6a39.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 139249,
+  "documentSha256": "4f964ac4e6eeffef60c1084eac2a28712670c30fa0e104c951fcc756efd3b10d",
+  "documentDownloadedAt": "2026-04-16T04:17:05.771Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/migrated/4026605/nottinghamshire-county-council.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

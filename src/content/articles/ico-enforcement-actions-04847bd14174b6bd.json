@@ -1,0 +1,31 @@
+{
+  "id": "ico-enforcement-actions-04847bd14174b6bd",
+  "title": "Crown Prosecution Service",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2024-01-18",
+  "decisionDate": "2024-01-18",
+  "authorityPublicationDate": "2024-01-18",
+  "platformPublicationDate": "2024-01-18",
+  "summary": "An Enforcement Notice has been issued to the Crown Prosecution Service in relation to a contravention of the sixth data protection principle in section 40 DPA 2018. The contravention was identified following an investigation into the disclosure of an unencrypted USB device, containing personal data, to an unauthorised third party.",
+  "category": "decisions",
+  "dedupKey": "crown prosecution service|2024-01-18",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "enforcement-notices",
+    "criminal-justice"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2024/01/crown-prosecution-service-1/",
+  "documentUrl": "https://ico.org.uk/media2/rr5dnmaj/cps-enforcement-notice-redacted.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-04847bd14174b6bd.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 161742,
+  "documentSha256": "46ef3cca0844336094c54486fa583a0a0baa956ad35314b530766f2dec65a635",
+  "documentDownloadedAt": "2026-04-16T04:16:41.853Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/rr5dnmaj/cps-enforcement-notice-redacted.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

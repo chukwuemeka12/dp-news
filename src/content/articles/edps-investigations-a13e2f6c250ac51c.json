@@ -1,0 +1,32 @@
+{
+  "id": "edps-investigations-a13e2f6c250ac51c",
+  "title": "Security Investigations - Joint Research Centre Petten",
+  "source": "EDPS Investigations",
+  "sourceId": "edps-investigations",
+  "sourceUrl": "https://www.edps.europa.eu/data-protection/our-work/subjects/privacy-eu-institutions/investigations_en",
+  "publishedDate": "2013-03-19",
+  "decisionDate": "2013-03-19",
+  "authorityPublicationDate": "2013-03-19",
+  "platformPublicationDate": "2013-03-19",
+  "summary": "Opinion of 19 March 2013 on a notification for Prior Checking received from the Data Protection Officer of the Commission on the Security Investigations at the Joint Research Centre Petten (Case 2012-0782)",
+  "category": "decisions",
+  "dedupKey": "security investigations joint research centre petten|2013-03-19",
+  "tags": [
+    "eu",
+    "edps",
+    "investigations",
+    "case-law",
+    "privacy-in-the-eu-institutions",
+    "security"
+  ],
+  "sourceDetailUrl": "https://www.edps.europa.eu/data-protection/our-work/publications/opinions-prior-check/security-investigations-joint-research_en",
+  "documentUrl": "https://www.edps.europa.eu/sites/default/files/publication/13-03-19_security_investigations_en.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/edps-investigations/edps-investigations-a13e2f6c250ac51c.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 69041,
+  "documentSha256": "1089bb8e45e33b5f00d7deebe7f7ce26f27df7f2b798e99fb0b4100e813452ad",
+  "documentDownloadedAt": "2026-04-05T14:22:00.200Z",
+  "documentDownloadError": null,
+  "originalLink": "https://www.edps.europa.eu/sites/default/files/publication/13-03-19_security_investigations_en.pdf",
+  "fetchedAt": "2026-06-10T20:10:49.951Z"
+}

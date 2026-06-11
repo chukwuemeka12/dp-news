@@ -1,0 +1,29 @@
+{
+  "id": "dpc-published-decisions-f56dd82e071f939b",
+  "title": "Inquiry into University College Dublin",
+  "source": "Irish DPC Decisions",
+  "sourceId": "dpc-published-decisions",
+  "sourceUrl": "https://www.dataprotection.ie/en/dpc-guidance/law/decisions-made-under-data-protection-act-2018",
+  "publishedDate": "2020-12-17",
+  "decisionDate": "2020-12-17",
+  "authorityPublicationDate": null,
+  "platformPublicationDate": null,
+  "summary": "This inquiry was commenced in respect of 7 personal data breaches that University College Dublin (‘UCD’) notified to the DPC between 8 August 2018 to 21 January 2019. The personal data breaches concerned instances where unauthorised third parties accessed UCD email accounts, or where the login credentials for UCD email accounts were poste...",
+  "category": "decisions",
+  "dedupKey": "inquiry into university college dublin|2020-12-17",
+  "tags": [
+    "ireland",
+    "dpc",
+    "case-law"
+  ],
+  "sourceDetailUrl": "https://www.dataprotection.ie/en/dpc-guidance/law/decisions/ucd-december-2020",
+  "documentUrl": "https://www.dataprotection.ie/sites/default/files/uploads/2021-02/17.12.2020_Decision_IN-19-7-4_UniversityCollegeDublin.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/dpc-published-decisions/dpc-published-decisions-f56dd82e071f939b.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 1379212,
+  "documentSha256": "6b4f571ac81c7af55484fd652283d2bd5f7960aec4e9e0a68c9bcb63713776e7",
+  "documentDownloadedAt": "2026-06-02T13:02:01.374Z",
+  "documentDownloadError": null,
+  "originalLink": "https://www.dataprotection.ie/sites/default/files/uploads/2021-02/17.12.2020_Decision_IN-19-7-4_UniversityCollegeDublin.pdf",
+  "fetchedAt": "2026-04-16T04:10:42.786Z"
+}

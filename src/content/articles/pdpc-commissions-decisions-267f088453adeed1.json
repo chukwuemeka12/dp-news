@@ -1,0 +1,31 @@
+{
+  "id": "pdpc-commissions-decisions-267f088453adeed1",
+  "title": "Breach of the Protection Obligation by Vhive",
+  "source": "Singapore PDPC Decisions",
+  "sourceId": "pdpc-commissions-decisions",
+  "sourceUrl": "https://www.pdpc.gov.sg/all-commissions-decisions",
+  "publishedDate": "2022-06-16",
+  "decisionDate": "2022-06-16",
+  "authorityPublicationDate": "2022-06-16",
+  "platformPublicationDate": "2022-06-16",
+  "summary": "A financial penalty of $22,000 was imposed on Vhive for failing to put in place reasonable security arrangements to protect the personal data in its possession from a ransomware attack.",
+  "category": "decisions",
+  "dedupKey": "breach of the protection obligation by vhive|2022-06-16",
+  "tags": [
+    "singapore",
+    "pdpc",
+    "enforcement",
+    "protection",
+    "financial-penalty"
+  ],
+  "sourceDetailUrl": "https://www.pdpc.gov.sg/all-commissions-decisions/2022/06/breach-of-the-protection-obligation-by-vhive",
+  "documentUrl": "https://www.pdpc.gov.sg/-/media/files/pdpc/pdf-files/commissions-decisions/decision---vhive-pte-ltd---08032022.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/pdpc-commissions-decisions/pdpc-commissions-decisions-267f088453adeed1.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 137854,
+  "documentSha256": "babf43dcadfc1075ece422bed03c60847452821a16950f29c030faafaf121bbd",
+  "documentDownloadedAt": "2026-04-05T15:03:54.082Z",
+  "documentDownloadError": null,
+  "originalLink": "https://www.pdpc.gov.sg/-/media/files/pdpc/pdf-files/commissions-decisions/decision---vhive-pte-ltd---08032022.pdf",
+  "fetchedAt": "2026-04-16T04:11:05.443Z"
+}

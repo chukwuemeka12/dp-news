@@ -1,0 +1,31 @@
+{
+  "id": "ico-enforcement-actions-110286c598f8b914",
+  "title": "Royal Free London NHS Foundation Trust",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2022-11-10",
+  "decisionDate": "2022-11-10",
+  "authorityPublicationDate": "2022-11-10",
+  "platformPublicationDate": "2022-11-10",
+  "summary": "Hysteroscopy scans were saved on to a series of three USB sticks over a period of nine years from May 2013 until the remaining two encrypted USB sticks became inaccessible on 5 April 2018. It is unknown whether this inaccessibility was as a result of a technical failure of the USBs or human error from inputting the wrong password.",
+  "category": "decisions",
+  "dedupKey": "royal free london nhs foundation trust|2022-11-10",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "reprimands",
+    "health"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2022/11/royal-free-london-nhs-foundation-trust-reprimand/",
+  "documentUrl": "https://ico.org.uk/media2/migrated/4023133/royal-free-1-reprimand.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-110286c598f8b914.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 140647,
+  "documentSha256": "ff138a0f67343e14eec8ced2f49db00a7cc41d25d090299c105ff309518d5d01",
+  "documentDownloadedAt": "2026-04-16T04:17:58.720Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/migrated/4023133/royal-free-1-reprimand.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

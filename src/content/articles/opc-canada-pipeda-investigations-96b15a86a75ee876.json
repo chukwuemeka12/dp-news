@@ -1,0 +1,32 @@
+{
+  "id": "opc-canada-pipeda-investigations-96b15a86a75ee876",
+  "title": "Web site broadcasts cell phone conversations",
+  "source": "Canada OPC Business Investigations",
+  "sourceId": "opc-canada-pipeda-investigations",
+  "sourceUrl": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/",
+  "publishedDate": "2001-09-17",
+  "decisionDate": "2001-09-17",
+  "authorityPublicationDate": "2001-09-17",
+  "platformPublicationDate": "2001-09-17",
+  "summary": "The Ottawa Sun reported on June 7, 2001, that an Ottawa-based Web site was streaming live audio from cellular telephones onto the Internet from a radio. A scanner was intercepting cellular telephone traffic. The scanner was connected to a computer that was hosting a Web site. By connecting to the Web site, anyone could listen in on privat...",
+  "category": "decisions",
+  "dedupKey": "web site broadcasts cell phone conversations|2001-09-17",
+  "tags": [
+    "canada",
+    "opc",
+    "pipeda",
+    "investigations",
+    "incident-summary-2001-2",
+    "discontinued"
+  ],
+  "sourceDetailUrl": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/incidents/2001/cf-dc_010917/",
+  "documentUrl": null,
+  "localDocumentUrl": null,
+  "documentContentType": null,
+  "documentSizeBytes": null,
+  "documentSha256": null,
+  "documentDownloadedAt": null,
+  "documentDownloadError": null,
+  "originalLink": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/incidents/2001/cf-dc_010917/",
+  "fetchedAt": "2026-06-10T20:08:43.678Z"
+}

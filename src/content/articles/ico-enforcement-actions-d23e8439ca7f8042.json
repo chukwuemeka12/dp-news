@@ -1,0 +1,31 @@
+{
+  "id": "ico-enforcement-actions-d23e8439ca7f8042",
+  "title": "South Wales Police",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2022-08-26",
+  "decisionDate": "2022-08-26",
+  "authorityPublicationDate": "2022-08-26",
+  "platformPublicationDate": "2022-08-26",
+  "summary": "A reprimand has been issued after the disclosure of personal information by South Wales Police on two separate occasions, the first reported was for an incident in April 2020 (the first incident), and a second is an incident that actually predates the first, that occurred in February 2020 (the second incident).",
+  "category": "decisions",
+  "dedupKey": "south wales police|2022-08-26",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "reprimands",
+    "criminal-justice"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2022/08/south-wales-police/",
+  "documentUrl": "https://ico.org.uk/media2/migrated/4023135/south-wales-police-reprimand.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-d23e8439ca7f8042.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 405280,
+  "documentSha256": "2ade82c8cc8a86c00333017c6e5972f090d42d01f2d57b0c1f5709dc0a76e63f",
+  "documentDownloadedAt": "2026-04-16T04:18:09.464Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/migrated/4023135/south-wales-police-reprimand.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

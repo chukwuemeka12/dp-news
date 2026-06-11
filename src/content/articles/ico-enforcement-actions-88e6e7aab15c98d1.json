@@ -1,0 +1,30 @@
+{
+  "id": "ico-enforcement-actions-88e6e7aab15c98d1",
+  "title": "Penny Appeal",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2024-03-01",
+  "decisionDate": "2024-03-01",
+  "authorityPublicationDate": "2024-03-01",
+  "platformPublicationDate": "2024-03-01",
+  "summary": "The Information Commissioner’s Office (ICO) has issued an Enforcement Notice to Penny Appeal, for sending 461,650 spam text messages over a ten day period. These messages were sent to a database of individuals who had never agreed to receive marketing communication from Penny Appeal.",
+  "category": "decisions",
+  "dedupKey": "penny appeal|2024-03-01",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "enforcement-notices"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2024/03/penny-appeal/",
+  "documentUrl": "https://ico.org.uk/media2/migrated/4029272/penny-appeal-enforcement-notice.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-88e6e7aab15c98d1.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 239316,
+  "documentSha256": "41a61caa34c49115e4bfe69d7bff7df2d086c4cd1d72b9633efaabab9af51dda",
+  "documentDownloadedAt": "2026-04-16T04:16:31.450Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/migrated/4029272/penny-appeal-enforcement-notice.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

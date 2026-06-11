@@ -1,0 +1,99 @@
+name: Monitor Fetch and Build
+
+on:
+  workflow_run:
+    workflows:
+      - Fetch and Build
+    types:
+      - completed
+
+permissions:
+  actions: read
+  contents: read
+  issues: write
+
+jobs:
+  alert-on-failure:
+    if: ${{ github.event.workflow_run.conclusion != 'success' }}
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Find open monitoring issue
+        id: find_issue
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          ISSUE_NUMBER=$(gh issue list \
+            --repo "$GITHUB_REPOSITORY" \
+            --state open \
+            --json number,title \
+            --jq '.[] | select(.title=="Monitoring: Fetch and Build requires attention") | .number' \
+            | head -n 1)
+          echo "issue_number=$ISSUE_NUMBER" >> "$GITHUB_OUTPUT"
+
+      - name: Create monitoring issue
+        if: ${{ steps.find_issue.outputs.issue_number == '' }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+          RUN_URL: ${{ github.event.workflow_run.html_url }}
+          CONCLUSION: ${{ github.event.workflow_run.conclusion }}
+        run: |
+          gh issue create \
+            --repo "$GITHUB_REPOSITORY" \
+            --title "Monitoring: Fetch and Build requires attention" \
+            --body "The \`Fetch and Build\` workflow completed with a failing conclusion: \`$CONCLUSION\`.
+
+          Latest failed run: $RUN_URL
+
+          This can mean the site build failed, a source fetch errored, or the post-fetch feed health check detected stale or unhealthy sources.
+
+          Check the workflow logs, confirm whether source endpoints changed, and verify that refreshed content can still be committed back to \`main\`."
+
+      - name: Comment on existing monitoring issue
+        if: ${{ steps.find_issue.outputs.issue_number != '' }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ISSUE_NUMBER: ${{ steps.find_issue.outputs.issue_number }}
+          RUN_URL: ${{ github.event.workflow_run.html_url }}
+          CONCLUSION: ${{ github.event.workflow_run.conclusion }}
+        run: |
+          gh issue comment "$ISSUE_NUMBER" \
+            --repo "$GITHUB_REPOSITORY" \
+            --body "Another \`Fetch and Build\` run requires attention with conclusion \`$CONCLUSION\`.
+
+          Run: $RUN_URL"
+
+  resolve-on-success:
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Find open monitoring issue
+        id: find_issue
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          ISSUE_NUMBER=$(gh issue list \
+            --repo "$GITHUB_REPOSITORY" \
+            --state open \
+            --json number,title \
+            --jq '.[] | select(.title=="Monitoring: Fetch and Build requires attention") | .number' \
+            | head -n 1)
+          echo "issue_number=$ISSUE_NUMBER" >> "$GITHUB_OUTPUT"
+
+      - name: Close monitoring issue after recovery
+        if: ${{ steps.find_issue.outputs.issue_number != '' }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+          ISSUE_NUMBER: ${{ steps.find_issue.outputs.issue_number }}
+          RUN_URL: ${{ github.event.workflow_run.html_url }}
+        run: |
+          gh issue comment "$ISSUE_NUMBER" \
+            --repo "$GITHUB_REPOSITORY" \
+            --body "The latest \`Fetch and Build\` run succeeded again.
+
+          Recovery run: $RUN_URL"
+
+          gh issue close "$ISSUE_NUMBER" \
+            --repo "$GITHUB_REPOSITORY" \
+            --comment "Closing this alert because the scheduled refresh pipeline has recovered."

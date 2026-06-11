@@ -1,0 +1,32 @@
+{
+  "id": "ico-enforcement-actions-6c3ffcd69e6b36e0",
+  "title": "Ministry of Justice",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2023-09-08",
+  "decisionDate": "2023-09-08",
+  "authorityPublicationDate": "2023-09-08",
+  "platformPublicationDate": "2023-09-08",
+  "summary": "The Information Commissioner (the Commissioner) issues a reprimand to the Ministry of Justice (the MoJ) in accordance with Article 58(2)(b) of the UK General Data Protection Regulation in respect of certain infringements of the UK GDPR.",
+  "category": "decisions",
+  "dedupKey": "ministry of justice|2023-09-08",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "reprimands",
+    "criminal-justice",
+    "gdpr"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2023/09/ministry-of-justice-reprimand/",
+  "documentUrl": "https://ico.org.uk/media2/migrated/4026378/moj-reprimand.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-6c3ffcd69e6b36e0.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 155091,
+  "documentSha256": "305e8af088afd339faccedfb3e65c702411632d34f0807b6b5906a8b2dcd905c",
+  "documentDownloadedAt": "2026-04-16T04:17:14.417Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/migrated/4026378/moj-reprimand.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

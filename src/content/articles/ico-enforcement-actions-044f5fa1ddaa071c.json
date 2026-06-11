@@ -1,0 +1,31 @@
+{
+  "id": "ico-enforcement-actions-044f5fa1ddaa071c",
+  "title": "Nottinghamshire Police",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2023-06-21",
+  "decisionDate": "2023-06-21",
+  "authorityPublicationDate": "2023-06-21",
+  "platformPublicationDate": "2023-06-21",
+  "summary": "The breach in this case was an unauthorised disclosure of the personal data of witnesses via a police officer’s unredacted statement on the CPS Digital Case Management system. The evidence has revealed that in this instance, the cause of the disclosure of the personal data of witnesses was the failure to ensure the adequate redaction of t...",
+  "category": "decisions",
+  "dedupKey": "nottinghamshire police|2023-06-21",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "reprimands",
+    "criminal-justice"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2023/06/nottinghamshire-police/",
+  "documentUrl": "https://ico.org.uk/media2/migrated/4027166/nottinghamshire-police-reprimand.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-044f5fa1ddaa071c.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 121033,
+  "documentSha256": "29fb5e36220a0c024f3a5b65fcb2bba04b5c6091a7bb8cd567c6bee711921f8f",
+  "documentDownloadedAt": "2026-04-16T04:17:26.646Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/migrated/4027166/nottinghamshire-police-reprimand.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

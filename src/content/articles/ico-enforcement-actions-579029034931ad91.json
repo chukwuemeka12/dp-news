@@ -1,0 +1,32 @@
+{
+  "id": "ico-enforcement-actions-579029034931ad91",
+  "title": "Gap Personnel Holdings Limited",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2023-10-19",
+  "decisionDate": "2023-10-19",
+  "authorityPublicationDate": "2023-10-19",
+  "platformPublicationDate": "2023-10-19",
+  "summary": "The Information Commissioner (the Commissioner) issues a reprimand to Gap Personnel Holdings Limited in respect of infringements of Article 32 (1), Article 32 (1) (b) and Article 32 (1) (d) of the UK GDPR. The organisation did not have appropriate security measures in place, which resulted in an unauthorised threat actor being able to acc...",
+  "category": "decisions",
+  "dedupKey": "gap personnel holdings limited|2023-10-19",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "reprimands",
+    "general-business",
+    "gdpr"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2023/10/gap-personnel-holdings-limited/",
+  "documentUrl": "https://ico.org.uk/media2/35scoxof/20231018-redacted-reprimand.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-579029034931ad91.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 263586,
+  "documentSha256": "50c2bd912bad9ea254856ed71d0787e9af7c37b10444274628f1822bf0e6741f",
+  "documentDownloadedAt": "2026-04-16T04:17:00.182Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/35scoxof/20231018-redacted-reprimand.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

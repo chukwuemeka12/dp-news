@@ -1,0 +1,32 @@
+{
+  "id": "ico-enforcement-actions-d32a3216b783eebb",
+  "title": "F12 Management Ltd",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2023-09-21",
+  "decisionDate": "2023-09-21",
+  "authorityPublicationDate": "2023-09-21",
+  "platformPublicationDate": "2023-09-21",
+  "summary": "F12 Management Ltd made 1,346,019 marketing calls to individuals in breach of regulation 21 of PECR. The company was fined £200,000 and issued with an enforcement notice.",
+  "category": "decisions",
+  "dedupKey": "f12 management ltd|2023-09-21",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "enforcement-notices",
+    "monetary-penalties",
+    "marketing"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2023/09/f12-management-ltd-en/",
+  "documentUrl": "https://ico.org.uk/media2/migrated/4026560/f12-management-ltd-enforcement-notice.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-d32a3216b783eebb.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 540497,
+  "documentSha256": "bbd23b6a9056a6f3be7bd7438ee4ef6b6d35c699d6ff12cb6d3ade9ae152435a",
+  "documentDownloadedAt": "2026-04-16T04:17:11.901Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/migrated/4026560/f12-management-ltd-enforcement-notice.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

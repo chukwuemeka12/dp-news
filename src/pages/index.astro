@@ -7,6 +7,7 @@ const articles = await getSortedArticles();
 const latestArticles = articles.slice(0, 20);
 const status = await getStatusSnapshot();
 const freshSources = status?.sources.filter((source) => isSourceFresh(source)).length ?? 0;
+const staleSources = status?.sources.filter((source) => !isSourceFresh(source)) ?? [];
 ---
 
 <Base
@@ -38,6 +39,17 @@ const freshSources = status?.sources.filter((source) => isSourceFresh(source)).l
 			</div>
 		</div>
 	</section>
+
+	{
+		staleSources.length > 0 && (
+			<section class="monitor-banner">
+				<p>
+					<strong>Monitoring note:</strong> {staleSources.length} source{staleSources.length === 1 ? '' : 's'} currently
+					need attention. Check the About page for source freshness details before relying on the latest feed.
+				</p>
+			</section>
+		)
+	}
 
 	<section>
 		<div class="section-header">

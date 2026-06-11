@@ -1,0 +1,30 @@
+{
+  "id": "ico-enforcement-actions-0355ddea08d2a6b9",
+  "title": "Capita plc and Capita Pension Solutions Ltd",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2025-10-15",
+  "decisionDate": "2025-10-15",
+  "authorityPublicationDate": "2025-10-15",
+  "platformPublicationDate": "2025-10-15",
+  "summary": "The Information Commissioner’s Office has fined Capita plc and Capita Pension Solutions Ltd a combined £14m following a cyber attack in April 2023 which saw hackers gain access to over 6m people’s data.",
+  "category": "decisions",
+  "dedupKey": "capita plc and capita pension solutions ltd|2025-10-15",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "monetary-penalties"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2025/10/capita-plc/",
+  "documentUrl": "https://ico.org.uk/media2/pv5nhks4/capita-plc-and-cpsl-monetary-penalty-notice.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-0355ddea08d2a6b9.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 1268409,
+  "documentSha256": "6bf1bde8615d7163edbe6fe0bda95c9a6d6aa924e4d0337b5338c4800e036f9f",
+  "documentDownloadedAt": "2026-04-16T04:15:29.318Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/pv5nhks4/capita-plc-and-cpsl-monetary-penalty-notice.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

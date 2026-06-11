@@ -1,0 +1,31 @@
+{
+  "id": "ico-enforcement-actions-7524d39671562897",
+  "title": "London Borough of Hackney",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2022-09-21",
+  "decisionDate": "2022-09-21",
+  "authorityPublicationDate": "2022-09-21",
+  "platformPublicationDate": "2022-09-21",
+  "summary": "For the period of April 2020 to February 2021, London Borough of Hackney did not respond to over 60% of the SARs submitted to them in the statutory timeframe. The oldest SAR was over 23 months.",
+  "category": "decisions",
+  "dedupKey": "london borough of hackney|2022-09-21",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "reprimands",
+    "local-government"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2022/09/london-borough-of-hackney/",
+  "documentUrl": "https://ico.org.uk/media2/migrated/4021719/hackney-reprimand-letter.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-7524d39671562897.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 145400,
+  "documentSha256": "c6a43839dad4d25d0c72bbb7627d4b13cba850cb5e24100aab11c6ae0bd4ad06",
+  "documentDownloadedAt": "2026-04-16T04:18:06.785Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/migrated/4021719/hackney-reprimand-letter.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

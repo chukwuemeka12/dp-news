@@ -1,0 +1,29 @@
+{
+  "id": "dpc-published-decisions-edf45e497438d10a",
+  "title": "Inquiry into Tusla Child and Family Agency - August 2020",
+  "source": "Irish DPC Decisions",
+  "sourceId": "dpc-published-decisions",
+  "sourceUrl": "https://www.dataprotection.ie/en/dpc-guidance/law/decisions-made-under-data-protection-act-2018",
+  "publishedDate": "2020-08-12",
+  "decisionDate": "2020-08-12",
+  "authorityPublicationDate": null,
+  "platformPublicationDate": null,
+  "summary": "This inquiry was commenced in respect of 71 personal data breaches notified by Tusla to the DPC. The decision considered a broad range of Tusla’s processing operations and the findings included:",
+  "category": "decisions",
+  "dedupKey": "inquiry into tusla child and family agency august 2020|2020-08-12",
+  "tags": [
+    "ireland",
+    "dpc",
+    "case-law"
+  ],
+  "sourceDetailUrl": "https://www.dataprotection.ie/en/dpc-guidance/law/decisions/tusla-child-and-family-agency-august-2020",
+  "documentUrl": "https://www.dataprotection.ie/sites/default/files/uploads/2021-02/12.08.2020_Decision_Tusla_IN-18-11-04.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/dpc-published-decisions/dpc-published-decisions-edf45e497438d10a.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 1457133,
+  "documentSha256": "79e9acbbac98f84462829cabc49813c1cdd059d30b1409f54dab25c60e1e4f32",
+  "documentDownloadedAt": "2026-06-02T13:02:04.875Z",
+  "documentDownloadError": null,
+  "originalLink": "https://www.dataprotection.ie/sites/default/files/uploads/2021-02/12.08.2020_Decision_Tusla_IN-18-11-04.pdf",
+  "fetchedAt": "2026-04-16T04:10:42.786Z"
+}

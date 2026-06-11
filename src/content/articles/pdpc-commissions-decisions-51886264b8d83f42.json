@@ -1,0 +1,30 @@
+{
+  "id": "pdpc-commissions-decisions-51886264b8d83f42",
+  "title": "No Breach of the Protection Obligation by Carousell",
+  "source": "Singapore PDPC Decisions",
+  "sourceId": "pdpc-commissions-decisions",
+  "sourceUrl": "https://www.pdpc.gov.sg/all-commissions-decisions",
+  "publishedDate": "2021-09-21",
+  "decisionDate": "2021-09-21",
+  "authorityPublicationDate": "2021-09-21",
+  "platformPublicationDate": "2021-09-21",
+  "summary": "Carousell was found not in breach of the PDPA in relation to incidents where threat actor accessed Carousell users' accounts due to credential stuffing.",
+  "category": "decisions",
+  "dedupKey": "no breach of the protection obligation by carousell|2021-09-21",
+  "tags": [
+    "singapore",
+    "pdpc",
+    "enforcement",
+    "not-in-breach"
+  ],
+  "sourceDetailUrl": "https://www.pdpc.gov.sg/all-commissions-decisions/2021/09/no-breach-of-the-protection-obligation-by-carousell",
+  "documentUrl": "https://www.pdpc.gov.sg/-/media/files/pdpc/pdf-files/commissions-decisions/decision---carousell-pte-ltd---030821.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/pdpc-commissions-decisions/pdpc-commissions-decisions-51886264b8d83f42.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 365772,
+  "documentSha256": "f2472374384d570d2fffa0a1aa1b2903c7fcf1b26f3c22508f5cd8d00897fe58",
+  "documentDownloadedAt": "2026-04-05T15:04:29.489Z",
+  "documentDownloadError": null,
+  "originalLink": "https://www.pdpc.gov.sg/-/media/files/pdpc/pdf-files/commissions-decisions/decision---carousell-pte-ltd---030821.pdf",
+  "fetchedAt": "2026-04-16T04:11:05.443Z"
+}

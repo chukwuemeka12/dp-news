@@ -1,0 +1,31 @@
+{
+  "id": "pdpc-commissions-decisions-758a815c03874ebb",
+  "title": "Breach of the Protection Obligation by Crawfort",
+  "source": "Singapore PDPC Decisions",
+  "sourceId": "pdpc-commissions-decisions",
+  "sourceUrl": "https://www.pdpc.gov.sg/all-commissions-decisions",
+  "publishedDate": "2022-07-14",
+  "decisionDate": "2022-07-14",
+  "authorityPublicationDate": "2022-07-14",
+  "platformPublicationDate": "2022-07-14",
+  "summary": "Directions were issued to Crawfort to conduct a security audit of its technical and administrative arrangements for its AWS S3 environment and rectify any security gaps identified in the audit report. This is pursuant to a data breach incident where Crawfort's customer database were offered for sale in the dark web.",
+  "category": "decisions",
+  "dedupKey": "breach of the protection obligation by crawfort|2022-07-14",
+  "tags": [
+    "singapore",
+    "pdpc",
+    "enforcement",
+    "protection",
+    "directions"
+  ],
+  "sourceDetailUrl": "https://www.pdpc.gov.sg/all-commissions-decisions/2022/07/breach-of-the-protection-obligation-by-crawfort",
+  "documentUrl": "https://www.pdpc.gov.sg/-/media/files/pdpc/pdf-files/commissions-decisions/decision---crawfort-pte-ltd---070622.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/pdpc-commissions-decisions/pdpc-commissions-decisions-758a815c03874ebb.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 412475,
+  "documentSha256": "dfc93198d1b2e8a6a72c6b34e276b6913fd00c3be2f290fce0027d1ad16a3050",
+  "documentDownloadedAt": "2026-04-05T15:03:52.154Z",
+  "documentDownloadError": null,
+  "originalLink": "https://www.pdpc.gov.sg/-/media/files/pdpc/pdf-files/commissions-decisions/decision---crawfort-pte-ltd---070622.pdf",
+  "fetchedAt": "2026-04-16T04:11:05.443Z"
+}

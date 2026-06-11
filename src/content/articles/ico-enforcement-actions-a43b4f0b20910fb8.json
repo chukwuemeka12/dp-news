@@ -1,0 +1,32 @@
+{
+  "id": "ico-enforcement-actions-a43b4f0b20910fb8",
+  "title": "City of Edinburgh Council",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2025-02-03",
+  "decisionDate": "2025-02-03",
+  "authorityPublicationDate": "2025-02-03",
+  "platformPublicationDate": "2025-02-03",
+  "summary": "A reprimand was issued to City of Edinburgh Council as during the period between 01 January 2023 to 31 December 2023, it had failed to respond to 40% of Subject Access Requests within the statutory timeframe of one calendar month, thereby infringing Articles 12(3), 15(1) and 15(3) of the UK GDPR.",
+  "category": "decisions",
+  "dedupKey": "city of edinburgh council|2025-02-03",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "reprimands",
+    "local-government",
+    "gdpr"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2025/02/city-of-edinburgh-council/",
+  "documentUrl": "https://ico.org.uk/media2/10kcnrji/cec-reprimand.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-a43b4f0b20910fb8.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 122454,
+  "documentSha256": "2945b74f06769dd13860fe54a99ec92ea641817bd5c8a0a9e206cd592ba55aa5",
+  "documentDownloadedAt": "2026-04-16T04:15:55.288Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/10kcnrji/cec-reprimand.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

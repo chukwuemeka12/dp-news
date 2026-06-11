@@ -1,0 +1,31 @@
+{
+  "id": "ico-enforcement-actions-561616cd29e8ebee",
+  "title": "Sussex Police",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2023-04-03",
+  "decisionDate": "2023-04-03",
+  "authorityPublicationDate": "2023-04-03",
+  "platformPublicationDate": "2023-04-03",
+  "summary": "In June 2020, the ICO became aware that staff members across both Sussex Police and Surrey Police had access to an app that recorded all incoming and outgoing phone calls. 1,015 staff members downloaded the app onto their work mobile phones and more than 200,000 recordings of phone conversations, likely with victims, witnesses, and perpet...",
+  "category": "decisions",
+  "dedupKey": "sussex police|2023-04-03",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "reprimands",
+    "criminal-justice"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2023/04/sussex-police/",
+  "documentUrl": "https://ico.org.uk/media2/gukj1tfu/sussex-police.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-561616cd29e8ebee.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 523023,
+  "documentSha256": "23420ed58342cf0b3721f88cb896a7e4e7783545ed430e092a3ab890529ed578",
+  "documentDownloadedAt": "2026-04-16T04:17:47.245Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/gukj1tfu/sussex-police.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

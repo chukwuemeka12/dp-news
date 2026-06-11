@@ -1,0 +1,33 @@
+{
+  "id": "opc-canada-pipeda-investigations-ff82549d605fcbbb",
+  "title": "Complaint under PIPEDA against Accusearch Inc., doing business as Abika.com",
+  "source": "Canada OPC Business Investigations",
+  "sourceId": "opc-canada-pipeda-investigations",
+  "sourceUrl": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/",
+  "publishedDate": "2009-07-31",
+  "decisionDate": "2009-07-27",
+  "authorityPublicationDate": "2009-07-27",
+  "platformPublicationDate": "2009-07-31",
+  "summary": "Complaint under PIPEDA against Accusearch Inc., doing business as Abika.com",
+  "category": "decisions",
+  "dedupKey": "complaint under pipeda against accusearch inc doing business as abika com|2009-07-27",
+  "tags": [
+    "canada",
+    "opc",
+    "pipeda",
+    "investigations",
+    "pipeda-report-of-findings-2009-009",
+    "not-well-founded",
+    "well-founded"
+  ],
+  "sourceDetailUrl": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2009/2009_009_rep_0731/",
+  "documentUrl": null,
+  "localDocumentUrl": null,
+  "documentContentType": null,
+  "documentSizeBytes": null,
+  "documentSha256": null,
+  "documentDownloadedAt": null,
+  "documentDownloadError": null,
+  "originalLink": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/2009/2009_009_rep_0731/",
+  "fetchedAt": "2026-06-10T20:08:43.678Z"
+}

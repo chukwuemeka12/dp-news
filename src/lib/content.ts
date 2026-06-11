@@ -109,6 +109,18 @@ export function getPrimaryArticleDate(article: ArticleEntry['data']) {
 	);
 }
 
+export function getPreferredArticleLink(article: ArticleEntry['data']) {
+	return article.localDocumentUrl ?? article.documentUrl ?? article.originalLink;
+}
+
+export function getSourceArticleLink(article: ArticleEntry['data']) {
+	return article.sourceDetailUrl ?? article.documentUrl ?? article.originalLink;
+}
+
+export function getLocalDocumentLink(article: ArticleEntry['data']) {
+	return article.localDocumentUrl ?? null;
+}
+
 export function getPrimaryArticleDateLabel(article: ArticleEntry['data']) {
 	if (article.platformPublicationDate && article.authorityPublicationDate === article.platformPublicationDate) {
 		return 'Authority / platform';

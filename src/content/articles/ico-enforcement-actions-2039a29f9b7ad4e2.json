@@ -1,0 +1,31 @@
+{
+  "id": "ico-enforcement-actions-2039a29f9b7ad4e2",
+  "title": "Department for Work and Pensions",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2022-10-31",
+  "decisionDate": "2022-10-31",
+  "authorityPublicationDate": "2022-10-31",
+  "platformPublicationDate": "2022-10-31",
+  "summary": "A reprimand has been issued after the inappropriate disclosure of individuals personal data by Child Maintenance Appeals (CM Appeals) within the Department for Work and Pensions (DWP).",
+  "category": "decisions",
+  "dedupKey": "department for work and pensions|2022-10-31",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "reprimands",
+    "central-government"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2022/10/department-for-work-and-pensions/",
+  "documentUrl": "https://ico.org.uk/media2/migrated/4023126/dwp-reprimand.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-2039a29f9b7ad4e2.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 236031,
+  "documentSha256": "0e0f3d7ffbe0b1cd482fcf460c11b6d6ae571e7a0b577316a4486bc976a7ef49",
+  "documentDownloadedAt": "2026-04-16T04:18:00.590Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/migrated/4023126/dwp-reprimand.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

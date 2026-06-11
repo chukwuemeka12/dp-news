@@ -1,0 +1,31 @@
+{
+  "id": "ico-enforcement-actions-c240995c20f97bd2",
+  "title": "Allied Health Professionals",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2022-06-29",
+  "decisionDate": "2022-06-29",
+  "authorityPublicationDate": "2022-06-29",
+  "platformPublicationDate": "2022-06-29",
+  "summary": "Allied Health Professionals have been issued with a reprimand for accidentally making data accessible to health care providers when data subjects had not given consent for this data to be shared.",
+  "category": "decisions",
+  "dedupKey": "allied health professionals|2022-06-29",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "reprimands",
+    "health"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2022/06/allied-health-professionals/",
+  "documentUrl": "https://ico.org.uk/media2/migrated/4023122/allied-health-p-reprimand.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-c240995c20f97bd2.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 209092,
+  "documentSha256": "8e8fb3b0fa4d4617711830ab3ed5d73f22c8de896453e04b410546fcd580d1f7",
+  "documentDownloadedAt": "2026-04-16T04:18:18.295Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/migrated/4023122/allied-health-p-reprimand.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

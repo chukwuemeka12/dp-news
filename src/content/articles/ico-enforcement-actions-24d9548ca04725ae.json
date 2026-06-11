@@ -1,0 +1,31 @@
+{
+  "id": "ico-enforcement-actions-24d9548ca04725ae",
+  "title": "Crown Prosecution Service",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2022-08-12",
+  "decisionDate": "2022-08-12",
+  "authorityPublicationDate": "2022-08-12",
+  "platformPublicationDate": "2022-08-12",
+  "summary": "A reprimand was issued after an investigation into three separate incidents involving the loss of personal data.",
+  "category": "decisions",
+  "dedupKey": "crown prosecution service|2022-08-12",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "reprimands",
+    "central-government"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2022/08/crown-prosecution-service-reprimand/",
+  "documentUrl": "https://ico.org.uk/media2/vbzniemo/cps-reprimand.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-24d9548ca04725ae.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 229222,
+  "documentSha256": "b450f22927e5f1419cbf5700cef040e7be620cabe1c0844a4e904c7cffded721",
+  "documentDownloadedAt": "2026-04-16T04:18:12.934Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/vbzniemo/cps-reprimand.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

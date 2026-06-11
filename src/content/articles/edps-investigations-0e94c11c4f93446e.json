@@ -1,0 +1,33 @@
+{
+  "id": "edps-investigations-0e94c11c4f93446e",
+  "title": "Administrative enquiries and disciplinary procedures - EMA",
+  "source": "EDPS Investigations",
+  "sourceId": "edps-investigations",
+  "sourceUrl": "https://www.edps.europa.eu/data-protection/our-work/subjects/privacy-eu-institutions/investigations_en",
+  "publishedDate": "2010-04-21",
+  "decisionDate": "2010-04-21",
+  "authorityPublicationDate": "2010-04-21",
+  "platformPublicationDate": "2010-04-21",
+  "summary": "Opinion of 21 April 2010 on a notification for prior checking on the processing of personal data in administrative enquiries and disciplinary procedures (Case 2010-0047)",
+  "category": "decisions",
+  "dedupKey": "administrative enquiries and disciplinary procedures ema|2010-04-21",
+  "tags": [
+    "eu",
+    "edps",
+    "investigations",
+    "case-law",
+    "privacy-in-the-eu-institutions",
+    "staff-evaluation",
+    "conflicts-of-interest"
+  ],
+  "sourceDetailUrl": "https://www.edps.europa.eu/data-protection/our-work/publications/opinions-prior-check/administrative-enquiries-and-disciplinary",
+  "documentUrl": "https://www.edps.europa.eu/sites/default/files/publication/10-04-21_enquiries_ema_en.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/edps-investigations/edps-investigations-0e94c11c4f93446e.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 86673,
+  "documentSha256": "2be9a818110b9e72c03d87c5f9a1e52702f6c3c3ee915341ce14c18e06523e7e",
+  "documentDownloadedAt": "2026-04-05T14:22:03.229Z",
+  "documentDownloadError": null,
+  "originalLink": "https://www.edps.europa.eu/sites/default/files/publication/10-04-21_enquiries_ema_en.pdf",
+  "fetchedAt": "2026-06-10T20:10:49.951Z"
+}

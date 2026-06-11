@@ -1,0 +1,32 @@
+{
+  "id": "ico-enforcement-actions-9c73bb42686cb802",
+  "title": "Recruitment company reprimand",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2023-08-09",
+  "decisionDate": "2023-08-09",
+  "authorityPublicationDate": "2023-08-09",
+  "platformPublicationDate": "2023-08-09",
+  "summary": "The Information Commissioner (the Commissioner) issues a reprimand to a recruitment company in respect of infringements of Article 5(1)(f) and 32(1)(b) of the UK GDPR. The organisation misconfigured a storage container, containing 12,000 records and relating to 3,000 workers, to be publicly accessible without any requirement to authentica...",
+  "category": "decisions",
+  "dedupKey": "recruitment company reprimand|2023-08-09",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "reprimands",
+    "general-business",
+    "gdpr"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2023/08/recruitment-company-reprimand/",
+  "documentUrl": "https://ico.org.uk/media2/migrated/4026148/20230809-ico-recruitment-reprimand.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-9c73bb42686cb802.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 168036,
+  "documentSha256": "12fc73b19b2e4b76827e4be50eb507871aab03f8ccecd348e3ff6fa113d68918",
+  "documentDownloadedAt": "2026-04-16T04:17:20.162Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/migrated/4026148/20230809-ico-recruitment-reprimand.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "ico-enforcement-actions-f356fd9221aef45a",
+  "title": "Levales Solicitors LLP",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2024-06-21",
+  "decisionDate": "2024-06-21",
+  "authorityPublicationDate": "2024-06-21",
+  "platformPublicationDate": "2024-06-21",
+  "summary": "Reprimand issued to Levales Solicitors LLP (‘Levales’) in respect of Articles 32(1)(b) and 32(1)(d). A threat actor accessed Levales’ cloud-based server using legitimate credentials and subsequently published data on the dark web. The incident affected 8,234 UK individuals, of which 863 individuals were deemed at high risk because of the...",
+  "category": "decisions",
+  "dedupKey": "levales solicitors llp|2024-06-21",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "reprimands",
+    "legal"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2024/06/levales-solicitors-llp/",
+  "documentUrl": "https://ico.org.uk/media2/k4mlpkrm/levales-reprimand.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-f356fd9221aef45a.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 137896,
+  "documentSha256": "fa7f12006809a87813c5d7a615000d56e2a7fc6cecbb5f164dcaeaa657466788",
+  "documentDownloadedAt": "2026-04-16T04:16:13.643Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/k4mlpkrm/levales-reprimand.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "ico-enforcement-actions-c0e3eb858a841a45",
+  "title": "DPP Law Ltd",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2025-04-14",
+  "decisionDate": "2025-04-14",
+  "authorityPublicationDate": "2025-04-14",
+  "platformPublicationDate": "2025-04-14",
+  "summary": "The Information Commissioner has fined law firm DPP Law Ltd £60,000 for its infringements of Articles 5(1)(f), 32(1), 32(2) and 33(1) of the UK GDPR between 25 May 2018 and 17 July 2022.",
+  "category": "decisions",
+  "dedupKey": "dpp law ltd|2025-04-14",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "monetary-penalties",
+    "general-business",
+    "gdpr"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2025/04/dpp-law-ltd/",
+  "documentUrl": "https://ico.org.uk/media2/pr4bg5hq/dpp-law-ltd-monetary-penalty-notice.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-c0e3eb858a841a45.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 1005787,
+  "documentSha256": "a05a42f45ffd37a070e583ae1f47dc3dd7e2961ffcffc241cd192063e89f36ce",
+  "documentDownloadedAt": "2026-06-11T11:35:14.253Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/pr4bg5hq/dpp-law-ltd-monetary-penalty-notice.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

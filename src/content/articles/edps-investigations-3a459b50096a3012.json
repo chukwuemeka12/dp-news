@@ -1,0 +1,31 @@
+{
+  "id": "edps-investigations-3a459b50096a3012",
+  "title": "Traffic violations - Commission",
+  "source": "EDPS Investigations",
+  "sourceId": "edps-investigations",
+  "sourceUrl": "https://www.edps.europa.eu/data-protection/our-work/subjects/privacy-eu-institutions/investigations_en",
+  "publishedDate": "2008-11-03",
+  "decisionDate": "2008-11-03",
+  "authorityPublicationDate": "2008-11-03",
+  "platformPublicationDate": "2008-11-03",
+  "summary": "Opinion of 3 November 2008 on the notification for prior checking on \"Traffic violations with official vehicles of the Commission managed by the Infrastructure and Logistics Office - Brussels (OIB)\" (Case 2008-395)",
+  "category": "decisions",
+  "dedupKey": "traffic violations commission|2008-11-03",
+  "tags": [
+    "eu",
+    "edps",
+    "investigations",
+    "case-law",
+    "privacy-in-the-eu-institutions"
+  ],
+  "sourceDetailUrl": "https://www.edps.europa.eu/data-protection/our-work/publications/opinions-prior-check/traffic-violations-commission_en",
+  "documentUrl": "https://www.edps.europa.eu/sites/default/files/publication/08-11-03_commission_infractions_routieres_en.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/edps-investigations/edps-investigations-3a459b50096a3012.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 63079,
+  "documentSha256": "b64cc7cfc3a4e7130a68484749c827b5d6b7132f68f336efe6f724530d157e23",
+  "documentDownloadedAt": "2026-04-05T14:22:04.916Z",
+  "documentDownloadError": null,
+  "originalLink": "https://www.edps.europa.eu/sites/default/files/publication/08-11-03_commission_infractions_routieres_en.pdf",
+  "fetchedAt": "2026-06-10T20:10:49.951Z"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "ico-enforcement-actions-18a42cf9e980f57d",
+  "title": "NHS Blood and Transplant",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2023-03-03",
+  "decisionDate": "2023-03-03",
+  "authorityPublicationDate": "2023-03-03",
+  "platformPublicationDate": "2023-03-03",
+  "summary": "The Commissioner has decided to issue NHSBT with a reprimand in accordance with Article 58 of the GDPR, after they inadvertently released untested development code into a live system for matching transplant list patients with donated organs in August 2019.",
+  "category": "decisions",
+  "dedupKey": "nhs blood and transplant|2023-03-03",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "reprimands",
+    "health",
+    "gdpr"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2023/03/nhs-blood-and-transplant/",
+  "documentUrl": "https://ico.org.uk/media2/about-the-ico/documents/4020811/nhsbt-reprimand.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-18a42cf9e980f57d.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 185514,
+  "documentSha256": "aee60eefebe212f1aa40feed6a643879cb2fe8e224b86d6046a4a6431b36a862",
+  "documentDownloadedAt": "2026-04-16T04:17:52.660Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/about-the-ico/documents/4020811/nhsbt-reprimand.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

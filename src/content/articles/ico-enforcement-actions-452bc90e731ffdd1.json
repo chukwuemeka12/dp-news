@@ -1,0 +1,31 @@
+{
+  "id": "ico-enforcement-actions-452bc90e731ffdd1",
+  "title": "Chief Constable West Mercia Police and Chief Constable Warwickshire Police",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2023-10-06",
+  "decisionDate": "2023-10-06",
+  "authorityPublicationDate": "2023-10-06",
+  "platformPublicationDate": "2023-10-06",
+  "summary": "On 21 June 2021 West Mercia Police and Warwickshire Police erroneously decommissioned a server containing a Warwickshire Police application. This application contained Warwickshire Police data from between November 2001 and early 2014. The data which has been lost on this application is unrecoverable.",
+  "category": "decisions",
+  "dedupKey": "chief constable west mercia police and chief constable warwickshire police|2023-10-06",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "reprimands",
+    "criminal-justice"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2023/10/chief-constable-west-mercia-police-and-chief-constable-warwickshire-police/",
+  "documentUrl": "https://ico.org.uk/media2/migrated/4027482/20231006-west-mercia-police-reprimand-final-redacted.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-452bc90e731ffdd1.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 179140,
+  "documentSha256": "29dfc46def56fea7bb0614ad8a4aefc9a70dd502b374edbaeebb7ee85ae7b19f",
+  "documentDownloadedAt": "2026-04-16T04:17:01.965Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/migrated/4027482/20231006-west-mercia-police-reprimand-final-redacted.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

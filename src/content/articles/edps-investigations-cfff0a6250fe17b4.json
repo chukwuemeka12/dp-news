@@ -1,0 +1,32 @@
+{
+  "id": "edps-investigations-cfff0a6250fe17b4",
+  "title": "Administrative inquiries and disciplinary procedures - BEREC",
+  "source": "EDPS Investigations",
+  "sourceId": "edps-investigations",
+  "sourceUrl": "https://www.edps.europa.eu/data-protection/our-work/subjects/privacy-eu-institutions/investigations_en",
+  "publishedDate": "2015-07-23",
+  "decisionDate": "2015-07-23",
+  "authorityPublicationDate": "2015-07-23",
+  "platformPublicationDate": "2015-07-23",
+  "summary": "Opinion on a notification for prior checking regarding administrative inquiries and disciplinary procedures at the Body of European Regulators for Electronic Communications (Case 2015-0532)",
+  "category": "decisions",
+  "dedupKey": "administrative inquiries and disciplinary procedures berec|2015-07-23",
+  "tags": [
+    "eu",
+    "edps",
+    "investigations",
+    "case-law",
+    "privacy-in-the-eu-institutions",
+    "working-conditions"
+  ],
+  "sourceDetailUrl": "https://www.edps.europa.eu/data-protection/our-work/publications/opinions-prior-check/administrative-inquiries-and-2_en",
+  "documentUrl": "https://www.edps.europa.eu/sites/default/files/publication/15-07-23_berec_en.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/edps-investigations/edps-investigations-cfff0a6250fe17b4.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 304221,
+  "documentSha256": "99ba8ba6644ecb8bd611e9539f4e1640dcc07eb81c804293887cb42a66d386fc",
+  "documentDownloadedAt": "2026-04-05T14:21:57.343Z",
+  "documentDownloadError": null,
+  "originalLink": "https://www.edps.europa.eu/sites/default/files/publication/15-07-23_berec_en.pdf",
+  "fetchedAt": "2026-06-10T20:10:49.951Z"
+}

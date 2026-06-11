@@ -1,0 +1,31 @@
+{
+  "id": "edps-investigations-7ac42d022fc362e3",
+  "title": "Security investigations at Ispra - Commission",
+  "source": "EDPS Investigations",
+  "sourceId": "edps-investigations",
+  "sourceUrl": "https://www.edps.europa.eu/data-protection/our-work/subjects/privacy-eu-institutions/investigations_en",
+  "publishedDate": "2008-07-31",
+  "decisionDate": "2008-07-31",
+  "authorityPublicationDate": "2008-07-31",
+  "platformPublicationDate": "2008-07-31",
+  "summary": "Opinion of 31 July 2008 on a notification for prior checking on the Security investigations at Joint Research Centre ISPRA (Case 2007-507) The Security Service of JRC Ispra C7 performs investigations related to security related incidents such as traffic accidents, vandalism theft, unauthorised access, etc. in the context of which personal...",
+  "category": "decisions",
+  "dedupKey": "security investigations at ispra commission|2008-07-31",
+  "tags": [
+    "eu",
+    "edps",
+    "investigations",
+    "case-law",
+    "privacy-in-the-eu-institutions"
+  ],
+  "sourceDetailUrl": "https://www.edps.europa.eu/data-protection/our-work/publications/opinions-prior-check/security-investigations-ispra-commission_en",
+  "documentUrl": "https://www.edps.europa.eu/sites/default/files/publication/08-07-31_commission_security_investigations_ispra_en.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/edps-investigations/edps-investigations-7ac42d022fc362e3.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 100515,
+  "documentSha256": "f84a11f64da69ed3da90225f5777f3a49040cb9ad761bbdbb706f0d87fd8766c",
+  "documentDownloadedAt": "2026-04-05T14:22:05.356Z",
+  "documentDownloadError": null,
+  "originalLink": "https://www.edps.europa.eu/sites/default/files/publication/08-07-31_commission_security_investigations_ispra_en.pdf",
+  "fetchedAt": "2026-06-10T20:10:49.951Z"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "opc-canada-pipeda-investigations-75492ad57e228aa0",
+  "title": "Organization’s technical glitch results in the disclosure of a client’s personal information to another client",
+  "source": "Canada OPC Business Investigations",
+  "sourceId": "opc-canada-pipeda-investigations",
+  "sourceUrl": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/",
+  "publishedDate": "2017-12-20",
+  "decisionDate": "2016-08-10",
+  "authorityPublicationDate": "2016-08-10",
+  "platformPublicationDate": "2017-12-20",
+  "summary": "An individual who was using an online service software interface to track his personal information held by other organizations noticed that someone else's personal information had been showing up on his account. The individual contacted the customer service department of the online service company in an attempt to correct the problem. For...",
+  "category": "decisions",
+  "dedupKey": "organization s technical glitch results in the disclosure of a client s personal information to another client|2016-08-10",
+  "tags": [
+    "canada",
+    "opc",
+    "pipeda",
+    "investigations",
+    "early-resolved-case-summary-2016-02",
+    "resolved",
+    "early-resolved"
+  ],
+  "sourceDetailUrl": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/ser/2016/er_02_160810/",
+  "documentUrl": null,
+  "localDocumentUrl": null,
+  "documentContentType": null,
+  "documentSizeBytes": null,
+  "documentSha256": null,
+  "documentDownloadedAt": null,
+  "documentDownloadError": null,
+  "originalLink": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/ser/2016/er_02_160810/",
+  "fetchedAt": "2026-06-10T20:08:43.678Z"
+}

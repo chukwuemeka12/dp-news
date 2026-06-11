@@ -1,0 +1,31 @@
+{
+  "id": "edps-investigations-ca0ca855ca091a02",
+  "title": "Administrative inquiries and disciplinary proceedings - EIF",
+  "source": "EDPS Investigations",
+  "sourceId": "edps-investigations",
+  "sourceUrl": "https://www.edps.europa.eu/data-protection/our-work/subjects/privacy-eu-institutions/investigations_en",
+  "publishedDate": "2016-12-14",
+  "decisionDate": "2016-12-14",
+  "authorityPublicationDate": "2016-12-14",
+  "platformPublicationDate": "2016-12-14",
+  "summary": "Prior-check Opinion on administrative inquiries and disciplinary proceedings at EIF (Case 2015-1103)",
+  "category": "decisions",
+  "dedupKey": "administrative inquiries and disciplinary proceedings eif|2016-12-14",
+  "tags": [
+    "eu",
+    "edps",
+    "investigations",
+    "case-law",
+    "privacy-in-the-eu-institutions"
+  ],
+  "sourceDetailUrl": "https://www.edps.europa.eu/data-protection/our-work/publications/opinions-prior-check/administrative-inquiries-and-8",
+  "documentUrl": "https://www.edps.europa.eu/sites/default/files/publication/16-12-14_pc_eif_en.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/edps-investigations/edps-investigations-ca0ca855ca091a02.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 217655,
+  "documentSha256": "f4b2584552fd3bf8070fccfe87d03ad0e26c9ac185d3cd9d462dc7ee06d4245e",
+  "documentDownloadedAt": "2026-04-05T14:21:54.363Z",
+  "documentDownloadError": null,
+  "originalLink": "https://www.edps.europa.eu/sites/default/files/publication/16-12-14_pc_eif_en.pdf",
+  "fetchedAt": "2026-06-10T20:10:49.951Z"
+}

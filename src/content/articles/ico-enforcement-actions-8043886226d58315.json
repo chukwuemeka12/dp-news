@@ -1,0 +1,32 @@
+{
+  "id": "ico-enforcement-actions-8043886226d58315",
+  "title": "Digivo Media Limited",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2023-10-03",
+  "decisionDate": "2023-10-03",
+  "authorityPublicationDate": "2023-10-03",
+  "platformPublicationDate": "2023-10-03",
+  "summary": "Between 24 March 2021 and 7 September 2021 there were 415,041 texts delivered without valid consent – breach of Regulation 22 of PECR. Digivo came to the ICO’s attention following a review of debt management complaints received via the SPAM reporting tool.",
+  "category": "decisions",
+  "dedupKey": "digivo media limited|2023-10-03",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "monetary-penalties",
+    "finance-insurance-and-credit",
+    "enforcement-notices"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2023/10/digivo-media-limited-mpn/",
+  "documentUrl": "https://ico.org.uk/media2/migrated/4027237/digivo-media-ltd-mpn-20231003.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-8043886226d58315.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 681771,
+  "documentSha256": "f463cb521fac4c233b14d2f45586ce76f8e7c9483b503e5b4d96b48f40737124",
+  "documentDownloadedAt": "2026-04-16T04:17:03.301Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/migrated/4027237/digivo-media-ltd-mpn-20231003.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

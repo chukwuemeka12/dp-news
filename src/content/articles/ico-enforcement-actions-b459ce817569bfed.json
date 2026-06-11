@@ -1,0 +1,31 @@
+{
+  "id": "ico-enforcement-actions-b459ce817569bfed",
+  "title": "The Labour Party",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2024-08-20",
+  "decisionDate": "2024-08-20",
+  "authorityPublicationDate": "2024-08-20",
+  "platformPublicationDate": "2024-08-20",
+  "summary": "The Labour Party were issued with a reprimand for failing to respond to people’s request for their own personal data, also know as a subject access request, and for failing to respond to peoples request for erasure.",
+  "category": "decisions",
+  "dedupKey": "the labour party|2024-08-20",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "reprimands",
+    "political"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2024/08/the-labour-party/",
+  "documentUrl": "https://ico.org.uk/media2/xtxl5age/labour-party-reprimand-20240820.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-b459ce817569bfed.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 158262,
+  "documentSha256": "7e02e376d6319fa245e2a012ad9ef220e76c166f433fb32343a382aab98328e7",
+  "documentDownloadedAt": "2026-06-11T11:35:19.099Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/xtxl5age/labour-party-reprimand-20240820.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

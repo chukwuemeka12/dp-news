@@ -1,0 +1,31 @@
+{
+  "id": "ico-enforcement-actions-eff2b6979c15329b",
+  "title": "Cover Appliance Ltd",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2023-09-21",
+  "decisionDate": "2023-09-21",
+  "authorityPublicationDate": "2023-09-21",
+  "platformPublicationDate": "2023-09-21",
+  "summary": "Cover Appliance Ltd made 511,499 marketing calls to individuals in breach of regulation 21 of PECR. The company was fined £200,000 and issued with an enforcement notice.",
+  "category": "decisions",
+  "dedupKey": "cover appliance ltd|2023-09-21",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "monetary-penalties",
+    "marketing"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2023/09/cover-appliance-ltd-mpn/",
+  "documentUrl": "https://ico.org.uk/media2/jw4iwxug/cover-appliance-limited-monetary-penalty-notice.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-eff2b6979c15329b.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 1226036,
+  "documentSha256": "4926882f2821e0aee9faa1a351441caabc37d24444409179d540445d7eb56d65",
+  "documentDownloadedAt": "2026-04-16T04:17:13.584Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/jw4iwxug/cover-appliance-limited-monetary-penalty-notice.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

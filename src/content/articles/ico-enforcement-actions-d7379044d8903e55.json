@@ -1,0 +1,30 @@
+{
+  "id": "ico-enforcement-actions-d7379044d8903e55",
+  "title": "Bolton at Home",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2022-06-07",
+  "decisionDate": "2022-06-07",
+  "authorityPublicationDate": "2022-06-07",
+  "platformPublicationDate": "2022-06-07",
+  "summary": "Bolton at Home has been issued with a reprimand for the inappropriate disclosure of personal data.",
+  "category": "decisions",
+  "dedupKey": "bolton at home|2022-06-07",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "reprimands"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2022/06/bolton-at-home/",
+  "documentUrl": "https://ico.org.uk/media2/migrated/4023124/bolton-at-home-reprimand.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-d7379044d8903e55.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 215392,
+  "documentSha256": "70447bb850ee6f725911cdf34c1b7493208fe8b82606a5496ac7f8d993f9c146",
+  "documentDownloadedAt": "2026-04-16T04:18:19.201Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/migrated/4023124/bolton-at-home-reprimand.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "ico-enforcement-actions-aa473a68cf101a18",
+  "title": "Ministry of Defence",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2022-07-27",
+  "decisionDate": "2022-07-27",
+  "authorityPublicationDate": "2022-07-27",
+  "platformPublicationDate": "2022-07-27",
+  "summary": "The MoD has been issued with a reprimand following an identified SAR backlog dating back to March 2020. Despite setting up a recovery plan, this backlog has continued to grow, and currently stands at 9,000 SAR requests yet to be responded to. This has meant that, on average, people were typically waiting over 12 months for their informati...",
+  "category": "decisions",
+  "dedupKey": "ministry of defence|2022-07-27",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "reprimands",
+    "central-government"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2022/07/ministry-of-defence/",
+  "documentUrl": "https://ico.org.uk/media2/migrated/4021724/mod-reprimand-letter.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-aa473a68cf101a18.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 166958,
+  "documentSha256": "6150db17866d9b771b001ac46ac6284ce7716cf43b5b1866affddb411c8373f2",
+  "documentDownloadedAt": "2026-04-16T04:18:13.818Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/migrated/4021724/mod-reprimand-letter.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

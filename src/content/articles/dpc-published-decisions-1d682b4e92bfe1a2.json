@@ -1,0 +1,29 @@
+{
+  "id": "dpc-published-decisions-1d682b4e92bfe1a2",
+  "title": "Inquiry into Tusla Child and Family Agency - May 2020",
+  "source": "Irish DPC Decisions",
+  "sourceId": "dpc-published-decisions",
+  "sourceUrl": "https://www.dataprotection.ie/en/dpc-guidance/law/decisions-made-under-data-protection-act-2018",
+  "publishedDate": "2020-05-21",
+  "decisionDate": "2020-05-21",
+  "authorityPublicationDate": null,
+  "platformPublicationDate": null,
+  "summary": "This inquiry was commenced in respect of one personal data breach notified by Tusla to the DPC. The personal data breach occurred when a social worker for Tusla wrote a safeguarding letter to the ex-partner of an individual against whom abuse allegations had been made. The purpose of this letter was to inform the ex-partner about the alle...",
+  "category": "decisions",
+  "dedupKey": "inquiry into tusla child and family agency may 2020|2020-05-21",
+  "tags": [
+    "ireland",
+    "dpc",
+    "case-law"
+  ],
+  "sourceDetailUrl": "https://www.dataprotection.ie/en/dpc-guidance/law/decisions/tusla-may-2020",
+  "documentUrl": "https://www.dataprotection.ie/sites/default/files/uploads/2021-02/21.05.2020_Decision_IN-19-12-8_Tusla.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/dpc-published-decisions/dpc-published-decisions-1d682b4e92bfe1a2.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 1247271,
+  "documentSha256": "aea954dc356a1900dad96700751cae70ee4fa9f951311df9416fb17b688d5c53",
+  "documentDownloadedAt": "2026-06-02T13:02:06.401Z",
+  "documentDownloadError": null,
+  "originalLink": "https://www.dataprotection.ie/sites/default/files/uploads/2021-02/21.05.2020_Decision_IN-19-12-8_Tusla.pdf",
+  "fetchedAt": "2026-04-16T04:10:42.786Z"
+}

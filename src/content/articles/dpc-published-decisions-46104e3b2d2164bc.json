@@ -1,0 +1,29 @@
+{
+  "id": "dpc-published-decisions-46104e3b2d2164bc",
+  "title": "Inquiry concerning the Department of Social Protection",
+  "source": "Irish DPC Decisions",
+  "sourceId": "dpc-published-decisions",
+  "sourceUrl": "https://www.dataprotection.ie/en/dpc-guidance/law/decisions-made-under-data-protection-act-2018",
+  "publishedDate": "2025-06-09",
+  "decisionDate": "2025-06-09",
+  "authorityPublicationDate": null,
+  "platformPublicationDate": null,
+  "summary": "The Data Protection Commission (DPC) has completed an inquiry into the Department of Social Protection’s (DSP) processing of biometric facial templates and the use of associated facial matching technologies as part of the Public Services Card (PSC) registration process, referred to as “SAFE 2 registration” . Corrective measures: Data Prot...",
+  "category": "decisions",
+  "dedupKey": "inquiry concerning the department of social protection|2025-06-09",
+  "tags": [
+    "ireland",
+    "dpc",
+    "case-law"
+  ],
+  "sourceDetailUrl": "https://www.dataprotection.ie/en/dpc-guidance/law/decisions-made-under-data-protection-act-2018/inquiry-DSP-June-2025",
+  "documentUrl": "https://www.dataprotection.ie/sites/default/files/uploads/2025-09/IN-21-7-3_DSP_Final_Decision_2025.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/dpc-published-decisions/dpc-published-decisions-46104e3b2d2164bc.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 1696304,
+  "documentSha256": "10d97abbe5c78eb53f5a054152063c9c422c6042a1628346a21b8e5c9e61ccac",
+  "documentDownloadedAt": "2026-06-02T13:00:27.911Z",
+  "documentDownloadError": null,
+  "originalLink": "https://www.dataprotection.ie/sites/default/files/uploads/2025-09/IN-21-7-3_DSP_Final_Decision_2025.pdf",
+  "fetchedAt": "2026-04-16T04:10:42.786Z"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "ico-enforcement-actions-05ab533719b945cb",
+  "title": "WerepairUK Ltd",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2024-10-10",
+  "decisionDate": "2024-10-10",
+  "authorityPublicationDate": "2024-10-10",
+  "platformPublicationDate": "2024-10-10",
+  "summary": "WerepairUK Ltd made 42,688 marketing calls to individuals in breach of regulation 21 of PECR. The company has been fined £80,000 and issued with an enforcement notice.",
+  "category": "decisions",
+  "dedupKey": "werepairuk ltd|2024-10-10",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "enforcement-notices",
+    "marketing",
+    "monetary-penalties"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2024/10/werepairuk-ltd-enforcement-notice/",
+  "documentUrl": "https://ico.org.uk/media2/migrated/4031278/werepairuk-ltd-en.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-05ab533719b945cb.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 513687,
+  "documentSha256": "bcdfc8249d43e33f2fab3fc5ff4372effbc79e37a32c8c10e8eb96e4856644fa",
+  "documentDownloadedAt": "2026-04-16T04:16:03.952Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/migrated/4031278/werepairuk-ltd-en.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

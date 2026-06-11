@@ -1,0 +1,32 @@
+{
+  "id": "edps-investigations-4b3671781e20e58b",
+  "title": "Administration of external activities - EMEA",
+  "source": "EDPS Investigations",
+  "sourceId": "edps-investigations",
+  "sourceUrl": "https://www.edps.europa.eu/data-protection/our-work/subjects/privacy-eu-institutions/investigations_en",
+  "publishedDate": "2007-11-16",
+  "decisionDate": "2007-11-16",
+  "authorityPublicationDate": "2007-11-16",
+  "platformPublicationDate": "2007-11-16",
+  "summary": "Answer to a notification for prior checking on the administration of external activities (Case 2007-417)",
+  "category": "decisions",
+  "dedupKey": "administration of external activities emea|2007-11-16",
+  "tags": [
+    "eu",
+    "edps",
+    "investigations",
+    "case-law",
+    "privacy-in-the-eu-institutions",
+    "conflicts-of-interest"
+  ],
+  "sourceDetailUrl": "https://www.edps.europa.eu/data-protection/our-work/publications/opinions-non-prior-check/administration-external-activities_en",
+  "documentUrl": "https://www.edps.europa.eu/sites/default/files/publication/07-11-16_emea_external_activities_en.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/edps-investigations/edps-investigations-4b3671781e20e58b.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 38976,
+  "documentSha256": "3449f7b0e7765c8f7665669e9f558d33bcddfe4674b702b2c7803ceca0bbdf22",
+  "documentDownloadedAt": "2026-04-05T14:22:06.646Z",
+  "documentDownloadError": null,
+  "originalLink": "https://www.edps.europa.eu/sites/default/files/publication/07-11-16_emea_external_activities_en.pdf",
+  "fetchedAt": "2026-06-10T20:10:49.951Z"
+}

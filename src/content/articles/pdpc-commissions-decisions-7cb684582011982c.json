@@ -1,0 +1,31 @@
+{
+  "id": "pdpc-commissions-decisions-7cb684582011982c",
+  "title": "No breach of the PDPA by Sembcorp Marine",
+  "source": "Singapore PDPC Decisions",
+  "sourceId": "pdpc-commissions-decisions",
+  "sourceUrl": "https://www.pdpc.gov.sg/all-commissions-decisions",
+  "publishedDate": "2023-03-10",
+  "decisionDate": "2023-03-10",
+  "authorityPublicationDate": "2023-03-10",
+  "platformPublicationDate": "2023-03-10",
+  "summary": "Sembcorp Marine was found not in breach of the PDPA in relation to an incident whereby threat actor(s) exfiltrated personal data by exploiting a zero-day vulnerability present in an application.",
+  "category": "decisions",
+  "dedupKey": "no breach of the pdpa by sembcorp marine|2023-03-10",
+  "tags": [
+    "singapore",
+    "pdpc",
+    "enforcement",
+    "protection",
+    "not-in-breach"
+  ],
+  "sourceDetailUrl": "https://www.pdpc.gov.sg/all-commissions-decisions/2023/03/no-breach-of-the-pdpa-by-sembcorp-marine",
+  "documentUrl": "https://www.pdpc.gov.sg/-/media/files/pdpc/pdf-files/commissions-decisions/gd_sembcorp-marine-ltd_070223.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/pdpc-commissions-decisions/pdpc-commissions-decisions-7cb684582011982c.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 126189,
+  "documentSha256": "6b7a179939e4ffe053d52f054ec390a585793deb9ebd9c4d75756c58f9e1cf7d",
+  "documentDownloadedAt": "2026-04-05T15:03:37.597Z",
+  "documentDownloadError": null,
+  "originalLink": "https://www.pdpc.gov.sg/-/media/files/pdpc/pdf-files/commissions-decisions/gd_sembcorp-marine-ltd_070223.pdf",
+  "fetchedAt": "2026-04-16T04:11:05.443Z"
+}

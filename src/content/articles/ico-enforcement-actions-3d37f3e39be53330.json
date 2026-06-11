@@ -1,0 +1,32 @@
+{
+  "id": "ico-enforcement-actions-3d37f3e39be53330",
+  "title": "AFK Letters Co Ltd",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2025-03-27",
+  "decisionDate": "2025-03-27",
+  "authorityPublicationDate": "2025-03-27",
+  "platformPublicationDate": "2025-03-27",
+  "summary": "It was found that between January and September 2023, AFK made 95,277 spam calls resulting in several complaints being made to the ICO and TPS. AFK did not provide evidence that anyone whose number had been called had consented to receiving calls from the company. The ICO has issued a £90,000 fine.",
+  "category": "decisions",
+  "dedupKey": "afk letters co ltd|2025-03-27",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "monetary-penalties",
+    "general-business",
+    "enforcement-notices"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2025/04/afk-letters-co-ltd-mpn/",
+  "documentUrl": "https://ico.org.uk/media2/sqmnjxcs/afk-letters-co-ltd-monetary-penalty-notice.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-3d37f3e39be53330.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 1298568,
+  "documentSha256": "93602a8a30558ed45a960e23d6b2a1ad477b132f90740bb55790a8df92eb15c7",
+  "documentDownloadedAt": "2026-04-16T04:15:47.142Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/sqmnjxcs/afk-letters-co-ltd-monetary-penalty-notice.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

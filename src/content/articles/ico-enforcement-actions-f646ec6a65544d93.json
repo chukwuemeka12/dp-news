@@ -1,0 +1,32 @@
+{
+  "id": "ico-enforcement-actions-f646ec6a65544d93",
+  "title": "Argentum Data Solutions Ltd",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2023-10-26",
+  "decisionDate": "2023-10-26",
+  "authorityPublicationDate": "2023-10-26",
+  "platformPublicationDate": "2023-10-26",
+  "summary": "Between 1 January 2021 and 31 January 2022 there were a total of 2,330,423 SMS sent without consent. 24,309 were sent by ADS directly and it allowed its lines to be used by third parties to send the remaining 2,306,114. These messages were sent in breach of regulation 22 of PECR. ADS came to our attention following a review of complaints...",
+  "category": "decisions",
+  "dedupKey": "argentum data solutions ltd|2023-10-26",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "monetary-penalties",
+    "general-business",
+    "enforcement-notices"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2023/10/argentum-data-solutions-ltd-mpn/",
+  "documentUrl": "https://ico.org.uk/media2/bsaayjka/argentum-data-solutions-mpn-20231026.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-f646ec6a65544d93.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 547808,
+  "documentSha256": "9ce190fa71eb2d8807b98a235cd0c31f4762d9aa2b58a76dfc790def7d2351a2",
+  "documentDownloadedAt": "2026-04-16T04:16:58.332Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/bsaayjka/argentum-data-solutions-mpn-20231026.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

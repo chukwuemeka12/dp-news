@@ -1,0 +1,31 @@
+{
+  "id": "ico-enforcement-actions-c8a6d4c7d6493e65",
+  "title": "Intelling Ltd",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2023-11-16",
+  "decisionDate": "2023-11-16",
+  "authorityPublicationDate": "2023-11-16",
+  "platformPublicationDate": "2023-11-16",
+  "summary": "All text content is available under the Open Government Licence v3.0 , except where otherwise stated.",
+  "category": "decisions",
+  "dedupKey": "intelling ltd|2023-11-16",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "monetary-penalties",
+    "online-technology-and-telecoms"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2023/11/intelling-ltd/",
+  "documentUrl": "https://ico.org.uk/media2/d1ppfaiz/intelling-mpn.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-c8a6d4c7d6493e65.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 1079339,
+  "documentSha256": "04295050b33f6dd454c6659dc418420beeeb2a872dda776144af0d4b0c746ba9",
+  "documentDownloadedAt": "2026-04-16T04:16:50.763Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/d1ppfaiz/intelling-mpn.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

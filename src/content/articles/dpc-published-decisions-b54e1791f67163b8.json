@@ -1,0 +1,29 @@
+{
+  "id": "dpc-published-decisions-b54e1791f67163b8",
+  "title": "Inquiry into Microsoft Ireland Operations Limited - November 2023",
+  "source": "Irish DPC Decisions",
+  "sourceId": "dpc-published-decisions",
+  "sourceUrl": "https://www.dataprotection.ie/en/dpc-guidance/law/decisions-made-under-data-protection-act-2018",
+  "publishedDate": "2023-11-15",
+  "decisionDate": "2023-11-15",
+  "authorityPublicationDate": null,
+  "platformPublicationDate": null,
+  "summary": "On 15 November 2023, following an inquiry concerning a complaint received against Microsoft Ireland Operations Limited (Microsoft), the Data Protection Commission (DPC) adopted a decision.",
+  "category": "decisions",
+  "dedupKey": "inquiry into microsoft ireland operations limited november 2023|2023-11-15",
+  "tags": [
+    "ireland",
+    "dpc",
+    "case-law"
+  ],
+  "sourceDetailUrl": "https://www.dataprotection.ie/en/dpc-guidance/law/decisions-made-under-data-protection-act-2018/Inquiry-concerning-erasure-requests-submitted-to-Microsoft-Ireland-Operations-Limited-November-2023",
+  "documentUrl": "https://www.dataprotection.ie/sites/default/files/uploads/2023-12/13.12.2023%20Microsoft%20Ireland%20Operations%20Limited%20Decision.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/dpc-published-decisions/dpc-published-decisions-b54e1791f67163b8.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 5744308,
+  "documentSha256": "7d2908bb97249b2f7d393711cb4ce15906055dda5baafff44b0786a851a6e964",
+  "documentDownloadedAt": "2026-06-02T13:00:59.570Z",
+  "documentDownloadError": null,
+  "originalLink": "https://www.dataprotection.ie/sites/default/files/uploads/2023-12/13.12.2023%20Microsoft%20Ireland%20Operations%20Limited%20Decision.pdf",
+  "fetchedAt": "2026-04-16T04:10:42.786Z"
+}

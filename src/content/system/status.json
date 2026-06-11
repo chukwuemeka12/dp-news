@@ -1,17 +1,30 @@
 {
+<<<<<<< HEAD
   "generatedAt": "2026-06-11T10:06:16.800Z",
+=======
+  "generatedAt": "2026-06-11T11:34:06.869Z",
+>>>>>>> 64f9bd45 (feat: wire official-decision fetchers + feed health monitor into Fetch and Build action)
   "retentionDays": 90,
+  "decisionRetentionDays": 365,
   "maxArticles": 2000,
   "totals": {
+<<<<<<< HEAD
     "articles": 40,
     "healthySources": 5,
     "totalSources": 6,
     "byCategory": {
       "decisions": 11,
+=======
+    "articles": 952,
+    "healthySources": 8,
+    "totalSources": 14,
+    "byCategory": {
+      "decisions": 916,
+>>>>>>> 64f9bd45 (feat: wire official-decision fetchers + feed health monitor into Fetch and Build action)
       "laws": 0,
-      "guidance": 29,
+      "guidance": 35,
       "standards": 0,
-      "appointments": 0
+      "appointments": 1
     }
   },
   "sources": [
@@ -110,6 +123,133 @@
       "itemCount": 3161,
       "healthy": false,
       "error": "Enforcement Tracker returned 404"
+    },
+    {
+      "id": "ico-enforcement-actions",
+      "name": "UK ICO Enforcement Action",
+      "kind": "official-decisions",
+      "endpoint": "https://ico.org.uk/action-weve-taken/enforcement/",
+      "siteUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+      "defaultCategory": "decisions",
+      "description": "UK Information Commissioner’s Office enforcement notices, reprimands, and monetary penalty decisions.",
+      "staleAfterHours": 168,
+      "checkedAt": "2026-06-11T11:30:09.839Z",
+      "lastSuccessAt": "2026-06-11T11:30:09.839Z",
+      "latestItemAt": "2026-05-07T00:00:00.000Z",
+      "itemCount": 201,
+      "healthy": true,
+      "error": null
+    },
+    {
+      "id": "opc-canada-pipeda-investigations",
+      "name": "Canada OPC Business Investigations",
+      "kind": "official-decisions",
+      "endpoint": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/",
+      "siteUrl": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/",
+      "defaultCategory": "decisions",
+      "description": "Published PIPEDA findings, case summaries, incident summaries, and letters of finding from the Office of the Privacy Commissioner of Canada.",
+      "staleAfterHours": 168,
+      "checkedAt": "2026-06-11T11:32:33.672Z",
+      "lastSuccessAt": "2026-06-10T20:08:43.678Z",
+      "latestItemAt": "2026-06-04T00:00:00.000Z",
+      "itemCount": 170,
+      "healthy": false,
+      "error": "fetch failed"
+    },
+    {
+      "id": "dpc-published-decisions",
+      "name": "Irish DPC Decisions",
+      "kind": "official-decisions",
+      "endpoint": "https://www.dataprotection.ie/en/dpc-guidance/law/decisions-made-under-data-protection-act-2018",
+      "siteUrl": "https://www.dataprotection.ie/en/dpc-guidance/law/decisions-made-under-data-protection-act-2018",
+      "defaultCategory": "decisions",
+      "description": "Published inquiry decisions and enforcement outcomes from the Irish Data Protection Commission.",
+      "staleAfterHours": 72,
+      "checkedAt": "2026-06-11T11:32:43.845Z",
+      "latestItemAt": null,
+      "itemCount": 0,
+      "healthy": false,
+      "error": "Decision source returned zero usable items (existing articles preserved)."
+    },
+    {
+      "id": "edps-investigations",
+      "name": "EDPS Investigations",
+      "kind": "official-decisions",
+      "endpoint": "https://www.edps.europa.eu/data-protection/our-work/subjects/privacy-eu-institutions/investigations_en",
+      "siteUrl": "https://www.edps.europa.eu/data-protection/our-work/subjects/privacy-eu-institutions/investigations_en",
+      "defaultCategory": "decisions",
+      "description": "Published EDPS investigation decisions and related supervisory outcomes for EU institutions and bodies.",
+      "staleAfterHours": 168,
+      "checkedAt": "2026-06-11T11:33:14.023Z",
+      "lastSuccessAt": "2026-06-10T20:10:49.951Z",
+      "latestItemAt": "2025-11-24T00:00:00.000Z",
+      "itemCount": 84,
+      "healthy": false,
+      "error": "Official decision source returned 503 for https://www.edps.europa.eu/data-protection/our-work/subjects/privacy-eu-institutions/investigations_en?page=9"
+    },
+    {
+      "id": "pdpc-commissions-decisions",
+      "name": "Singapore PDPC Decisions",
+      "kind": "official-decisions",
+      "endpoint": "https://www.pdpc.gov.sg/all-commissions-decisions",
+      "siteUrl": "https://www.pdpc.gov.sg/all-commissions-decisions",
+      "defaultCategory": "decisions",
+      "description": "Official Personal Data Protection Commission enforcement case decisions from Singapore.",
+      "staleAfterHours": 336,
+      "checkedAt": "2026-06-11T11:33:22.009Z",
+      "lastSuccessAt": null,
+      "latestItemAt": null,
+      "itemCount": 0,
+      "healthy": false,
+      "error": "Official decision source returned 404 for https://www.pdpc.gov.sg/search-result?keyword="
+    },
+    {
+      "id": "odpc-determinations",
+      "name": "Kenya ODPC Determinations",
+      "kind": "official-decisions",
+      "endpoint": "https://www.odpc.go.ke/2026-determinations/",
+      "siteUrl": "https://www.odpc.go.ke/determinations/",
+      "defaultCategory": "decisions",
+      "description": "Official complaint and suo moto determinations published by the Office of the Data Protection Commissioner of Kenya.",
+      "staleAfterHours": 336,
+      "checkedAt": "2026-06-11T11:33:23.592Z",
+      "lastSuccessAt": "2026-06-11T11:33:23.592Z",
+      "latestItemAt": "2026-04-01T00:00:00.000Z",
+      "itemCount": 158,
+      "healthy": true,
+      "error": null
+    },
+    {
+      "id": "cnil-enforcement-decisions",
+      "name": "CNIL Enforcement Decisions",
+      "kind": "official-decisions",
+      "endpoint": "https://www.cnil.fr/en/investigation-powers-cnil/sanctions-issued-cnil",
+      "siteUrl": "https://www.cnil.fr/en/investigation-powers-cnil/sanctions-issued-cnil",
+      "defaultCategory": "decisions",
+      "description": "Restricted committee sanction decisions issued by the French Commission Nationale de l'Informatique et des Libertés (CNIL).",
+      "staleAfterHours": 168,
+      "checkedAt": "2026-06-11T11:33:36.009Z",
+      "lastSuccessAt": "2026-06-11T11:33:36.009Z",
+      "latestItemAt": "2026-01-22T00:00:00.000Z",
+      "itemCount": 26,
+      "healthy": true,
+      "error": null
+    },
+    {
+      "id": "aepd-enforcement-decisions",
+      "name": "Spanish AEPD Enforcement Decisions",
+      "kind": "official-decisions",
+      "endpoint": "https://www.aepd.es/informes-y-resoluciones/resoluciones",
+      "siteUrl": "https://www.aepd.es/informes-y-resoluciones/resoluciones",
+      "defaultCategory": "decisions",
+      "description": "Enforcement sanction decisions (Procedimiento sancionador) from the Spanish Agencia Española de Protección de Datos.",
+      "staleAfterHours": 168,
+      "checkedAt": "2026-06-11T11:34:06.633Z",
+      "lastSuccessAt": null,
+      "latestItemAt": null,
+      "itemCount": 0,
+      "healthy": false,
+      "error": "Cannot access 'AEPD_PS_FILTER' before initialization"
     }
   ]
 }

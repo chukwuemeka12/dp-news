@@ -1,0 +1,31 @@
+{
+  "id": "edps-investigations-2af07b1e81d1c245",
+  "title": "Security investigations - Commission",
+  "source": "EDPS Investigations",
+  "sourceId": "edps-investigations",
+  "sourceUrl": "https://www.edps.europa.eu/data-protection/our-work/subjects/privacy-eu-institutions/investigations_en",
+  "publishedDate": "2008-10-02",
+  "decisionDate": "2008-10-02",
+  "authorityPublicationDate": "2008-10-02",
+  "platformPublicationDate": "2008-10-02",
+  "summary": "Opinion of 2 October 2008 on a notification for prior checking on security investigations (Case 2007-736)",
+  "category": "decisions",
+  "dedupKey": "security investigations commission|2008-10-02",
+  "tags": [
+    "eu",
+    "edps",
+    "investigations",
+    "case-law",
+    "privacy-in-the-eu-institutions"
+  ],
+  "sourceDetailUrl": "https://www.edps.europa.eu/data-protection/our-work/publications/opinions-prior-check/security-investigations-commission_en",
+  "documentUrl": "https://www.edps.europa.eu/sites/default/files/publication/08-10-02_commission_enquete_securite_en.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/edps-investigations/edps-investigations-2af07b1e81d1c245.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 107332,
+  "documentSha256": "f7d9f01ed12f39de57a91736440ff33be895d964ae795ac25ffb239db8a9141a",
+  "documentDownloadedAt": "2026-04-05T14:22:05.144Z",
+  "documentDownloadError": null,
+  "originalLink": "https://www.edps.europa.eu/sites/default/files/publication/08-10-02_commission_enquete_securite_en.pdf",
+  "fetchedAt": "2026-06-10T20:10:49.951Z"
+}

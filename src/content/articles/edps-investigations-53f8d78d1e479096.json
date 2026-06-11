@@ -1,0 +1,31 @@
+{
+  "id": "edps-investigations-53f8d78d1e479096",
+  "title": "Disciplinary cases - European Central Bank",
+  "source": "EDPS Investigations",
+  "sourceId": "edps-investigations",
+  "sourceUrl": "https://www.edps.europa.eu/data-protection/our-work/subjects/privacy-eu-institutions/investigations_en",
+  "publishedDate": "2006-03-08",
+  "decisionDate": "2006-03-08",
+  "authorityPublicationDate": "2006-03-08",
+  "platformPublicationDate": "2006-03-08",
+  "summary": "Opinion of 8 March 2006 on a notification for prior checking on \"Disciplinary cases (including related administrative reviews of complaints and grievances, Ombudsman and Court cases)\" (Case 2004-270)",
+  "category": "decisions",
+  "dedupKey": "disciplinary cases european central bank|2006-03-08",
+  "tags": [
+    "eu",
+    "edps",
+    "investigations",
+    "case-law",
+    "privacy-in-the-eu-institutions"
+  ],
+  "sourceDetailUrl": "https://www.edps.europa.eu/data-protection/our-work/publications/opinions-prior-check/disciplinary-cases-european-central-bank_en",
+  "documentUrl": "https://www.edps.europa.eu/sites/default/files/publication/06-03-08_ecb_disciplinary_cases_en.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/edps-investigations/edps-investigations-53f8d78d1e479096.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 215478,
+  "documentSha256": "dbc21b4a8943b09d7a8e0ceebb1b28e88ecdfd5eb0150a20e5dd87e2268d9f7c",
+  "documentDownloadedAt": "2026-04-05T14:22:09.927Z",
+  "documentDownloadError": null,
+  "originalLink": "https://www.edps.europa.eu/sites/default/files/publication/06-03-08_ecb_disciplinary_cases_en.pdf",
+  "fetchedAt": "2026-06-10T20:10:49.951Z"
+}

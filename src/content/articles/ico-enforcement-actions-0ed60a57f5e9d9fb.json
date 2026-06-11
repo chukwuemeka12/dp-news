@@ -1,0 +1,30 @@
+{
+  "id": "ico-enforcement-actions-0ed60a57f5e9d9fb",
+  "title": "Virgin Media Limited",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2022-09-20",
+  "decisionDate": "2022-09-20",
+  "authorityPublicationDate": "2022-09-20",
+  "platformPublicationDate": "2022-09-20",
+  "summary": "Over a 6 month period in 2021, Virgin Media received over 9500 SARs. 14% of these were not responded to during the statutory timeframe. However, their compliance in 2022 has seen improvements.",
+  "category": "decisions",
+  "dedupKey": "virgin media limited|2022-09-20",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "reprimands"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2022/09/virgin-media-limited-reprimand/",
+  "documentUrl": "https://ico.org.uk/media2/migrated/4021725/virgin-media-limited-letter.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-0ed60a57f5e9d9fb.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 149187,
+  "documentSha256": "13114ee3209d9960bf65641e35542bb707f16b9ba1aa44dd362e7cd031774eb5",
+  "documentDownloadedAt": "2026-04-16T04:18:07.581Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/migrated/4021725/virgin-media-limited-letter.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

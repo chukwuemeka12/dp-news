@@ -1,0 +1,31 @@
+{
+  "id": "ico-enforcement-actions-9e38e3c8fbd548a8",
+  "title": "Monetise Media Limited",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2022-12-14",
+  "decisionDate": "2022-12-14",
+  "authorityPublicationDate": "2022-12-14",
+  "platformPublicationDate": "2022-12-14",
+  "summary": "Between 28 July 2020 and 28 July 2021, Monetise Media Limited (MML) sent 3,506,157 direct marketing emails and text messages without valid consent, contrary to the regulation 22 of PECR.",
+  "category": "decisions",
+  "dedupKey": "monetise media limited|2022-12-14",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "monetary-penalties",
+    "marketing"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2022/12/monetise-media-limited-mpn/",
+  "documentUrl": "https://ico.org.uk/media2/migrated/4023265/monetise-media-limited-mpn.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-9e38e3c8fbd548a8.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 640993,
+  "documentSha256": "293264cbeb4c07cb7ab9fbff0b3b21679251ad0fcdeeaece0874ac38ddf7c1cc",
+  "documentDownloadedAt": "2026-04-16T04:17:56.610Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/migrated/4023265/monetise-media-limited-mpn.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

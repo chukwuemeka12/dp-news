@@ -1,0 +1,30 @@
+{
+  "id": "ico-enforcement-actions-c2c261d3c13fd65b",
+  "title": "Grindr LLC",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2022-07-26",
+  "decisionDate": "2022-07-26",
+  "authorityPublicationDate": "2022-07-26",
+  "platformPublicationDate": "2022-07-26",
+  "summary": "The ICO deemed that Grindr has failed to provide effective and transparent privacy information to its UK data subjects in relation to the processing of their personal data.",
+  "category": "decisions",
+  "dedupKey": "grindr llc|2022-07-26",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "reprimands"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2022/07/grindr-llc/",
+  "documentUrl": "https://ico.org.uk/media2/migrated/4023128/grindr-reprimand.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-c2c261d3c13fd65b.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 227691,
+  "documentSha256": "46b1faf047281b2db02ef00c7da8a031520c3bb1b87724f83e4a199e654c20ab",
+  "documentDownloadedAt": "2026-04-16T04:18:14.763Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/migrated/4023128/grindr-reprimand.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

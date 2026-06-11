@@ -1,0 +1,31 @@
+{
+  "id": "ico-enforcement-actions-4f3ab9c4db040520",
+  "title": "Home Office",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2024-03-21",
+  "decisionDate": "2024-03-21",
+  "authorityPublicationDate": "2024-03-21",
+  "platformPublicationDate": "2024-03-21",
+  "summary": "An enforcement notice and a warning have been issued to the Home Office for failing to assess the privacy risks posed by the electronic monitoring of people arriving in the UK by unauthorised means. The ICO has been in discussion with the Home Office regarding its pilot to place ankle tags on, and track the GPS location of, up to 600 migr...",
+  "category": "decisions",
+  "dedupKey": "home office|2024-03-21",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "enforcement-notices",
+    "central-government"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2024/03/home-office/",
+  "documentUrl": "https://ico.org.uk/media2/m4nbnuz1/ho-migrant-tagging-20240228-en.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-4f3ab9c4db040520.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 479037,
+  "documentSha256": "a8701001c4d2767478b2c7c0f3fda4d5bfa3a3253882055876836b8fe84c0b3a",
+  "documentDownloadedAt": "2026-04-16T04:16:17.621Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/m4nbnuz1/ho-migrant-tagging-20240228-en.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

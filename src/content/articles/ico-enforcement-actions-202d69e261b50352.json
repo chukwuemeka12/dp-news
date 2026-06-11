@@ -1,0 +1,31 @@
+{
+  "id": "ico-enforcement-actions-202d69e261b50352",
+  "title": "Thames Valley Police",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2023-05-30",
+  "decisionDate": "2023-05-30",
+  "authorityPublicationDate": "2023-05-30",
+  "platformPublicationDate": "2023-05-30",
+  "summary": "The Information Commissioner (the Commissioner) issues a reprimand to Thames Valey Police (TVP) in accordance with Schedule 13(2)(c) of the Data Protection Act 2018 (DPA 2018) in respect of certain infringements of the DPA 2018.",
+  "category": "decisions",
+  "dedupKey": "thames valley police|2023-05-30",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "reprimands",
+    "criminal-justice"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2023/05/thames-valley-police/",
+  "documentUrl": "https://ico.org.uk/media2/migrated/4025394/tvp-reprimand-20230530.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-202d69e261b50352.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 114243,
+  "documentSha256": "40304c1fdd5b4a91b82b245a19b993b58d41477327f2d9392fafac97e0cd5e6a",
+  "documentDownloadedAt": "2026-04-16T04:17:29.331Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/migrated/4025394/tvp-reprimand-20230530.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

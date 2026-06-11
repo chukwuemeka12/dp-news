@@ -1,0 +1,31 @@
+{
+  "id": "opc-canada-pipeda-investigations-0f1a9963f6e7f2c8",
+  "title": "Break with security procedures exposes financial planner’s client to privacy breach",
+  "source": "Canada OPC Business Investigations",
+  "sourceId": "opc-canada-pipeda-investigations",
+  "sourceUrl": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/",
+  "publishedDate": "2016-11-10",
+  "decisionDate": "2016-02-24",
+  "authorityPublicationDate": "2016-02-24",
+  "platformPublicationDate": "2016-11-10",
+  "summary": "Several months apart, employees of a financial management firm had breached internal security procedures by sending a client’s detailed financial plan and federal income tax notice of assessment to her personal email account without secure messaging tools, such as password protection or encryption. The financial plan contained details of...",
+  "category": "decisions",
+  "dedupKey": "break with security procedures exposes financial planner s client to privacy breach|2016-02-24",
+  "tags": [
+    "canada",
+    "opc",
+    "pipeda",
+    "investigations",
+    "incident-summary-12"
+  ],
+  "sourceDetailUrl": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/incidents/2016/012_160224/",
+  "documentUrl": null,
+  "localDocumentUrl": null,
+  "documentContentType": null,
+  "documentSizeBytes": null,
+  "documentSha256": null,
+  "documentDownloadedAt": null,
+  "documentDownloadError": null,
+  "originalLink": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/incidents/2016/012_160224/",
+  "fetchedAt": "2026-06-10T20:08:43.678Z"
+}

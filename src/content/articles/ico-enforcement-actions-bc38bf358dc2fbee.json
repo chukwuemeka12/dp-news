@@ -1,0 +1,31 @@
+{
+  "id": "ico-enforcement-actions-bc38bf358dc2fbee",
+  "title": "University Hospital of Derby and Burton NHS Trust (UHDB)",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2023-10-30",
+  "decisionDate": "2023-10-30",
+  "authorityPublicationDate": "2023-10-30",
+  "platformPublicationDate": "2023-10-30",
+  "summary": "UHDB failed to have adequate processes in place, especially when processing special category data, which resulted in referrals for out-patients’ appointments not being processed in a timely manner. In some cases, this led to delays of up to two years before medical treatment was arranged.",
+  "category": "decisions",
+  "dedupKey": "university hospital of derby and burton nhs trust uhdb|2023-10-30",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "reprimands",
+    "health"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2023/10/university-hospital-of-derby-and-burton-nhs-trust-uhdb/",
+  "documentUrl": "https://ico.org.uk/media2/migrated/4027167/reprimand-for-univeristy-hospitals-of-derby-and-burton.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-bc38bf358dc2fbee.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 124066,
+  "documentSha256": "7bdf25ff449ffa31b7cf1a1b076e3afd210679b8c0a7b035ab55b725dc9a97b7",
+  "documentDownloadedAt": "2026-06-11T11:35:35.407Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/migrated/4027167/reprimand-for-univeristy-hospitals-of-derby-and-burton.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

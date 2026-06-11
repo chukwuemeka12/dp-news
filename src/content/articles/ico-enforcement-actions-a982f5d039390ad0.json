@@ -1,0 +1,31 @@
+{
+  "id": "ico-enforcement-actions-a982f5d039390ad0",
+  "title": "Breathe Services Ltd",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2024-12-12",
+  "decisionDate": "2024-12-12",
+  "authorityPublicationDate": "2024-12-12",
+  "platformPublicationDate": "2024-12-12",
+  "summary": "Breathe Services Ltd (BSL), a debt advice company based in Bolton, first came to the attention of the ICO as part of a wider investigation into complaints received about unsolicited phone calls to potentially vulnerable individuals.",
+  "category": "decisions",
+  "dedupKey": "breathe services ltd|2024-12-12",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "enforcement-notices",
+    "monetary-penalties"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2024/12/breathe-services-ltd-en/",
+  "documentUrl": "https://ico.org.uk/media2/4ducii5l/breathe-services-en-202412.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-a982f5d039390ad0.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 419529,
+  "documentSha256": "562379117996b8f79a9db446e38bd8ea8889a4c2a5325d68774f531b302e1ba3",
+  "documentDownloadedAt": "2026-04-16T04:16:00.213Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/4ducii5l/breathe-services-en-202412.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

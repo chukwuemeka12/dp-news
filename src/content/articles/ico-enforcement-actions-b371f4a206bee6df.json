@@ -1,0 +1,32 @@
+{
+  "id": "ico-enforcement-actions-b371f4a206bee6df",
+  "title": "Allay Claims Ltd",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2026-01-15",
+  "decisionDate": "2026-01-15",
+  "authorityPublicationDate": "2026-01-15",
+  "platformPublicationDate": "2026-01-15",
+  "summary": "MPN and EN issued to Allay Claims Ltd due to a large volume of unsolicited SMS being sent, promoting PPI tax refund services",
+  "category": "decisions",
+  "dedupKey": "allay claims ltd|2026-01-15",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "enforcement-notices",
+    "finance-insurance-and-credit",
+    "monetary-penalties"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2026/01/allay-claims-ltd-en/",
+  "documentUrl": "https://ico.org.uk/media2/0lxb0nwm/enforcement-notice-allay-claims-ltd.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-b371f4a206bee6df.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 637398,
+  "documentSha256": "9554a0dc0f46520c7a07f7cbaf4b3ae4307587ad087fbe82f3ce58cf0bc5bd3d",
+  "documentDownloadedAt": "2026-04-16T04:15:15.881Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/0lxb0nwm/enforcement-notice-allay-claims-ltd.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

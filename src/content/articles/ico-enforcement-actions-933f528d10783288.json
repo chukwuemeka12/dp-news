@@ -1,0 +1,31 @@
+{
+  "id": "ico-enforcement-actions-933f528d10783288",
+  "title": "Energy Prices Direct Limited",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2026-03-30",
+  "decisionDate": "2026-03-30",
+  "authorityPublicationDate": "2026-03-30",
+  "platformPublicationDate": "2026-03-30",
+  "summary": "Contravention of Regulations 21 and 24 of the PECR. Energy Prices Direct Limited offer energy switching services. Information demonstrated that they had obtained information from the public domain and list providers, but failed to screen the data against the TPS/CTPS prior to making a marketing call.",
+  "category": "decisions",
+  "dedupKey": "energy prices direct limited|2026-03-30",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "monetary-penalties",
+    "utilities"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2026/03/energy-prices-direct-limited/",
+  "documentUrl": "https://ico.org.uk/media2/ubufzq3x/energy-prices-direct-limited-monetary-penalty-notice.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-933f528d10783288.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 4919353,
+  "documentSha256": "f33f4ae39bf4dfe2e734d68e61c8e8f72357a14157b97fef1fb89de4b21230e4",
+  "documentDownloadedAt": "2026-06-11T11:34:16.190Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/ubufzq3x/energy-prices-direct-limited-monetary-penalty-notice.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

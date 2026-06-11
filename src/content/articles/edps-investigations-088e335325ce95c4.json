@@ -1,0 +1,33 @@
+{
+  "id": "edps-investigations-088e335325ce95c4",
+  "title": "Administrative investigations - Council",
+  "source": "EDPS Investigations",
+  "sourceId": "edps-investigations",
+  "sourceUrl": "https://www.edps.europa.eu/data-protection/our-work/subjects/privacy-eu-institutions/investigations_en",
+  "publishedDate": "2006-05-16",
+  "decisionDate": "2006-05-16",
+  "authorityPublicationDate": "2006-05-16",
+  "platformPublicationDate": "2006-05-16",
+  "summary": "Opinion of 16 May 2006 on the notification for prior checking regarding the \"Decision on the conduct of and procedure for administrative investigations and the Disciplinary Board within the General Secretariat of the Council\" dossier (Case 2004-250)",
+  "category": "decisions",
+  "dedupKey": "administrative investigations council|2006-05-16",
+  "tags": [
+    "eu",
+    "edps",
+    "investigations",
+    "case-law",
+    "privacy-in-the-eu-institutions",
+    "staff-evaluation",
+    "conflicts-of-interest"
+  ],
+  "sourceDetailUrl": "https://www.edps.europa.eu/data-protection/our-work/publications/opinions-prior-check/administrative-investigations-council_en",
+  "documentUrl": "https://www.edps.europa.eu/sites/default/files/publication/06-05-16_council_enquete_admin_en.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/edps-investigations/edps-investigations-088e335325ce95c4.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 99532,
+  "documentSha256": "0bbd895e66808acc06ff1b6e2be48224c38f716591a676b77739d917ed882dd7",
+  "documentDownloadedAt": "2026-04-05T14:22:09.628Z",
+  "documentDownloadError": null,
+  "originalLink": "https://www.edps.europa.eu/sites/default/files/publication/06-05-16_council_enquete_admin_en.pdf",
+  "fetchedAt": "2026-06-10T20:10:49.951Z"
+}

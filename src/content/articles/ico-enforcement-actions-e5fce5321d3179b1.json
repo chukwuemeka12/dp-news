@@ -1,0 +1,32 @@
+{
+  "id": "ico-enforcement-actions-e5fce5321d3179b1",
+  "title": "It&#x27;s OK Limited",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2023-02-15",
+  "decisionDate": "2023-02-15",
+  "authorityPublicationDate": "2023-02-15",
+  "platformPublicationDate": "2023-02-15",
+  "summary": "Between 1 July 2019 and 1 June 2020, It’s OK Limited engaged in the transmission of 1,752,149 unsolicited calls for direct marketing purposes to subscribers who had been registered with the TPS for not less than 28 days, and who had not notified It's OK Limited that they did not object to receiving such calls, contrary to regulation 21 of...",
+  "category": "decisions",
+  "dedupKey": "it x27 s ok limited|2023-02-15",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "enforcement-notices",
+    "retail-and-manufacture",
+    "monetary-penalties"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2023/02/its-ok-limited-en/",
+  "documentUrl": "https://ico.org.uk/media2/migrated/4024079/its-ok-ltd-en-20230213.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-e5fce5321d3179b1.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 192712,
+  "documentSha256": "fe15d79b82963308d681876729e4dcb2d4390367610dc0c88523e63a7c3dee83",
+  "documentDownloadedAt": "2026-04-16T04:17:55.334Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/migrated/4024079/its-ok-ltd-en-20230213.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

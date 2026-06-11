@@ -1,0 +1,32 @@
+{
+  "id": "ico-enforcement-actions-833de6a11f479f5c",
+  "title": "Ministry of Defence",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2024-02-26",
+  "decisionDate": "2024-02-26",
+  "authorityPublicationDate": "2024-02-26",
+  "platformPublicationDate": "2024-02-26",
+  "summary": "The MOD sent emails inadvertently using the “To” field rather than the “BCC” field. 265 unique email addresses were disclosed in breach of GDPR Article 5(1)(f). The MOD were fined £350,000.",
+  "category": "decisions",
+  "dedupKey": "ministry of defence|2024-02-26",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "monetary-penalties",
+    "central-government",
+    "gdpr"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2024/02/ministry-of-defence-1/",
+  "documentUrl": "https://ico.org.uk/media2/5vdd103u/ministry-of-defence-monetary-penalty-notice.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-833de6a11f479f5c.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 1205353,
+  "documentSha256": "f6711dbf8ebb79245e139bdc34b06bd39eb4817984c6a07eefe1362db830c6bc",
+  "documentDownloadedAt": "2026-04-16T04:16:33.453Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/5vdd103u/ministry-of-defence-monetary-penalty-notice.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

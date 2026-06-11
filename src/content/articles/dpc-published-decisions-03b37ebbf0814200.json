@@ -1,0 +1,29 @@
+{
+  "id": "dpc-published-decisions-03b37ebbf0814200",
+  "title": "Inquiry into An Garda Síochána",
+  "source": "Irish DPC Decisions",
+  "sourceId": "dpc-published-decisions",
+  "sourceUrl": "https://www.dataprotection.ie/en/dpc-guidance/law/decisions-made-under-data-protection-act-2018",
+  "publishedDate": "2019-08-23",
+  "decisionDate": "2019-08-23",
+  "authorityPublicationDate": null,
+  "platformPublicationDate": null,
+  "summary": "This inquiry concerned Garda operated CCTV schemes pursuant to Section 38(3)(a) of the Garda Síochána Act 2005. The findings made in the decision include:",
+  "category": "decisions",
+  "dedupKey": "inquiry into an garda siochana|2019-08-23",
+  "tags": [
+    "ireland",
+    "dpc",
+    "case-law"
+  ],
+  "sourceDetailUrl": "https://www.dataprotection.ie/en/dpc-guidance/law/decisions/garda-siochana-2019",
+  "documentUrl": "https://www.dataprotection.ie/sites/default/files/uploads/2021-02/23.08.2019_Decision_IN-01-SIU-2018_AnGardaS%C3%ADoch%C3%A1na.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/dpc-published-decisions/dpc-published-decisions-03b37ebbf0814200.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 855585,
+  "documentSha256": "6e35dfb448626267fb7d03b4defa14b33930be2c3067a24b41b432b7964397d0",
+  "documentDownloadedAt": "2026-06-02T13:02:10.180Z",
+  "documentDownloadError": null,
+  "originalLink": "https://www.dataprotection.ie/sites/default/files/uploads/2021-02/23.08.2019_Decision_IN-01-SIU-2018_AnGardaS%C3%ADoch%C3%A1na.pdf",
+  "fetchedAt": "2026-04-16T04:10:42.786Z"
+}

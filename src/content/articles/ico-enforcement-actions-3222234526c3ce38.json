@@ -1,0 +1,32 @@
+{
+  "id": "ico-enforcement-actions-3222234526c3ce38",
+  "title": "Simply Connecting Ltd",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2023-09-06",
+  "decisionDate": "2023-09-06",
+  "authorityPublicationDate": "2023-09-06",
+  "platformPublicationDate": "2023-09-06",
+  "summary": "Simply Connecting Ltd sent 441,830 direct marketing text messages to individuals in breach of regulation 22 of PECR. The company was fined £40,000 and issued with an enforcement notice.",
+  "category": "decisions",
+  "dedupKey": "simply connecting ltd|2023-09-06",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "monetary-penalties",
+    "marketing",
+    "enforcement-notices"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2023/09/simply-connecting-ltd-mpn/",
+  "documentUrl": "https://ico.org.uk/media2/b2zdfsll/simply-connecting-ltd-mpn.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-3222234526c3ce38.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 835715,
+  "documentSha256": "daa97f211c58425eee7ee4a4d7c7608c4ef2b778231da980b40dcfe85a4e9d14",
+  "documentDownloadedAt": "2026-04-16T04:17:15.530Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/b2zdfsll/simply-connecting-ltd-mpn.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "edps-investigations-63d1fef544f1d9d5",
+  "title": "Coordination cases - OLAF",
+  "source": "EDPS Investigations",
+  "sourceId": "edps-investigations",
+  "sourceUrl": "https://www.edps.europa.eu/data-protection/our-work/subjects/privacy-eu-institutions/investigations_en",
+  "publishedDate": "2008-04-07",
+  "decisionDate": "2008-04-07",
+  "authorityPublicationDate": "2008-04-07",
+  "platformPublicationDate": "2008-04-07",
+  "summary": "Opinion of 7 April 2008 on a notification for prior checking on coordination cases (Case 2007-699) OLAF engages in processing of personal data when it opens a Coordination case. These are cases that could be the subject of OLAF external investigations, but where OLAF’s role is to contribute to investigations being carried out by other nat...",
+  "category": "decisions",
+  "dedupKey": "coordination cases olaf|2008-04-07",
+  "tags": [
+    "eu",
+    "edps",
+    "investigations",
+    "case-law",
+    "privacy-in-the-eu-institutions"
+  ],
+  "sourceDetailUrl": "https://www.edps.europa.eu/data-protection/our-work/publications/opinions-prior-check/coordination-cases-olaf_en",
+  "documentUrl": "https://www.edps.europa.eu/sites/default/files/publication/08-04-07_olaf_coordination_cases_en.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/edps-investigations/edps-investigations-63d1fef544f1d9d5.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 131457,
+  "documentSha256": "af2f1d2c37155b332bccf44804d96bc4f7e438eb6d7a3900b2debb6a7d4e278e",
+  "documentDownloadedAt": "2026-04-05T14:22:05.577Z",
+  "documentDownloadError": null,
+  "originalLink": "https://www.edps.europa.eu/sites/default/files/publication/08-04-07_olaf_coordination_cases_en.pdf",
+  "fetchedAt": "2026-06-10T20:10:49.951Z"
+}

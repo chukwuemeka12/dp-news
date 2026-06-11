@@ -1,0 +1,31 @@
+{
+  "id": "pdpc-commissions-decisions-1d01b5a21484d649",
+  "title": "Breach of the Protection Obligation by Seriously Keto",
+  "source": "Singapore PDPC Decisions",
+  "sourceId": "pdpc-commissions-decisions",
+  "sourceUrl": "https://www.pdpc.gov.sg/all-commissions-decisions",
+  "publishedDate": "2021-09-21",
+  "decisionDate": "2021-09-21",
+  "authorityPublicationDate": "2021-09-21",
+  "platformPublicationDate": "2021-09-21",
+  "summary": "A financial penalty of $8,000 was imposed on Seriously Keto for failing to put in place reasonable security arrangements to protect the personal data stored in its server. This resulted in the data being subjected to a ransomware attack.",
+  "category": "decisions",
+  "dedupKey": "breach of the protection obligation by seriously keto|2021-09-21",
+  "tags": [
+    "singapore",
+    "pdpc",
+    "enforcement",
+    "protection",
+    "financial-penalty"
+  ],
+  "sourceDetailUrl": "https://www.pdpc.gov.sg/all-commissions-decisions/2021/09/breach-of-the-protection-obligation-by-seriously-keto",
+  "documentUrl": "https://www.pdpc.gov.sg/-/media/files/pdpc/pdf-files/commissions-decisions/decision---seriously-keto-pte-ltd---14072021.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/pdpc-commissions-decisions/pdpc-commissions-decisions-1d01b5a21484d649.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 123992,
+  "documentSha256": "481ccbed3f0a176bd0389bc5965e96e4ab107d61862e8ef2dcb6ba2417459bdc",
+  "documentDownloadedAt": "2026-04-05T15:04:28.498Z",
+  "documentDownloadError": null,
+  "originalLink": "https://www.pdpc.gov.sg/-/media/files/pdpc/pdf-files/commissions-decisions/decision---seriously-keto-pte-ltd---14072021.pdf",
+  "fetchedAt": "2026-04-16T04:11:05.443Z"
+}

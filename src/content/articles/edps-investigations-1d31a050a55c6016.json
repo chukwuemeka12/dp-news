@@ -1,0 +1,31 @@
+{
+  "id": "edps-investigations-1d31a050a55c6016",
+  "title": "Disciplinary Board - Commission",
+  "source": "EDPS Investigations",
+  "sourceId": "edps-investigations",
+  "sourceUrl": "https://www.edps.europa.eu/data-protection/our-work/subjects/privacy-eu-institutions/investigations_en",
+  "publishedDate": "2009-09-21",
+  "decisionDate": "2009-09-21",
+  "authorityPublicationDate": "2009-09-21",
+  "platformPublicationDate": "2009-09-21",
+  "summary": "Opinion of 21 September 2009 on the notification for prior checking on the \"Disciplinary Board\" case (Case 2009-087)",
+  "category": "decisions",
+  "dedupKey": "disciplinary board commission|2009-09-21",
+  "tags": [
+    "eu",
+    "edps",
+    "investigations",
+    "case-law",
+    "privacy-in-the-eu-institutions"
+  ],
+  "sourceDetailUrl": "https://www.edps.europa.eu/data-protection/our-work/publications/opinions-prior-check/disciplinary-board-commission_en",
+  "documentUrl": "https://www.edps.europa.eu/sites/default/files/publication/09-09-21_commission_conseil_discipline_en.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/edps-investigations/edps-investigations-1d31a050a55c6016.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 83745,
+  "documentSha256": "744ae5534753f5843b23d8911d429e21a8ecb1fa6e7da9f7050fba9e4c59ca8d",
+  "documentDownloadedAt": "2026-04-05T14:22:03.849Z",
+  "documentDownloadError": null,
+  "originalLink": "https://www.edps.europa.eu/sites/default/files/publication/09-09-21_commission_conseil_discipline_en.pdf",
+  "fetchedAt": "2026-06-10T20:10:49.951Z"
+}

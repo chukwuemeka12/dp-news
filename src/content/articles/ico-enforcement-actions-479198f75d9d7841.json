@@ -1,0 +1,31 @@
+{
+  "id": "ico-enforcement-actions-479198f75d9d7841",
+  "title": "North Yorkshire County Council",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2022-04-07",
+  "decisionDate": "2022-04-07",
+  "authorityPublicationDate": "2022-04-07",
+  "platformPublicationDate": "2022-04-07",
+  "summary": "An NYCC employee failed to accurately complete the print to post process and as a result two envelopes containing multiple letters were sent to two different recipients.",
+  "category": "decisions",
+  "dedupKey": "north yorkshire county council|2022-04-07",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "reprimands",
+    "local-government"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2022/04/north-yorkshire-county-council/",
+  "documentUrl": "https://ico.org.uk/media2/action-weve-taken/reprimands/4023131/north-yorks-cc-reprimand.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-479198f75d9d7841.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 206546,
+  "documentSha256": "aa1adcbec5f9ada9c3e4d361eaff6346387df1211fe540b85ed4852b3f9557ef",
+  "documentDownloadedAt": "2026-06-11T11:35:37.927Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/action-weve-taken/reprimands/4023131/north-yorks-cc-reprimand.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

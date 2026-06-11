@@ -1,0 +1,31 @@
+{
+  "id": "edps-investigations-8ddedecead3e8692",
+  "title": "Disciplinary Procedure - European Investment Bank",
+  "source": "EDPS Investigations",
+  "sourceId": "edps-investigations",
+  "sourceUrl": "https://www.edps.europa.eu/data-protection/our-work/subjects/privacy-eu-institutions/investigations_en",
+  "publishedDate": "2005-07-25",
+  "decisionDate": "2005-07-25",
+  "authorityPublicationDate": "2005-07-25",
+  "platformPublicationDate": "2005-07-25",
+  "summary": "Opinion of 25 July 2005 on the notification for prior checking regarding data processing in the framework of the disciplinary procedure (Case 2005-102",
+  "category": "decisions",
+  "dedupKey": "disciplinary procedure european investment bank|2005-07-25",
+  "tags": [
+    "eu",
+    "edps",
+    "investigations",
+    "case-law",
+    "privacy-in-the-eu-institutions"
+  ],
+  "sourceDetailUrl": "https://www.edps.europa.eu/data-protection/our-work/publications/opinions-prior-check/disciplinary-procedure-european_en",
+  "documentUrl": "https://www.edps.europa.eu/sites/default/files/publication/05-07-25_eib_procedure_disciplinaire_en.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/edps-investigations/edps-investigations-8ddedecead3e8692.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 95567,
+  "documentSha256": "3759ae0c370f75169bf7369e43be306bbf750fe69dbffe7c8d7809f59e09ba28",
+  "documentDownloadedAt": "2026-04-05T14:22:10.604Z",
+  "documentDownloadError": null,
+  "originalLink": "https://www.edps.europa.eu/sites/default/files/publication/05-07-25_eib_procedure_disciplinaire_en.pdf",
+  "fetchedAt": "2026-06-10T20:10:49.951Z"
+}

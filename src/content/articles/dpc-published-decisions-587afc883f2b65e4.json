@@ -1,0 +1,29 @@
+{
+  "id": "dpc-published-decisions-587afc883f2b65e4",
+  "title": "Inquiry into Bank of Ireland 365 (&#039;BOI&#039;) - February 2023",
+  "source": "Irish DPC Decisions",
+  "sourceId": "dpc-published-decisions",
+  "sourceUrl": "https://www.dataprotection.ie/en/dpc-guidance/law/decisions-made-under-data-protection-act-2018",
+  "publishedDate": "2023-02-27",
+  "decisionDate": "2023-02-27",
+  "authorityPublicationDate": null,
+  "platformPublicationDate": null,
+  "summary": "The inquiry was commenced after BOI notified the DPC of a series of 10 data breaches relating to the BOI365 banking app. The data breach notifications concerned individuals gaining unauthorised access to other people’s accounts via the BOI365 app.",
+  "category": "decisions",
+  "dedupKey": "inquiry into bank of ireland 365 039 boi 039 february 2023|2023-02-27",
+  "tags": [
+    "ireland",
+    "dpc",
+    "case-law"
+  ],
+  "sourceDetailUrl": "https://www.dataprotection.ie/en/resources/law/decisions/bank-of-ireland-365-%28BOI%29-February-2023",
+  "documentUrl": "https://www.dataprotection.ie/sites/default/files/uploads/2023-03/Final%20Decision%20IN-20-7-2%20Bank%20of%20Ireland%20%28BOI%29%20365.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/dpc-published-decisions/dpc-published-decisions-587afc883f2b65e4.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 1842487,
+  "documentSha256": "e635b0e0352d05f26fede8e5f1d2ee9d3202d0a98f0684f919669a1ed56de63c",
+  "documentDownloadedAt": "2026-06-02T13:01:43.190Z",
+  "documentDownloadError": null,
+  "originalLink": "https://www.dataprotection.ie/sites/default/files/uploads/2023-03/Final%20Decision%20IN-20-7-2%20Bank%20of%20Ireland%20%28BOI%29%20365.pdf",
+  "fetchedAt": "2026-04-16T04:10:42.786Z"
+}

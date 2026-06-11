@@ -1,0 +1,32 @@
+{
+  "id": "ico-enforcement-actions-d4e1466fbdc158d9",
+  "title": "TMAC Ltd",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2026-02-03",
+  "decisionDate": "2026-02-03",
+  "authorityPublicationDate": "2026-02-03",
+  "platformPublicationDate": "2026-02-03",
+  "summary": "TMAC contravened regulations 21 and 24 of PECR and the ICO issued a monetary penalty of £100,000 and an enforcement notice.",
+  "category": "decisions",
+  "dedupKey": "tmac ltd|2026-02-03",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "enforcement-notices",
+    "general-business",
+    "monetary-penalties"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2026/02/tmac-ltd-en/",
+  "documentUrl": "https://ico.org.uk/media2/0xhf0fcp/enforcement-notice-tmac-ltd.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-d4e1466fbdc158d9.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 2085772,
+  "documentSha256": "127ed69fc2f90663890c9d5b1ccfc2bfa13ddfd5ba110dd4731793812f90adaa",
+  "documentDownloadedAt": "2026-06-11T11:34:20.990Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/0xhf0fcp/enforcement-notice-tmac-ltd.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "edps-investigations-84140349c49c24b4",
+  "title": "Internal investigations - OLAF",
+  "source": "EDPS Investigations",
+  "sourceId": "edps-investigations",
+  "sourceUrl": "https://www.edps.europa.eu/data-protection/our-work/subjects/privacy-eu-institutions/investigations_en",
+  "publishedDate": "2006-06-23",
+  "decisionDate": "2006-06-23",
+  "authorityPublicationDate": "2006-06-23",
+  "platformPublicationDate": "2006-06-23",
+  "summary": "Opinion of 23 June 2006 on a notification for prior checking on OLAF internal investigations (Case 2005-418)",
+  "category": "decisions",
+  "dedupKey": "internal investigations olaf|2006-06-23",
+  "tags": [
+    "eu",
+    "edps",
+    "investigations",
+    "case-law",
+    "privacy-in-the-eu-institutions"
+  ],
+  "sourceDetailUrl": "https://www.edps.europa.eu/data-protection/our-work/publications/opinions-prior-check/internal-investigations-olaf_en",
+  "documentUrl": "https://www.edps.europa.eu/sites/default/files/publication/06-06-23_olaf_internal_investigations_en.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/edps-investigations/edps-investigations-84140349c49c24b4.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 173525,
+  "documentSha256": "5831b9395b2182c695f8a6e6a917b0cefaa99c4c2f18a281dadbf74c4811a1ca",
+  "documentDownloadedAt": "2026-04-05T14:22:09.153Z",
+  "documentDownloadError": null,
+  "originalLink": "https://www.edps.europa.eu/sites/default/files/publication/06-06-23_olaf_internal_investigations_en.pdf",
+  "fetchedAt": "2026-06-10T20:10:49.951Z"
+}

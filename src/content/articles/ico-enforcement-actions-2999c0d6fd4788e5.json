@@ -1,0 +1,32 @@
+{
+  "id": "ico-enforcement-actions-2999c0d6fd4788e5",
+  "title": "Plymouth City Council",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2023-04-28",
+  "decisionDate": "2023-04-28",
+  "authorityPublicationDate": "2023-04-28",
+  "platformPublicationDate": "2023-04-28",
+  "summary": "A reprimand has been issued to Plymouth City Council in relation to the infringements of Article 12 (3) and Article 15 of the UK GDPR. This case forms part of the ICO’s wider work into SAR compliance.",
+  "category": "decisions",
+  "dedupKey": "plymouth city council|2023-04-28",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "reprimands",
+    "local-government",
+    "gdpr"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2023/04/plymouth-city-council/",
+  "documentUrl": "https://ico.org.uk/media2/migrated/4025139/plymouth-city-council-final-reprimand.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-2999c0d6fd4788e5.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 112619,
+  "documentSha256": "a6eab9f604759409aa4bc4e6d4efd7046b206f73a5757aefc2df9ada7cb4e782",
+  "documentDownloadedAt": "2026-04-16T04:17:41.263Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/migrated/4025139/plymouth-city-council-final-reprimand.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

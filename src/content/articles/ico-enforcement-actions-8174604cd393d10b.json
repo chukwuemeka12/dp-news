@@ -1,0 +1,31 @@
+{
+  "id": "ico-enforcement-actions-8174604cd393d10b",
+  "title": "Greater Manchester Police",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2025-03-14",
+  "decisionDate": "2025-03-14",
+  "authorityPublicationDate": "2025-03-14",
+  "platformPublicationDate": "2025-03-14",
+  "summary": "We issued a reprimand to Greater Manchester Police for failing to ensure that appropriate technical or organisational measures were in place to protect the accidental loss of CCTV data and the failure to provide a data subject with their personal data, both without undue delay and by the end of the applicable period of one month.",
+  "category": "decisions",
+  "dedupKey": "greater manchester police|2025-03-14",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "reprimands",
+    "criminal-justice"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2025/05/greater-manchester-police/",
+  "documentUrl": "https://ico.org.uk/media2/pzelb0nv/gmp-reprimand.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-8174604cd393d10b.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 112777,
+  "documentSha256": "ed7dbea6ddd0234a97d057530bbaf2053d85255323d34070df0c48c348cb3a66",
+  "documentDownloadedAt": "2026-04-16T04:15:52.676Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/pzelb0nv/gmp-reprimand.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

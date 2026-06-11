@@ -1,0 +1,31 @@
+{
+  "id": "edps-investigations-7f63f48e3769f309",
+  "title": "Administrative inquiries and disciplinary proceedings - Court of Justice",
+  "source": "EDPS Investigations",
+  "sourceId": "edps-investigations",
+  "sourceUrl": "https://www.edps.europa.eu/data-protection/our-work/subjects/privacy-eu-institutions/investigations_en",
+  "publishedDate": "2011-09-12",
+  "decisionDate": "2011-09-12",
+  "authorityPublicationDate": "2011-09-12",
+  "platformPublicationDate": "2011-09-12",
+  "summary": "Opinion of 12 September 2011 on the updated notification concerning administrative inquiries and disciplinary proceedings within the Court of Justice of the EU (Case 2011-0806)",
+  "category": "decisions",
+  "dedupKey": "administrative inquiries and disciplinary proceedings court of justice|2011-09-12",
+  "tags": [
+    "eu",
+    "edps",
+    "investigations",
+    "case-law",
+    "privacy-in-the-eu-institutions"
+  ],
+  "sourceDetailUrl": "https://www.edps.europa.eu/data-protection/our-work/publications/opinions-prior-check/administrative-inquiries-and-7_en",
+  "documentUrl": "https://www.edps.europa.eu/sites/default/files/publication/11-09-12_coj_en.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/edps-investigations/edps-investigations-7f63f48e3769f309.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 47316,
+  "documentSha256": "afcbfb3fb46ae4b9428e7469104098cca7c70f64a2f40c652b4d25c446ca47e9",
+  "documentDownloadedAt": "2026-04-05T14:22:01.966Z",
+  "documentDownloadError": null,
+  "originalLink": "https://www.edps.europa.eu/sites/default/files/publication/11-09-12_coj_en.pdf",
+  "fetchedAt": "2026-06-10T20:10:49.951Z"
+}

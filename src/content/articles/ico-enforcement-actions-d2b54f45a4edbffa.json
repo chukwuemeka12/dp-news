@@ -1,0 +1,30 @@
+{
+  "id": "ico-enforcement-actions-d2b54f45a4edbffa",
+  "title": "Ministry of Justice",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2022-08-26",
+  "decisionDate": "2022-08-26",
+  "authorityPublicationDate": "2022-08-26",
+  "platformPublicationDate": "2022-08-26",
+  "summary": "A reprimand has been issued after an unauthorised disclosure of personal information.",
+  "category": "decisions",
+  "dedupKey": "ministry of justice|2022-08-26",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "reprimands"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2022/08/ministry-of-justice/",
+  "documentUrl": "https://ico.org.uk/media2/migrated/4024009/ministry-of-justice-reprimand.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-d2b54f45a4edbffa.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 624530,
+  "documentSha256": "bc9fb9d6c0633c6ec4d520cb29f6f235bfba36cc87768cf99216a40c0a03d1f5",
+  "documentDownloadedAt": "2026-04-16T04:18:10.581Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/migrated/4024009/ministry-of-justice-reprimand.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

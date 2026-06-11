@@ -1,0 +1,31 @@
+{
+  "id": "ico-enforcement-actions-a17a362e43864637",
+  "title": "Birthlink",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2025-06-24",
+  "decisionDate": "2025-06-24",
+  "authorityPublicationDate": "2025-06-24",
+  "platformPublicationDate": "2025-06-24",
+  "summary": "The Information Commissioner’s Office (ICO) has fined Scottish charity Birthlink £18,000 after it destroyed approximately 4,800 personal records, up to ten percent of which may be irreplaceable.",
+  "category": "decisions",
+  "dedupKey": "birthlink|2025-06-24",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "monetary-penalties",
+    "charitable-and-voluntary"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2025/06/birthlink/",
+  "documentUrl": "https://ico.org.uk/media2/bvljtpy2/birthlink-mpn.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-a17a362e43864637.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 1223228,
+  "documentSha256": "0222877ecf532d9680a3a0b6ee83f3a7c4c3f8a34e6df6161a27e7f3520d2439",
+  "documentDownloadedAt": "2026-04-16T04:15:34.107Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/bvljtpy2/birthlink-mpn.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

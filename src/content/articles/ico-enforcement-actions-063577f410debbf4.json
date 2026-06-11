@@ -1,0 +1,32 @@
+{
+  "id": "ico-enforcement-actions-063577f410debbf4",
+  "title": "L.A.D.H Limited",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2024-01-19",
+  "decisionDate": "2024-01-19",
+  "authorityPublicationDate": "2024-01-19",
+  "platformPublicationDate": "2024-01-19",
+  "summary": "L.A.D. H Limited sent 31,329 direct market text messages to individuals in breach of regulation 22 and 23 of PECR. The company was fined £50,000 and issued with an enforcement notice.",
+  "category": "decisions",
+  "dedupKey": "l a d h limited|2024-01-19",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "enforcement-notices",
+    "finance-insurance-and-credit",
+    "monetary-penalties"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2024/01/ladh-limited-en/",
+  "documentUrl": "https://ico.org.uk/media2/migrated/4028049/lad-h-limited-en.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-063577f410debbf4.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 328110,
+  "documentSha256": "56f9335ce4e651f30f73ce49b042294b603f5861870e4bea7e579499b3a998ba",
+  "documentDownloadedAt": "2026-04-16T04:16:39.733Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/migrated/4028049/lad-h-limited-en.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

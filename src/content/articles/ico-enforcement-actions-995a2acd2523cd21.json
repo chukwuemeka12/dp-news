@@ -1,0 +1,31 @@
+{
+  "id": "ico-enforcement-actions-995a2acd2523cd21",
+  "title": "Epsom and St Helier University Hospitals NHS Trust",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2022-04-07",
+  "decisionDate": "2022-04-07",
+  "authorityPublicationDate": "2022-04-07",
+  "platformPublicationDate": "2022-04-07",
+  "summary": "incorrect test result data was passed by Epsom & St Helier University Hospitals NHS Trust (the Trust) to Public Health England (PHE) resulting in individuals erroneously being contacted via the NHS Test and Trace (NHS T&T) system and advised to isolate.",
+  "category": "decisions",
+  "dedupKey": "epsom and st helier university hospitals nhs trust|2022-04-07",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "reprimands",
+    "health"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2022/04/epsom-and-st-helier-university-hospitals-nhs-trust/",
+  "documentUrl": "https://ico.org.uk/media2/migrated/4023127/epsom-st-helier-nhs-reprimand.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-995a2acd2523cd21.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 515913,
+  "documentSha256": "beacac5c20f4fb1b14db20d413940347ac5b8a53e1617b27b6476eafd6142324",
+  "documentDownloadedAt": "2026-04-16T04:18:21.744Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/migrated/4023127/epsom-st-helier-nhs-reprimand.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

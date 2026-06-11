@@ -1,0 +1,31 @@
+{
+  "id": "ico-enforcement-actions-d6c68ac80bb1345a",
+  "title": "Poxell Ltd",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2024-01-16",
+  "decisionDate": "2024-01-16",
+  "authorityPublicationDate": "2024-01-16",
+  "platformPublicationDate": "2024-01-16",
+  "summary": "All text content is available under the Open Government Licence v3.0 , except where otherwise stated.",
+  "category": "decisions",
+  "dedupKey": "poxell ltd|2024-01-16",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "enforcement-notices",
+    "monetary-penalties"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2024/01/poxell-ltd-en/",
+  "documentUrl": "https://ico.org.uk/media2/wgiduiqt/poxell-ltd-enforcement-notice.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-d6c68ac80bb1345a.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 276268,
+  "documentSha256": "d302d5fa2d562a7936b1255a36bbccafec34a01507309567814d9464b5a3bc26",
+  "documentDownloadedAt": "2026-04-16T04:16:42.379Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/wgiduiqt/poxell-ltd-enforcement-notice.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "dpc-published-decisions-30365c9204612cbe",
+  "title": "Inquiry concerning the Department of Health - June 2023",
+  "source": "Irish DPC Decisions",
+  "sourceId": "dpc-published-decisions",
+  "sourceUrl": "https://www.dataprotection.ie/en/dpc-guidance/law/decisions-made-under-data-protection-act-2018",
+  "publishedDate": "2023-06-16",
+  "decisionDate": "2023-06-16",
+  "authorityPublicationDate": null,
+  "platformPublicationDate": null,
+  "summary": "The Data Protection Commission (DPC) has completed an inquiry into certain aspects of the Department of Health’s processing of personal data in 29 litigation files. The inquiry was commenced following public allegations in 2021 that the Department had unlawfully collected and processed personal data about plaintiffs and their families in...",
+  "category": "decisions",
+  "dedupKey": "inquiry concerning the department of health june 2023|2023-06-16",
+  "tags": [
+    "ireland",
+    "dpc",
+    "case-law",
+    "health"
+  ],
+  "sourceDetailUrl": "https://www.dataprotection.ie/en/resources/law/decisions/Inquiry-concerning-the-Department-of-Health",
+  "documentUrl": "https://www.dataprotection.ie/sites/default/files/uploads/2023-07/20230710_Full%20decision%20IN-21-3-2%20Dept%20of%20Health.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/dpc-published-decisions/dpc-published-decisions-30365c9204612cbe.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 1387055,
+  "documentSha256": "cdc744819a372e519e83ad64ec5b9d23d053924b34244a1fc007b5a4b7b0dff8",
+  "documentDownloadedAt": "2026-06-02T13:01:33.769Z",
+  "documentDownloadError": null,
+  "originalLink": "https://www.dataprotection.ie/sites/default/files/uploads/2023-07/20230710_Full%20decision%20IN-21-3-2%20Dept%20of%20Health.pdf",
+  "fetchedAt": "2026-04-16T04:10:42.786Z"
+}

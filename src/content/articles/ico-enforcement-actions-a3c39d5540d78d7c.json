@@ -1,0 +1,31 @@
+{
+  "id": "ico-enforcement-actions-a3c39d5540d78d7c",
+  "title": "The Electoral Commission",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2024-05-09",
+  "decisionDate": "2024-05-09",
+  "authorityPublicationDate": "2024-05-09",
+  "platformPublicationDate": "2024-05-09",
+  "summary": "Reprimand issued to the Electoral Commission in respect of Articles 5(1)(f) and 32(1)(b). Between 24 August 2021 and 27 October 2022, a threat actor had access to the Electoral Commission’s systems and was able to access personal data held as part of the Electoral Register. This incident impacted approximately 40,000,000 individuals, and...",
+  "category": "decisions",
+  "dedupKey": "the electoral commission|2024-05-09",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "reprimands",
+    "central-government"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2024/05/the-electoral-commission/",
+  "documentUrl": "https://ico.org.uk/media2/migrated/4030454/the-electoral-commission-reprimand.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-a3c39d5540d78d7c.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 218520,
+  "documentSha256": "3c4babba64f33778f59419c2199bcc7208cffa8a5c628d18e2b82346adcf9692",
+  "documentDownloadedAt": "2026-04-16T04:16:14.646Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/migrated/4030454/the-electoral-commission-reprimand.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

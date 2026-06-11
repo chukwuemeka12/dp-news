@@ -1,0 +1,31 @@
+{
+  "id": "edps-investigations-27d22f95bb1d4ab7",
+  "title": "Administrative inquiries and disciplinary proceedings",
+  "source": "EDPS Investigations",
+  "sourceId": "edps-investigations",
+  "sourceUrl": "https://www.edps.europa.eu/data-protection/our-work/subjects/privacy-eu-institutions/investigations_en",
+  "publishedDate": "2008-01-09",
+  "decisionDate": "2008-01-09",
+  "authorityPublicationDate": "2008-01-09",
+  "platformPublicationDate": "2008-01-09",
+  "summary": "Letter to the President of the College of Chiefs of Administration relating to administrative inquiries and disciplinary proceedings (Case 2006-75)",
+  "category": "decisions",
+  "dedupKey": "administrative inquiries and disciplinary proceedings|2008-01-09",
+  "tags": [
+    "eu",
+    "edps",
+    "investigations",
+    "case-law",
+    "privacy-in-the-eu-institutions"
+  ],
+  "sourceDetailUrl": "https://www.edps.europa.eu/data-protection/our-work/publications/administrative-measures/administrative-inquiries-and_en",
+  "documentUrl": "https://www.edps.europa.eu/sites/default/files/publication/08-01-09_college_disciplinary_proceedings_en.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/edps-investigations/edps-investigations-27d22f95bb1d4ab7.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 33427,
+  "documentSha256": "1fc2b1ee3f0ce92025870c40549a043fdc975a645fcd80344cb8f56e32d4a874",
+  "documentDownloadedAt": "2026-04-05T14:22:05.990Z",
+  "documentDownloadError": null,
+  "originalLink": "https://www.edps.europa.eu/sites/default/files/publication/08-01-09_college_disciplinary_proceedings_en.pdf",
+  "fetchedAt": "2026-06-10T20:10:49.951Z"
+}

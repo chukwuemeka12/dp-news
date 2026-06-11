@@ -1,0 +1,31 @@
+{
+  "id": "pdpc-commissions-decisions-7f72fc6f9400b21a",
+  "title": "Breach of the Protection Obligation by Actstitude",
+  "source": "Singapore PDPC Decisions",
+  "sourceId": "pdpc-commissions-decisions",
+  "sourceUrl": "https://www.pdpc.gov.sg/all-commissions-decisions",
+  "publishedDate": "2020-08-03",
+  "decisionDate": "2020-08-03",
+  "authorityPublicationDate": "2020-08-03",
+  "platformPublicationDate": "2020-08-03",
+  "summary": "A warning was issued to Actstitude for failing to put in place reasonable security arrangements to prevent the unauthorised disclosure of individuals' personal data. Over 160 individuals uploaded their resumes to Actstitude's website and their personal data were accessible over the Internet.",
+  "category": "decisions",
+  "dedupKey": "breach of the protection obligation by actstitude|2020-08-03",
+  "tags": [
+    "singapore",
+    "pdpc",
+    "enforcement",
+    "protection",
+    "warning"
+  ],
+  "sourceDetailUrl": "https://www.pdpc.gov.sg/all-commissions-decisions/2020/08/breach-of-the-protection-obligation-by-actstitude",
+  "documentUrl": "https://www.pdpc.gov.sg/-/media/files/pdpc/pdf-files/commissions-decisions/decision---actstitude-pte-ltd---20032020.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/pdpc-commissions-decisions/pdpc-commissions-decisions-7f72fc6f9400b21a.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 264443,
+  "documentSha256": "4bd10c0e9788796a73a271bf1808cbce9ea735b49c2ff7ebd35d1c31e1b5d421",
+  "documentDownloadedAt": "2026-04-05T15:05:32.985Z",
+  "documentDownloadError": null,
+  "originalLink": "https://www.pdpc.gov.sg/-/media/files/pdpc/pdf-files/commissions-decisions/decision---actstitude-pte-ltd---20032020.pdf",
+  "fetchedAt": "2026-04-16T04:11:05.443Z"
+}

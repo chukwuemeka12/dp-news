@@ -1,0 +1,31 @@
+{
+  "id": "ico-enforcement-actions-f4dab2b3d235d76c",
+  "title": "Quick Tax Claims Limited",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2024-10-15",
+  "decisionDate": "2024-10-15",
+  "authorityPublicationDate": "2024-10-15",
+  "platformPublicationDate": "2024-10-15",
+  "summary": "An ICO investigation revealed that Quick Tax Claims Limited had sent 7,863,547 unlawful text messages over the course of a month, resulting in 66,793 complaints – 93% of these stating there was no ‘opt out’ option.",
+  "category": "decisions",
+  "dedupKey": "quick tax claims limited|2024-10-15",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "enforcement-notices",
+    "monetary-penalties"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2024/10/quick-tax-claims-limited-en/",
+  "documentUrl": "https://ico.org.uk/media2/xdkdjeoz/quick-tax-claims-en-20240926.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-f4dab2b3d235d76c.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 722812,
+  "documentSha256": "ce9e653ced9ebff129074bd19ca3e6ee369d5e6c77af120400019a5ff9de4594",
+  "documentDownloadedAt": "2026-06-11T11:35:18.025Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/xdkdjeoz/quick-tax-claims-en-20240926.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "ico-enforcement-actions-dfa970d1a45d650e",
+  "title": "London Borough of Croydon",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2022-07-26",
+  "decisionDate": "2022-07-26",
+  "authorityPublicationDate": "2022-07-26",
+  "platformPublicationDate": "2022-07-26",
+  "summary": "From April 2020 to April 2021, the London Borough of Croydon Council responded to less than half of their SARs within the statutory timescales. This meant that 115 residents did not receive a response in accordance with the UKGDPR. Additionally, since June 2021, the ICO has issued 27 decisions notices under FOIA related to the Council’s f...",
+  "category": "decisions",
+  "dedupKey": "london borough of croydon|2022-07-26",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "reprimands",
+    "local-government"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2022/07/london-borough-of-croydon/",
+  "documentUrl": "https://ico.org.uk/media2/migrated/4025201/croydon-reprimand-letter-20220921.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-dfa970d1a45d650e.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 125480,
+  "documentSha256": "9b4f436ad2bb5184991d55b3c0abd0cd55c407d4d42e502bd3452bbfabf45e7e",
+  "documentDownloadedAt": "2026-04-16T04:18:15.206Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/migrated/4025201/croydon-reprimand-letter-20220921.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

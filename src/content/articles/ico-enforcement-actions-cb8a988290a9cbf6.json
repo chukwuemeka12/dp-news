@@ -1,0 +1,32 @@
+{
+  "id": "ico-enforcement-actions-cb8a988290a9cbf6",
+  "title": "The Central Young Men&#x2019;s Christian Association",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2024-03-06",
+  "decisionDate": "2024-03-06",
+  "authorityPublicationDate": "2024-03-06",
+  "platformPublicationDate": "2024-03-06",
+  "summary": "The Central YMCA sent an email to individuals participating in a programme for people living with HIV using “CC” rather than “BCC”, revealing the email addresses to all recipients. 166 individuals could be identified or potentially identified from their email address. As a result, it could be inferred that these individuals were likely to...",
+  "category": "decisions",
+  "dedupKey": "the central young men x2019 s christian association|2024-03-06",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "monetary-penalties",
+    "charitable-and-voluntary",
+    "reprimands"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2024/04/the-central-young-men-s-christian-association-mpn/",
+  "documentUrl": "https://ico.org.uk/media2/migrated/4029420/central-ymca-monetary-penalty-notice.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-cb8a988290a9cbf6.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 862239,
+  "documentSha256": "78d808614c214ffb4f1fd257610a6998b005f74fc9109314f5dd534877e53bf2",
+  "documentDownloadedAt": "2026-04-16T04:16:29.632Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/migrated/4029420/central-ymca-monetary-penalty-notice.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

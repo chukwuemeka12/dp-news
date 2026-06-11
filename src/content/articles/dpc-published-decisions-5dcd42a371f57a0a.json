@@ -1,0 +1,30 @@
+{
+  "id": "dpc-published-decisions-5dcd42a371f57a0a",
+  "title": "Inquiry concerning 12 Facebook personal data breaches",
+  "source": "Irish DPC Decisions",
+  "sourceId": "dpc-published-decisions",
+  "sourceUrl": "https://www.dataprotection.ie/en/dpc-guidance/law/decisions-made-under-data-protection-act-2018",
+  "publishedDate": "2022-03-15",
+  "decisionDate": "2022-03-15",
+  "authorityPublicationDate": null,
+  "platformPublicationDate": null,
+  "summary": "The DPC has adopted a decision, imposing a fine of €17 million on Meta Platforms Ireland Limited (formerly Facebook Ireland Limited) (“Meta Platforms”).",
+  "category": "decisions",
+  "dedupKey": "inquiry concerning 12 facebook personal data breaches|2022-03-15",
+  "tags": [
+    "ireland",
+    "dpc",
+    "case-law",
+    "enforcement"
+  ],
+  "sourceDetailUrl": "https://www.dataprotection.ie/en/resources/law/decisions/Meta-Platforms-Ireland-Limited-formerly-known-as-Facebook-Ireland-Limited-March%202022",
+  "documentUrl": "https://www.dataprotection.ie/sites/default/files/uploads/2022-09/Full%20Decision%2018-11-5%20Facebook%2012%20breaches.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/dpc-published-decisions/dpc-published-decisions-5dcd42a371f57a0a.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 1515156,
+  "documentSha256": "b07c24a79a2eebdf86a3ba9297aa8b7ec42aeea1e711c90bd883e9cbbb68e13a",
+  "documentDownloadedAt": "2026-06-02T13:01:56.207Z",
+  "documentDownloadError": null,
+  "originalLink": "https://www.dataprotection.ie/sites/default/files/uploads/2022-09/Full%20Decision%2018-11-5%20Facebook%2012%20breaches.pdf",
+  "fetchedAt": "2026-04-16T04:10:42.786Z"
+}

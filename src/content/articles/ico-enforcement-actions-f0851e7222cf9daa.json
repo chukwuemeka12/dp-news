@@ -1,0 +1,32 @@
+{
+  "id": "ico-enforcement-actions-f0851e7222cf9daa",
+  "title": "LastPass UK Ltd",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2025-11-20",
+  "decisionDate": "2025-11-20",
+  "authorityPublicationDate": "2025-11-20",
+  "platformPublicationDate": "2025-11-20",
+  "summary": "£1,228,283 penalty issued to password management provider LastPass UK Ltd on 20 November 2025 in respect of infringements of Article 5(1)(f) and Article 32(1)(f) UK GDPR. LastPass' failure to implement appropriate technical and organisational security measures allowed a threat actor to exfiltrate personal data relating to approximately 1....",
+  "category": "decisions",
+  "dedupKey": "lastpass uk ltd|2025-11-20",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "monetary-penalties",
+    "online-technology-and-telecoms",
+    "gdpr"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2025/11/lastpass-uk-ltd/",
+  "documentUrl": "https://ico.org.uk/media2/xfbl1uaa/lastpass-uk-ltd-penalty-notice.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-f0851e7222cf9daa.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 1585995,
+  "documentSha256": "18d956aefb22c95cc2cdfbeb4953efb6cddf78135674545fd268de3f5d9fd80c",
+  "documentDownloadedAt": "2026-04-16T04:15:19.964Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/xfbl1uaa/lastpass-uk-ltd-penalty-notice.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

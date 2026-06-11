@@ -1,0 +1,32 @@
+{
+  "id": "edps-investigations-a62999e897bfd5ae",
+  "title": "\"Wiki Direction\" - Court of Justice",
+  "source": "EDPS Investigations",
+  "sourceId": "edps-investigations",
+  "sourceUrl": "https://www.edps.europa.eu/data-protection/our-work/subjects/privacy-eu-institutions/investigations_en",
+  "publishedDate": "2013-09-05",
+  "decisionDate": "2013-09-05",
+  "authorityPublicationDate": "2013-09-05",
+  "platformPublicationDate": "2013-09-05",
+  "summary": "Letter concerning use of the \"Wiki Direction\" tool by the assessors of DG Translation of the Court of Justice (Case 2013-0705)",
+  "category": "decisions",
+  "dedupKey": "wiki direction court of justice|2013-09-05",
+  "tags": [
+    "eu",
+    "edps",
+    "investigations",
+    "case-law",
+    "privacy-in-the-eu-institutions",
+    "it-at-work"
+  ],
+  "sourceDetailUrl": "https://www.edps.europa.eu/data-protection/our-work/publications/consultations/wiki-direction-court-justice_en",
+  "documentUrl": "https://www.edps.europa.eu/sites/default/files/publication/13-09-05_wiki_direction_en.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/edps-investigations/edps-investigations-a62999e897bfd5ae.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 149913,
+  "documentSha256": "78e1e54f79f639e2d03d1779d7404a906890fbfc557aad2ad5202980338bf246",
+  "documentDownloadedAt": "2026-06-10T20:14:28.977Z",
+  "documentDownloadError": null,
+  "originalLink": "https://www.edps.europa.eu/sites/default/files/publication/13-09-05_wiki_direction_en.pdf",
+  "fetchedAt": "2026-06-10T20:10:49.951Z"
+}

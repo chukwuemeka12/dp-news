@@ -1,0 +1,31 @@
+{
+  "id": "ico-enforcement-actions-d29214745947c765",
+  "title": "This Is The Big Deal Limited",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2023-08-25",
+  "decisionDate": "2023-08-25",
+  "authorityPublicationDate": "2023-08-25",
+  "platformPublicationDate": "2023-08-25",
+  "summary": "This Is The Big Deal Limited sent or instigated the sending of 41,417,889 unsolicited direct marketing messages (39,906,342 emails and 1,511,547 text messages) to individuals who had not consented to receiving such messages, in contravention of regulation 22 of PECR. 102,132 of the text messages were sent without the necessary opt-out inf...",
+  "category": "decisions",
+  "dedupKey": "this is the big deal limited|2023-08-25",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "monetary-penalties",
+    "utilities"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2023/08/this-is-the-big-deal-limited/",
+  "documentUrl": "https://ico.org.uk/media2/je1l0303/this-is-the-big-deal-limited-mpn.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-d29214745947c765.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 1391919,
+  "documentSha256": "40a04647f55d11aea84ee2add055110182628a93e7c42093ef2235e5001847a7",
+  "documentDownloadedAt": "2026-04-16T04:17:17.990Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/je1l0303/this-is-the-big-deal-limited-mpn.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

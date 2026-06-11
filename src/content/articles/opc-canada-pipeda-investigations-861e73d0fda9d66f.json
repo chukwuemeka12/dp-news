@@ -1,0 +1,32 @@
+{
+  "id": "opc-canada-pipeda-investigations-861e73d0fda9d66f",
+  "title": "Company eliminates excessive information from database",
+  "source": "Canada OPC Business Investigations",
+  "sourceId": "opc-canada-pipeda-investigations",
+  "sourceUrl": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/",
+  "publishedDate": "2004-11-24",
+  "decisionDate": "2004-02-27",
+  "authorityPublicationDate": "2004-02-27",
+  "platformPublicationDate": "2004-11-24",
+  "summary": "An employee of a national transportation company was worried about the security of employee personal information contained in an automated crew management system. Of particular concern to the complainant was that unauthorized personnel, especially union representatives, could gain access to personal information such as employee date of bi...",
+  "category": "decisions",
+  "dedupKey": "company eliminates excessive information from database|2004-02-27",
+  "tags": [
+    "canada",
+    "opc",
+    "pipeda",
+    "investigations",
+    "settled-case-summary-7",
+    "settled"
+  ],
+  "sourceDetailUrl": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/ser/2004/s_040227_02/",
+  "documentUrl": null,
+  "localDocumentUrl": null,
+  "documentContentType": null,
+  "documentSizeBytes": null,
+  "documentSha256": null,
+  "documentDownloadedAt": null,
+  "documentDownloadError": null,
+  "originalLink": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/ser/2004/s_040227_02/",
+  "fetchedAt": "2026-06-10T20:08:43.678Z"
+}

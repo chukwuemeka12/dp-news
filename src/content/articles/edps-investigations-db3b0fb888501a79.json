@@ -1,0 +1,31 @@
+{
+  "id": "edps-investigations-db3b0fb888501a79",
+  "title": "Monitoring cases - OLAF",
+  "source": "EDPS Investigations",
+  "sourceId": "edps-investigations",
+  "sourceUrl": "https://www.edps.europa.eu/data-protection/our-work/subjects/privacy-eu-institutions/investigations_en",
+  "publishedDate": "2007-07-11",
+  "decisionDate": "2007-07-11",
+  "authorityPublicationDate": "2007-07-11",
+  "platformPublicationDate": "2007-07-11",
+  "summary": "Opinion of 11 July 2007 on a notification for prior checking on monitoring cases (Case 2006-548)",
+  "category": "decisions",
+  "dedupKey": "monitoring cases olaf|2007-07-11",
+  "tags": [
+    "eu",
+    "edps",
+    "investigations",
+    "case-law",
+    "privacy-in-the-eu-institutions"
+  ],
+  "sourceDetailUrl": "https://www.edps.europa.eu/data-protection/our-work/publications/opinions-prior-check/monitoring-cases-olaf_en",
+  "documentUrl": "https://www.edps.europa.eu/sites/default/files/publication/07-07-11_olaf_monitoring_en.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/edps-investigations/edps-investigations-db3b0fb888501a79.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 150290,
+  "documentSha256": "6513432ff59bc72a53175db95d204396d2a2e5c662efc855aa2b5053b12d3f98",
+  "documentDownloadedAt": "2026-04-05T14:22:08.182Z",
+  "documentDownloadError": null,
+  "originalLink": "https://www.edps.europa.eu/sites/default/files/publication/07-07-11_olaf_monitoring_en.pdf",
+  "fetchedAt": "2026-06-10T20:10:49.951Z"
+}

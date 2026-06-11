@@ -1,0 +1,31 @@
+{
+  "id": "ico-enforcement-actions-6e1550a479c8aadf",
+  "title": "Norfolk County Council",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2023-05-05",
+  "decisionDate": "2023-05-05",
+  "authorityPublicationDate": "2023-05-05",
+  "platformPublicationDate": "2023-05-05",
+  "summary": "Norfolk County Council has only responded to 260 out of 511 SARs it received within the statutory timescales from 6 April 2021 to 6 April 2022.",
+  "category": "decisions",
+  "dedupKey": "norfolk county council|2023-05-05",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "reprimands",
+    "local-government"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2023/05/norfolk-county-council/",
+  "documentUrl": "https://ico.org.uk/media2/migrated/4025138/20230505-ncc-reprimand.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-6e1550a479c8aadf.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 109428,
+  "documentSha256": "f3bdb308c24ffc5201921db205f2b469f21fc9fbf548af65eda08709e3a52eb4",
+  "documentDownloadedAt": "2026-04-16T04:17:38.700Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/migrated/4025138/20230505-ncc-reprimand.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "edps-investigations-e3ea3e6c89589216",
+  "title": "Security investigations - EEAS",
+  "source": "EDPS Investigations",
+  "sourceId": "edps-investigations",
+  "sourceUrl": "https://www.edps.europa.eu/data-protection/our-work/subjects/privacy-eu-institutions/investigations_en",
+  "publishedDate": "2013-02-01",
+  "decisionDate": "2013-02-01",
+  "authorityPublicationDate": "2013-02-01",
+  "platformPublicationDate": "2013-02-01",
+  "summary": "Opinion of 1 February 2013 on a notification for Prior Checking received from the Data Protection Officer of the European External Action Service on security investigations (Case 2011-1059)",
+  "category": "decisions",
+  "dedupKey": "security investigations eeas|2013-02-01",
+  "tags": [
+    "eu",
+    "edps",
+    "investigations",
+    "case-law",
+    "privacy-in-the-eu-institutions"
+  ],
+  "sourceDetailUrl": "https://www.edps.europa.eu/data-protection/our-work/publications/opinions-prior-check/security-investigations-eeas_en",
+  "documentUrl": "https://www.edps.europa.eu/sites/default/files/publication/13-02-01_eeas_security_investigations_en.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/edps-investigations/edps-investigations-e3ea3e6c89589216.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 101262,
+  "documentSha256": "8e0f439a9128be8432708c189114ad9994984b5b0600e2fc15053d20c70044a5",
+  "documentDownloadedAt": "2026-04-05T14:22:00.891Z",
+  "documentDownloadError": null,
+  "originalLink": "https://www.edps.europa.eu/sites/default/files/publication/13-02-01_eeas_security_investigations_en.pdf",
+  "fetchedAt": "2026-06-10T20:10:49.951Z"
+}

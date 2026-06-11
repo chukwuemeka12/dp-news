@@ -1,0 +1,31 @@
+{
+  "id": "ico-enforcement-actions-bb3b750516afba2a",
+  "title": "Gain Capital UK Limited",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2023-03-10",
+  "decisionDate": "2023-03-10",
+  "authorityPublicationDate": "2023-03-10",
+  "platformPublicationDate": "2023-03-10",
+  "summary": "Gain Capital UK have been issued a Reprimand in respect of Articles 32 (2) and 32 (1) (b). An unauthorised third party leveraged an unpatched software vulnerability to access Gain Capital’s systems and exfiltrate personal data relating to 72,361 UK Data Subjects. Gain Capital had a support contract in place with a third party whom they be...",
+  "category": "decisions",
+  "dedupKey": "gain capital uk limited|2023-03-10",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "reprimands",
+    "online-technology-and-telecoms"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2023/03/gain-capital-uk-limited/",
+  "documentUrl": "https://ico.org.uk/media2/migrated/4024794/gain-capital-reprimand-20230310.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-bb3b750516afba2a.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 176439,
+  "documentSha256": "83230678e352f4a6087ec7907420c1fec07554955d8de93581049fc3d67ef306",
+  "documentDownloadedAt": "2026-04-16T04:17:49.948Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/migrated/4024794/gain-capital-reprimand-20230310.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "ico-enforcement-actions-875292bded205079",
+  "title": "NHS Fife",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2023-11-23",
+  "decisionDate": "2023-11-23",
+  "authorityPublicationDate": "2023-11-23",
+  "platformPublicationDate": "2023-11-23",
+  "summary": "The Information Commissioner’s Office (ICO) has issued a reprimand to NHS Fife, after an unauthorised individual was able to enter a ward and access the personal information of 14 patients.",
+  "category": "decisions",
+  "dedupKey": "nhs fife|2023-11-23",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "reprimands",
+    "health"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2023/11/nhs-fife/",
+  "documentUrl": "https://ico.org.uk/media2/migrated/4027543/final-reprimand-nhs-fife.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-875292bded205079.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 151059,
+  "documentSha256": "1b796690e245398c58070da5d14c8d404c1e1c0b2b91820386512434732375d9",
+  "documentDownloadedAt": "2026-06-11T11:35:34.167Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/migrated/4027543/final-reprimand-nhs-fife.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

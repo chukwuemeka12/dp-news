@@ -1,0 +1,32 @@
+{
+  "id": "ico-enforcement-actions-e1280ac5ddfecd52",
+  "title": "Outsource Strategies Ltd",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2023-10-20",
+  "decisionDate": "2023-10-20",
+  "authorityPublicationDate": "2023-10-20",
+  "platformPublicationDate": "2023-10-20",
+  "summary": "Outsource Strategies Ltd made 1,346,503 unwanted marketing calls between 11 February 2021 and 22 March 2022 to numbers registered with the TPS. The ICO received 74 complaints from people variously saying they received repeated calls despite requests to stop and that the callers were aggressive.",
+  "category": "decisions",
+  "dedupKey": "outsource strategies ltd|2023-10-20",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "enforcement-notices",
+    "marketing",
+    "monetary-penalties"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2024/04/outsource-strategies-ltd-en/",
+  "documentUrl": "https://ico.org.uk/media2/migrated/4029276/outsource-strategies-ltd-en.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-e1280ac5ddfecd52.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 336719,
+  "documentSha256": "9116f2ec9ed172e455a36cb7a581ec5ec86a2cd5ad096e7d7691386c650e4311",
+  "documentDownloadedAt": "2026-04-16T04:16:59.302Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/migrated/4029276/outsource-strategies-ltd-en.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

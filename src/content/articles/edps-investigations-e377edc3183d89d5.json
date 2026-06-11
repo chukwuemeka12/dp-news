@@ -1,0 +1,31 @@
+{
+  "id": "edps-investigations-e377edc3183d89d5",
+  "title": "Non-cases - OLAF",
+  "source": "EDPS Investigations",
+  "sourceId": "edps-investigations",
+  "sourceUrl": "https://www.edps.europa.eu/data-protection/our-work/subjects/privacy-eu-institutions/investigations_en",
+  "publishedDate": "2007-10-03",
+  "decisionDate": "2007-10-03",
+  "authorityPublicationDate": "2007-10-03",
+  "platformPublicationDate": "2007-10-03",
+  "summary": "Opinion of 3 October 2007 on a notification for prior checking on non-cases and prima facie non-cases (Case 2007-205)",
+  "category": "decisions",
+  "dedupKey": "non cases olaf|2007-10-03",
+  "tags": [
+    "eu",
+    "edps",
+    "investigations",
+    "case-law",
+    "privacy-in-the-eu-institutions"
+  ],
+  "sourceDetailUrl": "https://www.edps.europa.eu/data-protection/our-work/publications/opinions-prior-check/non-cases-olaf_en",
+  "documentUrl": "https://www.edps.europa.eu/sites/default/files/publication/07-10-03_olaf_non_cases_en.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/edps-investigations/edps-investigations-e377edc3183d89d5.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 70036,
+  "documentSha256": "6c1e0503f45092da1e87408015e87ea5440100e90ea60c474ba7df1d8297218b",
+  "documentDownloadedAt": "2026-04-05T14:22:07.547Z",
+  "documentDownloadError": null,
+  "originalLink": "https://www.edps.europa.eu/sites/default/files/publication/07-10-03_olaf_non_cases_en.pdf",
+  "fetchedAt": "2026-06-10T20:10:49.951Z"
+}

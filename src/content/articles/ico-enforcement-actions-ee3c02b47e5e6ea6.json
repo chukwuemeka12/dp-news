@@ -1,0 +1,32 @@
+{
+  "id": "ico-enforcement-actions-ee3c02b47e5e6ea6",
+  "title": "Lead Pronto Ltd",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2025-11-06",
+  "decisionDate": "2025-11-06",
+  "authorityPublicationDate": "2025-11-06",
+  "platformPublicationDate": "2025-11-06",
+  "summary": "Lead Pronto Ltd were issued with an MPN and an EN due to sending unsolicited SMS promoting Government funded boiler grants.",
+  "category": "decisions",
+  "dedupKey": "lead pronto ltd|2025-11-06",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "monetary-penalties",
+    "marketing",
+    "enforcement-notices"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2025/11/lead-pronto-ltd-1/",
+  "documentUrl": "https://ico.org.uk/media2/3gfdtyrg/monetary-penalty-notice-lead-pronto-ltd-20251106_redacted.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-ee3c02b47e5e6ea6.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 15657884,
+  "documentSha256": "c6815bda10ddbc1d9b9fb886b9a8fe714233dce1d6ede6f646ab55d40f236833",
+  "documentDownloadedAt": "2026-04-16T04:15:27.349Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/3gfdtyrg/monetary-penalty-notice-lead-pronto-ltd-20251106_redacted.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

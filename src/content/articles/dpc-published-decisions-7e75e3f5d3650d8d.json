@@ -1,0 +1,30 @@
+{
+  "id": "dpc-published-decisions-7e75e3f5d3650d8d",
+  "title": "Inquiry into Galway County Council - August 2023",
+  "source": "Irish DPC Decisions",
+  "sourceId": "dpc-published-decisions",
+  "sourceUrl": "https://www.dataprotection.ie/en/dpc-guidance/law/decisions-made-under-data-protection-act-2018",
+  "publishedDate": "2023-08-22",
+  "decisionDate": "2023-08-22",
+  "authorityPublicationDate": null,
+  "platformPublicationDate": null,
+  "summary": "This inquiry sought to assess whether Galway County Council was processing personal data in compliance with the GDPR and the Data Protection Act 2018. The inquiry examined a number of the Council’s processing operations including its use of CCTV cameras in public places used for the purposes of prosecuting crime or other purposes.",
+  "category": "decisions",
+  "dedupKey": "inquiry into galway county council august 2023|2023-08-22",
+  "tags": [
+    "ireland",
+    "dpc",
+    "case-law",
+    "gdpr"
+  ],
+  "sourceDetailUrl": "https://www.dataprotection.ie/en/dpc-guidance/law/decisions-made-under-data-protection-act-2018/inquiry-into-galway-county-council-august-2023",
+  "documentUrl": "https://www.dataprotection.ie/sites/default/files/uploads/2023-09/230822_Galway%20County%20Council%20final%20decision_Redacted.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/dpc-published-decisions/dpc-published-decisions-7e75e3f5d3650d8d.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 2757749,
+  "documentSha256": "4936f4fbb08ab116f25f213f196a40e7fcd047994c7d6ed8f6fee30dd467131d",
+  "documentDownloadedAt": "2026-06-02T13:01:18.827Z",
+  "documentDownloadError": null,
+  "originalLink": "https://www.dataprotection.ie/sites/default/files/uploads/2023-09/230822_Galway%20County%20Council%20final%20decision_Redacted.pdf",
+  "fetchedAt": "2026-04-16T04:10:42.786Z"
+}

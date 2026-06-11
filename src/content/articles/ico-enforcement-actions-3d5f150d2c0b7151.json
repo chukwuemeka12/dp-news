@@ -1,0 +1,31 @@
+{
+  "id": "ico-enforcement-actions-3d5f150d2c0b7151",
+  "title": "Bristol City Council",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2025-08-27",
+  "decisionDate": "2025-08-27",
+  "authorityPublicationDate": "2025-08-27",
+  "platformPublicationDate": "2025-08-27",
+  "summary": "The Information Commissioner’s Office (ICO) has issued an enforcement notice to Bristol City Council (BCC) for failing to comply with its legal obligations to respond to people who asked for the personal information the council held on them – known as a subject access request (SAR).",
+  "category": "decisions",
+  "dedupKey": "bristol city council|2025-08-27",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "enforcement-notices",
+    "local-government"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2025/09/bristol-city-council/",
+  "documentUrl": "https://ico.org.uk/media2/tacptiie/bristol-city-council-enforcement-notice.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-3d5f150d2c0b7151.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 302486,
+  "documentSha256": "33b023d06826a62d2eed86fef01113a5d9e144a408df0299be20e469432e3e40",
+  "documentDownloadedAt": "2026-06-11T11:35:08.298Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/tacptiie/bristol-city-council-enforcement-notice.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

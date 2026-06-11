@@ -40,6 +40,12 @@ jobs:
       - name: Fetch enforcement tracker updates
         run: npm run fetch:enforcement
 
+      - name: Fetch official decision sources
+        run: npm run fetch:official-decisions
+
+      - name: Download official decision documents
+        run: npm run download:official-documents
+
       - name: Build site
         run: npm run build
 
@@ -52,6 +58,9 @@ jobs:
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add src/content/articles src/content/system/status.json
+          git add public/decision-documents src/content/articles src/content/system/status.json
           git commit -m "chore: refresh aggregated content"
           git push
+
+      - name: Check feed health
+        run: npm run monitor:feeds

@@ -1,0 +1,31 @@
+{
+  "id": "ico-enforcement-actions-1a94295094a2933f",
+  "title": "NHS National Services Scotland (NHS NSS)",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2022-02-24",
+  "decisionDate": "2022-02-24",
+  "authorityPublicationDate": "2022-02-24",
+  "platformPublicationDate": "2022-02-24",
+  "summary": "NHS National Services Scotland (NHS NSS) has been issued with a reprimand in accordance with Article 58(2)(b) of the UK General Data Protection Regulation.",
+  "category": "decisions",
+  "dedupKey": "nhs national services scotland nhs nss|2022-02-24",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "reprimands",
+    "health"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2022/02/nhs-national-services-scotland-nhs-nss/",
+  "documentUrl": "https://ico.org.uk/media2/ojaaev2o/sg-nhs-nss-reprimand-20220224.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-1a94295094a2933f.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 122904,
+  "documentSha256": "3e5b837e65c0d9e90b50cff75a10be1ee68bb9c95b62f8f8606f54fb9cc4970d",
+  "documentDownloadedAt": "2026-04-16T04:18:24.921Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/ojaaev2o/sg-nhs-nss-reprimand-20220224.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

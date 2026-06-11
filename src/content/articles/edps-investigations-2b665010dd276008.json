@@ -1,0 +1,31 @@
+{
+  "id": "edps-investigations-2b665010dd276008",
+  "title": "Criminal assistance cases - OLAF",
+  "source": "EDPS Investigations",
+  "sourceId": "edps-investigations",
+  "sourceUrl": "https://www.edps.europa.eu/data-protection/our-work/subjects/privacy-eu-institutions/investigations_en",
+  "publishedDate": "2007-10-12",
+  "decisionDate": "2007-10-12",
+  "authorityPublicationDate": "2007-10-12",
+  "platformPublicationDate": "2007-10-12",
+  "summary": "Opinion of 12 October 2007 on a notification for prior checking on criminal assistance cases (Case 2007-203)",
+  "category": "decisions",
+  "dedupKey": "criminal assistance cases olaf|2007-10-12",
+  "tags": [
+    "eu",
+    "edps",
+    "investigations",
+    "case-law",
+    "privacy-in-the-eu-institutions"
+  ],
+  "sourceDetailUrl": "https://www.edps.europa.eu/data-protection/our-work/publications/opinions-prior-check-and-prior-consultations/criminal_en",
+  "documentUrl": "https://www.edps.europa.eu/sites/default/files/publication/07-10-12_olaf_criminal_assistance_cases_en.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/edps-investigations/edps-investigations-2b665010dd276008.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 148987,
+  "documentSha256": "f0c0a582a2de671f824f9c70d79e170fbadf8c9f44ee06aa6de379dbe3a44846",
+  "documentDownloadedAt": "2026-04-05T14:22:07.301Z",
+  "documentDownloadError": null,
+  "originalLink": "https://www.edps.europa.eu/sites/default/files/publication/07-10-12_olaf_criminal_assistance_cases_en.pdf",
+  "fetchedAt": "2026-06-10T20:10:49.951Z"
+}

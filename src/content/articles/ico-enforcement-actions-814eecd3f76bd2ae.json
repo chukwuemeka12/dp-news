@@ -1,0 +1,31 @@
+{
+  "id": "ico-enforcement-actions-814eecd3f76bd2ae",
+  "title": "Finham Park Multi Academy Trust",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2023-12-07",
+  "decisionDate": "2023-12-07",
+  "authorityPublicationDate": "2023-12-07",
+  "platformPublicationDate": "2023-12-07",
+  "summary": "Finham Park Multi Academy Trust have been issued a Reprimand in respect of Articles 5 (1) (f) and 32 (1) (b). An unauthorised third party utilised compromised credentials to access and encrypt Finham Park’s systems. 1843 UK Data Subjects were affected by the incident, and the ICO’s investigation found Finham Park did not have adequate acc...",
+  "category": "decisions",
+  "dedupKey": "finham park multi academy trust|2023-12-07",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "reprimands",
+    "education-and-childcare"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2023/12/finham-park-multi-academy-trust/",
+  "documentUrl": "https://ico.org.uk/media2/migrated/4027664/reprimand-finham-park-multi-academy-trust.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-814eecd3f76bd2ae.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 156000,
+  "documentSha256": "4dc53cc9c1756f86c6ab37f915b171714565d7c0a4a50d97a7cb064b2daf6300",
+  "documentDownloadedAt": "2026-04-16T04:16:47.606Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/migrated/4027664/reprimand-finham-park-multi-academy-trust.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

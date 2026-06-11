@@ -1,0 +1,31 @@
+{
+  "id": "ico-enforcement-actions-826be48a7cea80b4",
+  "title": "SA Assistance Ltd",
+  "source": "UK ICO Enforcement Action",
+  "sourceId": "ico-enforcement-actions",
+  "sourceUrl": "https://ico.org.uk/action-weve-taken/enforcement/",
+  "publishedDate": "2026-04-21",
+  "decisionDate": "2026-04-21",
+  "authorityPublicationDate": "2026-04-21",
+  "platformPublicationDate": "2026-04-21",
+  "summary": "Contravention of Regulation 21A and 24 of the PECR. SA Assistance Ltd instigated calls to individuals about claims management services without consent.",
+  "category": "decisions",
+  "dedupKey": "sa assistance ltd|2026-04-21",
+  "tags": [
+    "uk",
+    "ico",
+    "enforcement",
+    "enforcement-notices",
+    "general-business"
+  ],
+  "sourceDetailUrl": "https://ico.org.uk/action-weve-taken/enforcement/2026/04/sa-assistance-ltd/",
+  "documentUrl": "https://ico.org.uk/media2/2y1f34ia/enforcement-notice-sa-assistance-ltd.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/ico-enforcement-actions/ico-enforcement-actions-826be48a7cea80b4.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 524784,
+  "documentSha256": "b733e01b8719b3571a6fa85fabdfcfafbf99f0bd36cf513163a8cb3f54e677f5",
+  "documentDownloadedAt": "2026-06-11T11:34:12.205Z",
+  "documentDownloadError": null,
+  "originalLink": "https://ico.org.uk/media2/2y1f34ia/enforcement-notice-sa-assistance-ltd.pdf",
+  "fetchedAt": "2026-06-11T11:30:09.839Z"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "opc-canada-pipeda-investigations-509c1635cf3349b5",
+  "title": "Life insurance company employs best practices in responding to mass mailing error that risked exposing personal information",
+  "source": "Canada OPC Business Investigations",
+  "sourceId": "opc-canada-pipeda-investigations",
+  "sourceUrl": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/",
+  "publishedDate": "2015-03-31",
+  "decisionDate": "2014-03-21",
+  "authorityPublicationDate": "2014-03-21",
+  "platformPublicationDate": "2015-03-31",
+  "summary": "A life insurance company became aware that the personal information of 53 of its pension plan members may have been exposed to others through the mail. The insurance company was using a new type of window envelope to mail plan members their options statement document. The window of the new envelope was larger than that used previously for...",
+  "category": "decisions",
+  "dedupKey": "life insurance company employs best practices in responding to mass mailing error that risked exposing personal information|2014-03-21",
+  "tags": [
+    "canada",
+    "opc",
+    "pipeda",
+    "investigations",
+    "incident-summary-5"
+  ],
+  "sourceDetailUrl": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/incidents/2014/005_140321/",
+  "documentUrl": null,
+  "localDocumentUrl": null,
+  "documentContentType": null,
+  "documentSizeBytes": null,
+  "documentSha256": null,
+  "documentDownloadedAt": null,
+  "documentDownloadError": null,
+  "originalLink": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/incidents/2014/005_140321/",
+  "fetchedAt": "2026-06-10T20:08:43.678Z"
+}

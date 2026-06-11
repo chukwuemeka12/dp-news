@@ -1,0 +1,33 @@
+{
+  "id": "opc-canada-pipeda-investigations-0a3f081192f810ca",
+  "title": "Access request ignored, but no personal information existed",
+  "source": "Canada OPC Business Investigations",
+  "sourceId": "opc-canada-pipeda-investigations",
+  "sourceUrl": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/",
+  "publishedDate": "2004-11-24",
+  "decisionDate": "2004-06-05",
+  "authorityPublicationDate": "2004-06-05",
+  "platformPublicationDate": "2004-11-24",
+  "summary": "A doctor complained to us that his request for access to his personal information made to a professional organization went unheeded. The complainant was supposed to have been the subject of a talk at a conference by a member of the organization (he had been involved in a court case which was to be discussed). He wanted access to the infor...",
+  "category": "decisions",
+  "dedupKey": "access request ignored but no personal information existed|2004-06-05",
+  "tags": [
+    "canada",
+    "opc",
+    "pipeda",
+    "investigations",
+    "early-resolved-case-summary-1",
+    "resolved",
+    "early-resolved"
+  ],
+  "sourceDetailUrl": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/ser/2004/er_040605/",
+  "documentUrl": null,
+  "localDocumentUrl": null,
+  "documentContentType": null,
+  "documentSizeBytes": null,
+  "documentSha256": null,
+  "documentDownloadedAt": null,
+  "documentDownloadError": null,
+  "originalLink": "https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/investigations-into-businesses/ser/2004/er_040605/",
+  "fetchedAt": "2026-06-10T20:08:43.678Z"
+}

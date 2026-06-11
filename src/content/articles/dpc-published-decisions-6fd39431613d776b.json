@@ -1,0 +1,30 @@
+{
+  "id": "dpc-published-decisions-6fd39431613d776b",
+  "title": "Inquiry into Maynooth University",
+  "source": "Irish DPC Decisions",
+  "sourceId": "dpc-published-decisions",
+  "sourceUrl": "https://www.dataprotection.ie/en/dpc-guidance/law/decisions-made-under-data-protection-act-2018",
+  "publishedDate": "2024-11-22",
+  "decisionDate": "2024-11-22",
+  "authorityPublicationDate": null,
+  "platformPublicationDate": null,
+  "summary": "This decision arises from an own-volition inquiry that the DPC commenced in July 2019. The inquiry related a personal data breach notified by Maynooth University in November 2018. Corrective measures: a reprimand to Maynooth University in respect of the infringements identified, an administrative fine of €25,000 in respect of the infringe...",
+  "category": "decisions",
+  "dedupKey": "inquiry into maynooth university|2024-11-22",
+  "tags": [
+    "ireland",
+    "dpc",
+    "case-law",
+    "enforcement"
+  ],
+  "sourceDetailUrl": "https://www.dataprotection.ie/en/dpc-guidance/law/decisions-made-under-data-protection-act-2018/inquiry-maynooth-university",
+  "documentUrl": "https://www.dataprotection.ie/sites/default/files/uploads/2025-02/MU%20Final%20Decision%20IN-19-9-3_Redacted.pdf",
+  "localDocumentUrl": "/decision-documents/official-decisions/dpc-published-decisions/dpc-published-decisions-6fd39431613d776b.pdf",
+  "documentContentType": "application/pdf",
+  "documentSizeBytes": 1415791,
+  "documentSha256": "0fedb7b8ea00fb5230728f0736d81abef6af18b5a744cdabe6f70470f0cb6d2d",
+  "documentDownloadedAt": "2026-06-02T13:00:33.412Z",
+  "documentDownloadError": null,
+  "originalLink": "https://www.dataprotection.ie/sites/default/files/uploads/2025-02/MU%20Final%20Decision%20IN-19-9-3_Redacted.pdf",
+  "fetchedAt": "2026-04-16T04:10:42.786Z"
+}
